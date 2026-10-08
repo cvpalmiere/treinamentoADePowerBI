@@ -1,0 +1,21 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Suspeito {
+  id                Int       @id
+  nome              String
+  profissao         String?
+  alturaCm          Int?      @map("altura_cm")
+  corCabelo         String?   @map("cor_cabelo")
+  temTatuagem       Boolean?  @map("tem_tatuagem")
+  dataNascimento    DateTime? @map("data_nascimento") @db.Date
+  ultimaCidade      String?   @map("ultima_cidade")
+  valorGastoViagens Int?      @map("valor_gasto_viagens")
+
+  @@map("suspeitos")
+}
