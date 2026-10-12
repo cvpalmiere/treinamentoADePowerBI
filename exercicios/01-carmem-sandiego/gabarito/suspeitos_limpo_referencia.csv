@@ -1,0 +1,2001 @@
+﻿id;nome;profissao;altura_cm;cor_cabelo;tem_tatuagem;data_nascimento;ultima_cidade;valor_gasto_viagens
+1;Carlos Araujo Pinto;Chef De Cozinha;170;Grisalho;1;1991-06-01;Lisboa;13675
+2;Jose Pereira Ribeiro;Engenheiro;175;Loiro;0;1956-01-07;Viena;11267
+3;Juliana Dias Carvalho;Chef De Cozinha;174;Ruivo;0;2003-05-23;Atenas;3469
+4;Fernanda Pereira Rodrigues;Jornalista;165;Loiro;0;1951-03-30;Buenos Aires;22147
+5;Lucas Pereira Barbosa;Contador;170;Grisalho;0;1968-08-19;Cairo;5929
+6;Thiago Carvalho Nunes;Engenheiro;170;Castanho;0;1952-11-03;Paris;2045
+7;Tatiane Goncalves Alves;Professor;171;Castanho;0;1993-01-24;Roma;39678
+8;Gustavo Barbosa Montes;Medico;169;Preto;0;1967-03-09;Madrid;9168
+9;Rafael Ribeiro Mendes;Medico;162;Preto;0;2000-02-20;Viena;2146
+10;Diego Teixeira Silva;Advogado;176;Preto;0;1999-05-07;Cairo;39008
+11;Camila Araujo Lima;Engenheiro;173;Ruivo;1;1969-06-13;Berlim;8745
+12;Fernanda Fernandes Ribeiro;Guia Turistico;170;Loiro;0;1986-02-21;Cairo;57250
+13;Lucas Moreira Vieira;Guia Turistico;176;Castanho;1;2004-11-21;Roma;26304
+14;Rafael Lopes Gomes;Engenheiro;187;Castanho;0;1957-07-06;Viena;10786
+15;Luiza Martins Ribeiro;Fotografo;173;Ruivo;0;1999-04-26;Bogota;6042
+16;Juliana Ferreira Cardoso;Professor;162;Grisalho;1;1984-02-14;Roma;56611
+17;Lucas Araujo Pereira;Guia Turistico;167;Ruivo;0;1951-03-20;Nova York;19650
+18;Bruno Carvalho Alves;Jornalista;154;Castanho;0;1967-11-26;Buenos Aires;8744
+19;Felipe Araujo Rocha;Advogado;173;Loiro;0;1980-06-03;Bogota;11851
+20;Jose Santos Vieira;Fotografo;152;Preto;0;1952-03-31;Cidade Do Mexico;12419
+21;Thiago Cardoso Mendes;Musico;160;Preto;0;1979-11-07;Viena;14586
+22;Fernanda Gomes Lopes;Advogado;151;Preto;0;1973-11-23;Praga;28593
+23;Marcelo Barbosa Rocha;Fotografo;177;Loiro;0;1978-11-30;Praga;22105
+24;Camila Monteiro Costa;Designer;182;Preto;1;1975-02-01;Cidade Do Mexico;18083
+25;Maria Teixeira Martins;Medico;186;Preto;1;1992-07-31;Bogota;5956
+26;Gustavo Costa Santos;Medico;170;Loiro;0;1961-09-11;Roma;2201
+27;Vanessa Cardoso Ferreira;Guia Turistico;158;Preto;0;1970-06-14;Cairo;7533
+28;Beatriz Barbosa Costa;Designer;179;Preto;0;1976-04-24;Lisboa;63673
+29;Aline Rodrigues Rocha;Medico;180;Loiro;1;1970-06-12;Viena;6188
+30;Ana Silva Goncalves;Contador;164;Ruivo;1;1980-05-27;Roma;11516
+31;Juliana Ferreira Ribeiro;Engenheiro;159;Preto;0;1979-08-20;Berlim;4139
+32;Juliana Santos Alves;Musico;169;Loiro;0;1975-04-29;Istambul;15402
+33;Vanessa Teixeira Costa;Musico;182;Castanho;0;1954-01-19;Lisboa;4575
+34;Lucas Oliveira Souza;Guia Turistico;168;Grisalho;0;1982-09-13;Roma;13150
+35;Diego Oliveira Montes;Professor;172;Castanho;1;1955-10-28;Cairo;5956
+36;Marcelo Teixeira Pereira;Jornalista;159;Preto;0;1997-09-30;Cairo;17699
+37;Aline Mendes Ribeiro;Chef De Cozinha;166;Loiro;1;1955-05-13;Viena;55681
+38;Fernanda Montes Fernandes;Chef De Cozinha;194;Loiro;1;1977-03-02;Buenos Aires;8800
+39;Tatiane Nunes Rocha;Medico;175;Castanho;1;1985-05-20;Cidade Do Mexico;33116
+40;Bruno Pinto Oliveira;Piloto;166;Ruivo;0;1979-03-05;Istambul;36734
+41;Maria Goncalves Ribeiro;Chef De Cozinha;177;Preto;0;1959-09-30;Roma;6371
+42;Tatiane Cardoso Montes;Medico;160;Castanho;1;1968-02-13;Praga;3575
+43;Aline Rocha Lopes;Jornalista;157;Ruivo;0;1972-12-13;Bogota;9329
+44;Gustavo Lima Oliveira;Chef De Cozinha;161;Grisalho;1;1985-05-20;Viena;10014
+45;Pedro Costa Barbosa;Contador;173;Preto;0;1974-01-08;Roma;66639
+46;Bruno Cardoso Moreira;Jornalista;177;Grisalho;1;1984-05-25;Berlim;23154
+47;Sonia Oliveira Alves;Jornalista;172;Grisalho;0;1974-07-15;Paris;10469
+48;Fernanda Carvalho Souza;Professor;188;Castanho;0;1952-08-31;Atenas;13672
+49;Luiza Gomes Silva;Contador;159;Grisalho;0;1987-02-12;Roma;16605
+50;Vanessa Nunes Rodrigues;Advogado;172;Castanho;1;1999-11-21;Roma;6363
+51;Pedro Costa Cardoso;Fotografo;178;Loiro;0;1995-11-21;Lisboa;6185
+52;Maria Nunes Ferreira;Musico;165;Loiro;1;1988-04-20;Buenos Aires;12798
+53;Monica Vieira Souza;Fotografo;170;Loiro;0;2000-07-25;Cairo;47557
+54;Maria Montes Dias;Chef De Cozinha;150;Ruivo;0;1976-11-23;Cairo;21315
+55;Camila Silva Oliveira;Fotografo;165;Loiro;0;1980-07-01;Istambul;10314
+56;Rodrigo Ribeiro Santos;Piloto;170;Loiro;1;2004-07-30;Atenas;41692
+57;Vanessa Barbosa Rocha;Fotografo;146;Ruivo;1;1968-04-05;Cairo;12762
+58;Larissa Moreira Mendes;Designer;180;Grisalho;0;1967-05-09;Nova York;6073
+59;Tatiane Santos Moreira;Fotografo;168;Ruivo;0;1960-05-27;Atenas;24324
+60;Aline Gomes Alves;Guia Turistico;161;Grisalho;0;1999-10-14;Cairo;8785
+61;Ana Lopes Montes;Piloto;176;Loiro;0;1984-09-28;Cairo;37535
+62;Joao Alves Pinto;Engenheiro;170;Castanho;0;1958-05-24;Bogota;27361
+63;Pedro Rodrigues Barbosa;Fotografo;169;Castanho;0;1995-07-08;Lisboa;9355
+64;Thiago Barbosa Fernandes;Fotografo;151;Grisalho;0;1967-02-16;Atenas;4958
+65;Monica Gomes Martins;Chef De Cozinha;166;Loiro;0;2000-05-01;Toquio;4602
+66;Jose Moreira Monteiro;Fotografo;167;Preto;0;1955-09-07;Toquio;23662
+67;Renata Vieira Gomes;Jornalista;171;Loiro;0;1995-02-05;Cairo;38276
+68;Larissa Montes Vieira;Fotografo;187;Ruivo;0;2001-09-27;Berlim;2987
+69;Ana Montes Souza;Medico;151;Grisalho;0;1993-07-18;Cidade Do Mexico;17882
+70;Eduardo Rodrigues Fernandes;Contador;177;Grisalho;0;1995-01-21;Istambul;11718
+71;Maria Rocha Nunes;Guia Turistico;176;Preto;1;1954-07-13;Toquio;6111
+72;Thiago Carvalho Teixeira;Contador;183;Grisalho;0;1968-02-21;Berlim;48000
+73;Patricia Lima Ferreira;Contador;182;Ruivo;0;1970-07-24;Viena;10723
+74;Thiago Araujo Martins;Jornalista;162;Ruivo;0;1966-02-08;Nova York;7659
+75;Monica Montes Moreira;Chef De Cozinha;158;Castanho;0;1985-07-04;Lisboa;13753
+76;Diego Teixeira Dias;Contador;159;Loiro;0;1993-10-03;Nova York;41228
+77;Thiago Vieira Lima;Engenheiro;163;Loiro;0;1973-12-06;Madrid;4858
+78;Larissa Silva Vieira;Guia Turistico;168;Castanho;0;1986-08-13;Viena;10091
+79;Gustavo Alves Dias;Medico;170;Loiro;1;1969-11-28;Istambul;30141
+80;Renata Rocha Silva;Medico;171;Ruivo;0;1998-02-08;Madrid;24229
+81;Thiago Dias Lima;Chef De Cozinha;180;Ruivo;1;1966-07-14;Cidade Do Mexico;4924
+82;Thiago Ribeiro Goncalves;Guia Turistico;171;Ruivo;0;1995-06-08;Bogota;82481
+83;Jose Ribeiro Carvalho;Jornalista;164;Grisalho;1;1978-08-02;Bogota;7637
+84;Felipe Lima Rocha;Designer;167;Castanho;1;1963-07-24;Praga;25717
+85;Ana Ribeiro Gomes;Professor;164;Loiro;0;2000-08-24;Berlim;4398
+86;Eduardo Barbosa Araujo;Guia Turistico;163;Preto;0;2001-07-18;Paris;7701
+87;Ana Moreira Lima;Advogado;176;Castanho;1;1957-10-25;Istambul;75707
+88;Jose Moreira Ferreira;Medico;174;Ruivo;0;1962-02-27;Buenos Aires;69745
+89;Diego Dias Souza;Advogado;171;Loiro;0;1980-08-07;Berlim;33643
+90;Pedro Carvalho Gomes;Jornalista;181;Loiro;0;1974-03-04;Atenas;26064
+91;Beatriz Fernandes Teixeira;Fotografo;164;Preto;0;1988-02-11;Lisboa;7519
+92;Aline Montes Pinto;Jornalista;169;Preto;0;1985-02-25;Madrid;12735
+93;Renata Carvalho Alves;Fotografo;158;Loiro;0;1958-09-24;Berlim;16240
+94;Rafael Pereira Carvalho;Contador;166;Loiro;0;1979-07-15;Berlim;12344
+95;Pedro Santos Dias;Professor;173;Castanho;0;1962-03-13;Roma;39541
+96;Pedro Dias Lima;Musico;161;Ruivo;0;1990-11-05;Viena;26889
+97;Tatiane Rocha Mendes;Professor;175;Grisalho;0;2000-05-14;Buenos Aires;14620
+98;Eduardo Dias Montes;Engenheiro;178;Ruivo;0;1996-12-16;Atenas;21355
+99;Lucas Santos Gomes;Jornalista;176;Ruivo;1;1958-03-05;Nova York;5183
+100;Pedro Lima Oliveira;Medico;175;Castanho;0;2000-03-13;Cairo;10011
+101;Aline Martins Ferreira;Professor;173;Ruivo;0;2002-12-16;Praga;7480
+102;Diego Pereira Araujo;Professor;162;Castanho;0;1977-09-29;Praga;53069
+103;Eduardo Monteiro Moreira;Engenheiro;163;Preto;1;1969-10-17;Lisboa;14488
+104;Sonia Ribeiro Goncalves;Advogado;179;Grisalho;0;1970-11-04;Lisboa;8995
+105;Gustavo Barbosa Barbosa;Chef De Cozinha;171;Preto;0;2001-03-05;Cidade Do Mexico;1350
+106;Gustavo Fernandes Vieira;Jornalista;187;Ruivo;1;1995-06-11;Praga;21788
+107;Pedro Martins Cardoso;Designer;190;Preto;0;1972-12-17;Bogota;19536
+108;Felipe Ribeiro Costa;Fotografo;165;Castanho;1;2003-09-04;Cidade Do Mexico;9679
+109;Ana Goncalves Oliveira;Professor;182;Loiro;0;1955-04-16;Toquio;81790
+110;Bruno Vieira Cardoso;Chef De Cozinha;176;Castanho;0;1979-03-26;Berlim;27914
+111;Andre Barbosa Teixeira;Designer;168;Castanho;0;1965-06-24;Madrid;153198
+112;Lucas Pereira Monteiro;Medico;184;Preto;0;1982-09-18;Nova York;24013
+113;Eduardo Araujo Araujo;Designer;179;Grisalho;0;1994-11-14;Cairo;40358
+114;Felipe Cardoso Barbosa;Chef De Cozinha;172;Ruivo;0;1959-02-15;Bogota;34237
+115;Felipe Fernandes Rocha;Piloto;165;Ruivo;0;1961-08-23;Lisboa;21690
+116;Fernanda Dias Oliveira;Piloto;168;Ruivo;1;1957-04-29;Toquio;6994
+117;Andre Lima Alves;Fotografo;179;Grisalho;0;1966-06-26;Nova York;26879
+118;Aline Silva Alves;Jornalista;175;Loiro;0;1993-12-15;Nova York;14441
+119;Jose Monteiro Fernandes;Advogado;176;Castanho;0;1963-08-23;Cairo;16711
+120;Eduardo Fernandes Carvalho;Piloto;157;Grisalho;0;1985-07-19;Madrid;35809
+121;Sonia Costa Dias;Guia Turistico;154;Preto;0;1955-07-25;Buenos Aires;19433
+122;Larissa Goncalves Goncalves;Engenheiro;160;Grisalho;0;1970-05-16;Roma;13882
+123;Beatriz Martins Ferreira;Musico;170;Ruivo;0;2002-01-16;Paris;7262
+124;Camila Ribeiro Alves;Professor;162;Loiro;0;2003-06-30;Istambul;10549
+125;Ana Rocha Ferreira;Jornalista;172;Preto;0;1993-01-17;Toquio;7124
+126;Andre Barbosa Mendes;Advogado;168;Grisalho;1;1969-05-10;Bogota;20235
+127;Vanessa Goncalves Mendes;Musico;163;Preto;0;1979-03-25;Paris;23229
+128;Jose Ferreira Carvalho;Advogado;178;Grisalho;0;2000-12-05;Cairo;41489
+129;Gustavo Martins Monteiro;Advogado;168;Castanho;1;2004-07-26;Toquio;31827
+130;Luiza Souza Teixeira;Piloto;166;Preto;0;1952-03-19;Lisboa;50581
+131;Jose Gomes Moreira;Advogado;165;Preto;0;2004-10-03;Atenas;19382
+132;Thiago Carvalho Silva;Musico;184;Grisalho;0;1982-12-15;Toquio;28621
+133;Joao Martins Lima;Piloto;164;Preto;1;1986-01-18;Istambul;34179
+134;Bruno Costa Rodrigues;Guia Turistico;171;Grisalho;0;1983-01-10;Toquio;15750
+135;Monica Costa Rocha;Piloto;174;Grisalho;0;1974-03-26;Cidade Do Mexico;4015
+136;Bruno Rocha Santos;Designer;163;Castanho;0;1986-12-13;Berlim;28458
+137;Diego Costa Ferreira;Guia Turistico;176;Ruivo;1;1979-01-06;Viena;12646
+138;Vanessa Ribeiro Ferreira;Fotografo;170;Grisalho;0;1965-12-31;Atenas;15419
+139;Fernanda Lopes Nunes;Jornalista;184;Grisalho;0;1974-03-15;Bogota;7889
+140;Fernanda Monteiro Carvalho;Musico;161;Ruivo;1;1963-09-18;Lisboa;5114
+141;Rodrigo Santos Dias;Contador;164;Grisalho;0;1956-08-28;Berlim;9167
+142;Marcelo Costa Cardoso;Chef De Cozinha;163;Ruivo;0;1970-04-13;Roma;3963
+143;Jose Costa Lima;Professor;173;Castanho;0;1963-04-30;Nova York;4787
+144;Beatriz Dias Mendes;Engenheiro;172;Loiro;1;1991-12-09;Paris;3738
+145;Rafael Alves Moreira;Fotografo;166;Ruivo;0;1991-01-23;Cairo;3755
+146;Jose Goncalves Souza;Professor;174;Ruivo;1;1951-04-03;Atenas;17121
+147;Maria Lopes Teixeira;Musico;176;Grisalho;0;2002-05-30;Lisboa;6264
+148;Patricia Cardoso Ribeiro;Medico;154;Castanho;1;1962-09-10;Toquio;4530
+149;Sonia Martins Rocha;Designer;170;Preto;0;1951-04-10;Atenas;18563
+150;Ana Fernandes Barbosa;Professor;158;Castanho;1;1950-12-05;Praga;9623
+151;Ana Dias Lopes;Advogado;162;Castanho;0;1994-01-18;Madrid;32727
+152;Pedro Alves Silva;Engenheiro;164;Loiro;0;1986-03-11;Atenas;49359
+153;Sonia Pereira Gomes;Contador;163;Preto;0;1997-03-30;Nova York;14549
+154;Maria Ferreira Fernandes;Jornalista;172;Preto;0;1999-07-12;Cidade Do Mexico;15575
+155;Juliana Mendes Monteiro;Chef De Cozinha;180;Ruivo;1;1958-08-04;Paris;22441
+156;Beatriz Moreira Nunes;Advogado;178;Preto;1;1993-03-27;Cairo;8998
+157;Diego Araujo Lima;Piloto;161;Ruivo;0;1973-02-26;Bogota;14281
+158;Camila Souza Fernandes;Medico;178;Castanho;0;1986-02-28;Paris;10977
+159;Eduardo Ferreira Gomes;Guia Turistico;176;Castanho;0;1999-12-06;Roma;12342
+160;Renata Dias Silva;Guia Turistico;159;Ruivo;0;1952-08-02;Viena;10354
+161;Ana Silva Barbosa;Designer;179;Loiro;0;1967-02-26;Cairo;7342
+162;Rodrigo Silva Lima;Designer;167;Loiro;0;1971-09-23;Bogota;2371
+163;Marcelo Souza Cardoso;Engenheiro;168;Ruivo;0;1964-11-21;Atenas;9716
+164;Juliana Lima Vieira;Medico;168;Preto;1;1981-11-24;Berlim;43239
+165;Luiza Santos Lima;Professor;160;Ruivo;0;1993-09-29;Toquio;12703
+166;Camila Ferreira Martins;Chef De Cozinha;159;Grisalho;0;1975-06-25;Paris;8286
+167;Tatiane Teixeira Cardoso;Piloto;180;Preto;0;1981-03-09;Bogota;11884
+168;Carlos Goncalves Martins;Designer;173;Grisalho;0;2003-10-04;Paris;8684
+169;Monica Mendes Lopes;Professor;162;Castanho;0;1958-10-30;Roma;92792
+170;Joao Cardoso Ferreira;Guia Turistico;175;Ruivo;1;1969-02-09;Cidade Do Mexico;9818
+171;Andre Pinto Santos;Musico;151;Ruivo;1;1955-03-23;Viena;2637
+172;Gustavo Mendes Montes;Engenheiro;165;Loiro;1;1962-12-15;Lisboa;3218
+173;Jose Moreira Dias;Piloto;157;Castanho;0;1997-01-29;Paris;8191
+174;Juliana Martins Silva;Contador;174;Preto;0;1970-09-15;Paris;103744
+175;Vanessa Lima Teixeira;Musico;168;Preto;1;1951-07-18;Toquio;3617
+176;Thiago Lopes Santos;Professor;177;Castanho;1;1990-10-02;Cidade Do Mexico;47428
+177;Thiago Costa Pereira;Medico;164;Ruivo;0;1975-09-09;Roma;1934
+178;Larissa Souza Cardoso;Piloto;176;Ruivo;0;1979-01-14;Nova York;1408
+179;Patricia Lopes Fernandes;Fotografo;160;Grisalho;1;1965-12-05;Paris;12474
+180;Lucas Gomes Rocha;Engenheiro;166;Loiro;0;1960-09-16;Paris;33237
+181;Felipe Silva Moreira;Medico;182;Preto;0;1982-01-01;Praga;14503
+182;Rafael Fernandes Martins;Advogado;166;Ruivo;0;1997-06-10;Lisboa;6799
+183;Fernanda Pereira Rodrigues;Advogado;179;Preto;0;1991-04-08;Atenas;10564
+184;Felipe Monteiro Silva;Jornalista;171;Loiro;0;1963-09-17;Lisboa;3795
+185;Ana Fernandes Fernandes;Advogado;174;Castanho;0;1963-12-11;Cairo;35953
+186;Rafael Carvalho Montes;Professor;155;Loiro;1;1991-03-06;Atenas;40373
+187;Bruno Gomes Ribeiro;Professor;175;Grisalho;0;1972-08-23;Atenas;19784
+188;Sonia Oliveira Moreira;Medico;166;Loiro;0;1954-08-24;Toquio;23713
+189;Bruno Moreira Ferreira;Advogado;162;Grisalho;1;1952-10-20;Toquio;22085
+190;Maria Montes Goncalves;Contador;169;Loiro;0;1962-12-19;Madrid;13487
+191;Joao Barbosa Alves;Contador;159;Preto;1;1991-10-11;Berlim;8502
+192;Thiago Gomes Barbosa;Contador;176;Loiro;0;1958-02-28;Viena;41138
+193;Tatiane Ribeiro Pinto;Fotografo;165;Grisalho;1;1986-01-27;Istambul;12591
+194;Sonia Santos Teixeira;Jornalista;162;Grisalho;0;1969-07-16;Berlim;3469
+195;Jose Costa Rocha;Jornalista;177;Ruivo;0;1959-04-09;Bogota;13336
+196;Rafael Dias Cardoso;Advogado;183;Grisalho;0;1964-08-02;Lisboa;17789
+197;Lucas Nunes Fernandes;Designer;182;Grisalho;0;1957-01-14;Cidade Do Mexico;60792
+198;Tatiane Moreira Lima;Piloto;169;Ruivo;0;2002-03-11;Atenas;12449
+199;Ana Pereira Gomes;Guia Turistico;171;Preto;0;1958-04-02;Praga;18577
+200;Sonia Ribeiro Souza;Fotografo;177;Grisalho;0;1989-11-02;Viena;48184
+201;Rodrigo Ferreira Monteiro;Professor;171;Loiro;1;1975-09-28;Bogota;87772
+202;Camila Cardoso Monteiro;Advogado;181;Ruivo;0;1952-03-28;Atenas;10813
+203;Carlos Martins Pinto;Engenheiro;158;Grisalho;0;1978-09-07;Praga;2431
+204;Eduardo Vieira Oliveira;Musico;177;Loiro;1;1954-01-10;Viena;22726
+205;Jose Nunes Rocha;Medico;166;Castanho;1;1961-04-30;Viena;11005
+206;Monica Rocha Costa;Fotografo;149;Ruivo;1;1952-07-18;Istambul;3488
+207;Fernanda Vieira Carvalho;Contador;156;Ruivo;1;1988-10-06;Berlim;4868
+208;Sonia Ferreira Gomes;Professor;178;Grisalho;0;1987-09-25;Istambul;12591
+209;Monica Araujo Silva;Contador;159;Preto;0;1964-09-17;Viena;16244
+210;Aline Lopes Monteiro;Advogado;173;Preto;1;2002-06-05;Praga;6767
+211;Fernanda Monteiro Carvalho;Chef De Cozinha;180;Preto;0;1972-07-28;Roma;7588
+212;Carlos Rocha Alves;Medico;170;Preto;0;1951-03-29;Viena;18696
+213;Bruno Pinto Monteiro;Engenheiro;173;Ruivo;0;1985-01-29;Toquio;47636
+214;Sonia Teixeira Souza;Contador;161;Preto;1;1950-06-29;Atenas;3169
+215;Pedro Pinto Pinto;Engenheiro;161;Preto;1;1973-11-06;Nova York;43046
+216;Andre Cardoso Rocha;Advogado;170;Loiro;1;2002-09-21;Lisboa;3120
+217;Vanessa Rodrigues Ribeiro;Musico;163;Preto;0;2002-01-26;Nova York;9508
+218;Pedro Vieira Cardoso;Contador;174;Ruivo;0;1973-08-01;Madrid;7032
+219;Pedro Pereira Barbosa;Chef De Cozinha;168;Grisalho;1;1955-10-02;Toquio;69818
+220;Diego Oliveira Martins;Advogado;153;Castanho;0;1999-08-10;Istambul;10325
+221;Thiago Dias Goncalves;Jornalista;166;Preto;0;2002-03-17;Praga;21896
+222;Beatriz Carvalho Teixeira;Musico;159;Loiro;0;1972-04-13;Paris;17344
+223;Bruno Goncalves Dias;Advogado;178;Castanho;1;2001-04-10;Paris;1767
+224;Lucas Lopes Santos;Designer;167;Loiro;0;1975-12-03;Buenos Aires;15273
+225;Juliana Ribeiro Dias;Advogado;169;Preto;1;1996-05-14;Viena;5390
+226;Eduardo Costa Nunes;Piloto;173;Grisalho;1;1953-11-03;Buenos Aires;7932
+227;Diego Martins Ribeiro;Designer;173;Castanho;0;1974-06-22;Istambul;12764
+228;Monica Souza Fernandes;Designer;155;Loiro;0;1964-12-18;Cidade Do Mexico;16547
+229;Rafael Mendes Martins;Jornalista;192;Castanho;0;1975-01-24;Cairo;49794
+230;Lucas Dias Oliveira;Engenheiro;151;Grisalho;1;1955-12-30;Istambul;40485
+231;Pedro Souza Fernandes;Advogado;178;Ruivo;0;1958-04-07;Viena;7090
+232;Renata Martins Goncalves;Piloto;162;Ruivo;0;1989-03-19;Toquio;70061
+233;Marcelo Carvalho Barbosa;Engenheiro;181;Preto;0;1952-03-04;Istambul;18309
+234;Gustavo Ferreira Nunes;Guia Turistico;174;Grisalho;0;2004-06-03;Buenos Aires;29864
+235;Eduardo Dias Ribeiro;Piloto;172;Ruivo;0;1984-03-23;Berlim;12103
+236;Ana Mendes Dias;Designer;155;Castanho;0;1973-05-15;Berlim;8087
+237;Andre Barbosa Cardoso;Professor;171;Castanho;0;1981-12-24;Buenos Aires;19402
+238;Felipe Barbosa Martins;Contador;198;Preto;0;1978-01-25;Buenos Aires;14619
+239;Marcelo Dias Dias;Musico;160;Loiro;0;1973-11-25;Buenos Aires;12274
+240;Luiza Martins Souza;Guia Turistico;164;Castanho;0;1989-03-14;Buenos Aires;12529
+241;Juliana Rocha Ferreira;Advogado;170;Grisalho;1;1981-09-22;Viena;10641
+242;Rodrigo Montes Martins;Jornalista;168;Preto;0;1951-04-13;Buenos Aires;24376
+243;Andre Santos Rodrigues;Piloto;174;Ruivo;0;1952-04-15;Buenos Aires;28560
+244;Eduardo Gomes Fernandes;Guia Turistico;175;Loiro;0;1975-10-05;Paris;32316
+245;Sonia Teixeira Mendes;Contador;169;Preto;0;1963-03-24;Atenas;37113
+246;Rodrigo Teixeira Goncalves;Fotografo;170;Castanho;0;1960-07-19;Nova York;6395
+247;Gustavo Barbosa Oliveira;Chef De Cozinha;157;Loiro;0;1960-07-27;Bogota;6156
+248;Tatiane Oliveira Pereira;Designer;160;Loiro;0;1959-10-23;Paris;2500
+249;Monica Rocha Pereira;Designer;171;Castanho;0;1969-11-11;Toquio;38130
+250;Patricia Pereira Oliveira;Musico;176;Castanho;0;1974-06-15;Bogota;28680
+251;Tatiane Rodrigues Oliveira;Designer;202;Ruivo;0;1992-06-26;Berlim;9484
+252;Fernanda Barbosa Moreira;Jornalista;153;Loiro;0;1966-06-09;Berlim;90045
+253;Luiza Alves Ferreira;Jornalista;153;Ruivo;0;1954-10-23;Madrid;15458
+254;Pedro Goncalves Teixeira;Guia Turistico;156;Grisalho;0;2004-09-17;Paris;14610
+255;Renata Martins Barbosa;Designer;184;Grisalho;0;1996-04-24;Cidade Do Mexico;10265
+256;Renata Barbosa Souza;Fotografo;177;Grisalho;1;1971-04-21;Buenos Aires;35284
+257;Ana Carvalho Pereira;Guia Turistico;166;Loiro;0;1955-02-16;Istambul;5205
+258;Beatriz Carvalho Cardoso;Advogado;173;Preto;0;1978-07-08;Paris;3207
+259;Diego Lima Mendes;Musico;188;Grisalho;0;1999-03-28;Buenos Aires;11806
+260;Patricia Nunes Moreira;Musico;167;Castanho;1;1984-03-23;Viena;14292
+261;Joao Gomes Araujo;Designer;171;Grisalho;0;1962-05-03;Viena;16984
+262;Fernanda Cardoso Pereira;Medico;154;Castanho;0;1991-01-24;Toquio;4996
+263;Monica Montes Oliveira;Guia Turistico;185;Ruivo;0;1955-10-20;Viena;5392
+264;Andre Goncalves Mendes;Medico;164;Ruivo;0;1978-12-08;Lisboa;20076
+265;Felipe Fernandes Fernandes;Guia Turistico;164;Grisalho;0;1973-03-27;Istambul;6053
+266;Tatiane Lima Lima;Medico;151;Castanho;0;1959-10-10;Bogota;3525
+267;Aline Barbosa Dias;Contador;166;Castanho;0;2003-02-23;Cairo;15311
+268;Diego Goncalves Goncalves;Engenheiro;176;Ruivo;0;1967-07-02;Cairo;23699
+269;Lucas Martins Costa;Engenheiro;176;Ruivo;0;1978-08-06;Praga;18580
+270;Sonia Teixeira Fernandes;Fotografo;161;Preto;1;1973-05-11;Cidade Do Mexico;9957
+271;Gustavo Teixeira Souza;Musico;166;Castanho;0;1991-05-01;Toquio;15055
+272;Jose Lima Ribeiro;Contador;177;Ruivo;0;1998-08-22;Praga;10757
+273;Rafael Ferreira Santos;Medico;149;Ruivo;0;1972-01-23;Madrid;132507
+274;Camila Gomes Cardoso;Professor;193;Preto;0;1958-07-21;Cidade Do Mexico;8226
+275;Monica Araujo Ribeiro;Medico;181;Preto;1;1990-05-23;Paris;68774
+276;Luiza Cardoso Nunes;Designer;182;Ruivo;0;1960-09-24;Cidade Do Mexico;17239
+277;Eduardo Dias Teixeira;Musico;158;Grisalho;1;1984-07-11;Paris;1659
+278;Rodrigo Monteiro Rodrigues;Fotografo;184;Loiro;0;1972-09-04;Cidade Do Mexico;7874
+279;Carlos Lima Teixeira;Guia Turistico;172;Preto;0;1953-09-10;Paris;9982
+280;Fernanda Carvalho Lopes;Professor;162;Castanho;1;1957-09-12;Atenas;69036
+281;Diego Carvalho Carvalho;Guia Turistico;172;Preto;0;2004-06-03;Bogota;12733
+282;Maria Dias Dias;Guia Turistico;162;Loiro;1;1986-03-02;Cairo;20800
+283;Maria Rodrigues Cardoso;Professor;180;Ruivo;0;1956-09-10;Cairo;32094
+284;Fernanda Rodrigues Nunes;Chef De Cozinha;165;Grisalho;0;1995-10-01;Berlim;11449
+285;Juliana Vieira Lima;Piloto;189;Castanho;0;1998-02-03;Praga;18906
+286;Maria Rocha Dias;Engenheiro;183;Grisalho;1;1988-04-01;Cairo;5964
+287;Rodrigo Pereira Teixeira;Professor;171;Grisalho;0;1972-08-29;Cairo;2447
+288;Maria Barbosa Costa;Advogado;168;Preto;1;1988-02-02;Toquio;15952
+289;Gustavo Pereira Lima;Guia Turistico;156;Ruivo;0;1954-02-13;Toquio;17791
+290;Monica Montes Rodrigues;Engenheiro;178;Ruivo;0;1969-02-17;Toquio;31955
+291;Andre Ferreira Gomes;Chef De Cozinha;167;Castanho;0;1967-09-19;Istambul;11983
+292;Jose Rodrigues Silva;Advogado;164;Preto;0;1995-04-21;Praga;19101
+293;Monica Lopes Souza;Chef De Cozinha;175;Loiro;1;2001-10-27;Cairo;25671
+294;Luiza Martins Teixeira;Musico;153;Loiro;1;1977-01-17;Bogota;17092
+295;Marcelo Silva Souza;Contador;179;Ruivo;0;1970-05-13;Roma;26376
+296;Vanessa Vieira Nunes;Designer;170;Ruivo;0;1983-08-20;Praga;46598
+297;Renata Lima Montes;Musico;166;Grisalho;0;1997-05-21;Roma;11727
+298;Pedro Oliveira Pereira;Designer;165;Loiro;1;1952-10-17;Praga;21139
+299;Gustavo Lopes Costa;Musico;176;Grisalho;0;1979-10-31;Bogota;3394
+300;Rafael Ferreira Ribeiro;Medico;181;Loiro;0;1955-03-27;Nova York;22891
+301;Carlos Carvalho Souza;Contador;167;Preto;0;1968-02-16;Berlim;130445
+302;Juliana Gomes Lima;Piloto;153;Grisalho;0;1988-08-19;Istambul;12713
+303;Renata Monteiro Santos;Professor;183;Preto;1;1988-10-24;Toquio;6991
+304;Andre Cardoso Costa;Piloto;183;Castanho;1;1990-07-22;Madrid;117715
+305;Lucas Santos Santos;Musico;184;Loiro;0;1999-11-24;Bogota;13751
+306;Juliana Souza Rodrigues;Piloto;170;Castanho;1;2002-10-03;Berlim;29125
+307;Bruno Teixeira Pereira;Fotografo;171;Ruivo;0;1988-04-28;Madrid;2542
+308;Gustavo Souza Costa;Fotografo;168;Ruivo;0;1964-05-15;Buenos Aires;7886
+309;Monica Ribeiro Santos;Medico;186;Loiro;0;1997-10-02;Cairo;5878
+310;Renata Lopes Montes;Chef De Cozinha;158;Castanho;1;1987-02-21;Nova York;22716
+311;Diego Araujo Pinto;Contador;185;Loiro;1;1957-03-29;Toquio;22710
+312;Rafael Lopes Carvalho;Guia Turistico;185;Castanho;1;1999-04-21;Madrid;5221
+313;Fernanda Rocha Nunes;Guia Turistico;180;Grisalho;1;1971-04-20;Madrid;6102
+314;Fernanda Oliveira Alves;Fotografo;177;Grisalho;0;1988-11-21;Madrid;8796
+315;Maria Pinto Oliveira;Designer;174;Loiro;1;1967-12-21;Buenos Aires;15407
+316;Jose Vieira Moreira;Engenheiro;171;Loiro;1;2000-06-24;Paris;20200
+317;Sonia Barbosa Mendes;Jornalista;174;Castanho;1;1991-10-26;Roma;20705
+318;Felipe Monteiro Cardoso;Designer;149;Preto;1;1992-02-03;Cairo;1812
+319;Andre Montes Lima;Piloto;178;Preto;0;1974-05-16;Bogota;11312
+320;Bruno Pinto Pinto;Advogado;160;Ruivo;0;1956-07-27;Madrid;8048
+321;Felipe Alves Moreira;Medico;173;Loiro;0;1998-06-13;Berlim;29838
+322;Luiza Montes Santos;Designer;159;Loiro;0;1986-02-16;Nova York;12394
+323;Aline Vieira Araujo;Chef De Cozinha;180;Loiro;1;1974-08-31;Paris;5696
+324;Fernanda Moreira Costa;Advogado;156;Ruivo;0;1974-09-06;Buenos Aires;16500
+325;Bruno Carvalho Rocha;Jornalista;172;Grisalho;0;1968-10-17;Paris;11756
+326;Fernanda Lima Teixeira;Advogado;179;Preto;0;1965-06-16;Cairo;4598
+327;Sonia Mendes Costa;Advogado;155;Ruivo;0;1987-02-10;Lisboa;3659
+328;Bruno Ferreira Monteiro;Musico;173;Castanho;0;1959-09-19;Istambul;56477
+329;Luiza Monteiro Costa;Professor;191;Loiro;0;1996-12-11;Berlim;6647
+330;Marcelo Martins Goncalves;Contador;178;Castanho;0;1957-03-18;Atenas;24601
+331;Maria Ferreira Martins;Piloto;176;Ruivo;0;1965-06-02;Berlim;13298
+332;Eduardo Ribeiro Araujo;Contador;182;Castanho;1;1985-05-01;Istambul;13113
+333;Jose Goncalves Montes;Contador;171;Castanho;1;1953-12-27;Cairo;61352
+334;Sonia Nunes Moreira;Guia Turistico;164;Grisalho;0;1957-04-16;Paris;32514
+335;Lucas Vieira Barbosa;Engenheiro;179;Loiro;1;1981-10-31;Bogota;18175
+336;Joao Silva Teixeira;Engenheiro;190;Ruivo;0;1978-07-07;Istambul;7159
+337;Beatriz Nunes Nunes;Professor;175;Loiro;0;1999-01-01;Lisboa;3036
+338;Pedro Teixeira Rodrigues;Advogado;156;Grisalho;0;1954-04-17;Berlim;13426
+339;Bruno Monteiro Santos;Professor;178;Ruivo;0;1967-08-25;Madrid;25838
+340;Luiza Ferreira Teixeira;Piloto;165;Castanho;0;1997-10-13;Toquio;17869
+341;Fernanda Vieira Pinto;Guia Turistico;163;Loiro;0;1999-12-29;Buenos Aires;18049
+342;Ana Alves Monteiro;Professor;173;Grisalho;0;1956-08-11;Praga;25076
+343;Thiago Pereira Goncalves;Fotografo;177;Grisalho;0;1979-10-15;Cidade Do Mexico;9056
+344;Larissa Costa Barbosa;Designer;160;Castanho;0;1963-11-28;Madrid;10813
+345;Rafael Ferreira Dias;Contador;163;Castanho;0;1963-03-02;Bogota;2797
+346;Rafael Martins Nunes;Contador;159;Preto;0;1995-09-08;Cairo;8532
+347;Beatriz Araujo Dias;Fotografo;187;Preto;1;1986-12-19;Toquio;26854
+348;Eduardo Lima Nunes;Professor;173;Ruivo;1;1965-11-28;Praga;12857
+349;Juliana Barbosa Souza;Contador;170;Castanho;0;1968-02-29;Atenas;9200
+350;Rodrigo Alves Barbosa;Piloto;163;Castanho;0;1961-08-09;Buenos Aires;40674
+351;Larissa Teixeira Fernandes;Musico;160;Preto;0;1957-09-30;Toquio;2577
+352;Rodrigo Carvalho Santos;Medico;184;Loiro;1;1973-07-20;Paris;4940
+353;Tatiane Santos Silva;Engenheiro;168;Loiro;0;1955-06-08;Paris;12226
+354;Renata Oliveira Pereira;Professor;165;Loiro;0;1972-05-26;Roma;8014
+355;Rodrigo Silva Rocha;Musico;172;Ruivo;1;2001-11-06;Cidade Do Mexico;6921
+356;Patricia Monteiro Carvalho;Chef De Cozinha;159;Castanho;0;1952-12-26;Paris;8648
+357;Vanessa Teixeira Carvalho;Jornalista;168;Castanho;1;1988-03-11;Paris;3307
+358;Camila Silva Gomes;Professor;172;Loiro;0;1968-04-17;Berlim;29157
+359;Carlos Goncalves Ribeiro;Advogado;171;Preto;0;1974-09-14;Cairo;10800
+360;Jose Ferreira Ferreira;Contador;176;Grisalho;0;1950-03-26;Madrid;13853
+361;Felipe Monteiro Lopes;Jornalista;173;Loiro;1;1955-02-01;Istambul;5750
+362;Aline Silva Silva;Chef De Cozinha;167;Castanho;0;1959-06-28;Lisboa;24244
+363;Diego Montes Rocha;Guia Turistico;171;Preto;0;1995-02-11;Paris;15309
+364;Felipe Rodrigues Cardoso;Fotografo;169;Preto;0;1979-08-26;Roma;22693
+365;Sonia Dias Rodrigues;Guia Turistico;169;Ruivo;0;1991-09-08;Nova York;16774
+366;Andre Pinto Lima;Fotografo;176;Grisalho;1;1976-12-17;Viena;25121
+367;Luiza Lima Pinto;Fotografo;178;Grisalho;1;2003-07-23;Viena;10024
+368;Bruno Fernandes Santos;Fotografo;149;Loiro;0;1958-08-30;Berlim;37637
+369;Gustavo Moreira Santos;Jornalista;193;Ruivo;0;1954-07-03;Bogota;43213
+370;Tatiane Ferreira Vieira;Jornalista;188;Castanho;0;1972-08-26;Cidade Do Mexico;68405
+371;Diego Cardoso Oliveira;Medico;164;Castanho;1;1962-11-11;Viena;38584
+372;Tatiane Monteiro Vieira;Piloto;158;Ruivo;0;1995-07-19;Cairo;17438
+373;Patricia Monteiro Ferreira;Medico;157;Grisalho;0;1966-03-15;Cidade Do Mexico;17714
+374;Vanessa Pereira Cardoso;Guia Turistico;171;Castanho;0;1952-11-09;Berlim;15896
+375;Rafael Ferreira Martins;Professor;155;Loiro;0;1993-12-03;Bogota;11972
+376;Gustavo Gomes Dias;Contador;171;Loiro;0;1996-06-11;Buenos Aires;2328
+377;Vanessa Oliveira Ribeiro;Medico;176;Preto;0;1967-04-15;Bogota;41047
+378;Patricia Ribeiro Barbosa;Musico;162;Loiro;0;1982-02-11;Roma;19842
+379;Helena Montenegro Teixeira;Guia Turistico;171;Castanho;1;1989-03-14;Lisboa;31500
+380;Pedro Teixeira Pinto;Advogado;174;Castanho;0;1967-05-16;Madrid;11118
+381;Fernanda Santos Teixeira;Guia Turistico;175;Ruivo;0;1985-04-06;Berlim;13845
+382;Carlos Pinto Oliveira;Advogado;157;Grisalho;0;1983-08-24;Lisboa;6309
+383;Thiago Santos Teixeira;Professor;177;Loiro;0;1990-07-16;Roma;8157
+384;Sonia Vieira Pinto;Guia Turistico;165;Preto;0;1983-11-15;Cidade Do Mexico;17617
+385;Beatriz Teixeira Oliveira;Medico;169;Castanho;0;1997-02-25;Paris;13475
+386;Pedro Cardoso Fernandes;Chef De Cozinha;173;Loiro;0;2001-08-12;Viena;19685
+387;Jose Vieira Lopes;Contador;168;Ruivo;0;1991-03-01;Madrid;11381
+388;Camila Pinto Carvalho;Medico;168;Loiro;1;1950-03-28;Istambul;8495
+389;Maria Lopes Costa;Chef De Cozinha;177;Loiro;0;1981-01-27;Madrid;9760
+390;Fernanda Teixeira Moreira;Jornalista;185;Castanho;0;1979-01-19;Cairo;10896
+391;Aline Vieira Ferreira;Jornalista;160;Grisalho;1;1950-05-19;Viena;8956
+392;Ana Rodrigues Lima;Engenheiro;172;Preto;1;1973-01-04;Istambul;19452
+393;Joao Araujo Costa;Chef De Cozinha;175;Preto;0;1993-04-19;Viena;3122
+394;Renata Barbosa Fernandes;Medico;169;Ruivo;1;1960-02-14;Cairo;24066
+395;Rafael Nunes Oliveira;Designer;180;Grisalho;0;1960-04-06;Cidade Do Mexico;22282
+396;Marcelo Moreira Pinto;Fotografo;187;Grisalho;0;1975-07-05;Roma;3150
+397;Renata Monteiro Barbosa;Professor;173;Loiro;0;1971-10-10;Atenas;7464
+398;Luiza Santos Gomes;Engenheiro;182;Grisalho;0;1994-02-12;Berlim;6392
+399;Beatriz Montes Oliveira;Contador;170;Castanho;0;1980-11-18;Cidade Do Mexico;11707
+400;Renata Santos Montes;Contador;169;Grisalho;0;1997-06-29;Cidade Do Mexico;4342
+401;Marcelo Barbosa Vieira;Guia Turistico;169;Ruivo;0;1966-12-15;Bogota;14174
+402;Aline Fernandes Montes;Piloto;163;Ruivo;0;1998-08-08;Madrid;8666
+403;Diego Teixeira Martins;Medico;161;Castanho;0;1978-09-10;Istambul;14139
+404;Renata Souza Oliveira;Guia Turistico;163;Ruivo;0;1972-10-02;Toquio;58266
+405;Eduardo Fernandes Cardoso;Piloto;181;Grisalho;1;1998-03-01;Istambul;26354
+406;Rafael Monteiro Carvalho;Advogado;143;Preto;1;1966-02-07;Nova York;72952
+407;Fernanda Moreira Rocha;Jornalista;181;Preto;0;1958-06-21;Atenas;11818
+408;Aline Dias Lopes;Advogado;173;Loiro;0;1985-08-11;Cairo;12856
+409;Camila Martins Ferreira;Contador;181;Loiro;0;1980-07-15;Nova York;22650
+410;Lucas Nunes Mendes;Designer;164;Castanho;1;2000-12-30;Bogota;21378
+411;Felipe Carvalho Vieira;Contador;184;Loiro;0;1975-04-22;Istambul;41899
+412;Camila Pereira Rodrigues;Musico;165;Ruivo;1;1993-01-31;Madrid;9475
+413;Thiago Moreira Gomes;Designer;162;Grisalho;0;1991-07-08;Nova York;20072
+414;Sonia Rocha Monteiro;Guia Turistico;172;Preto;1;1951-12-29;Paris;15693
+415;Felipe Souza Silva;Contador;161;Loiro;0;1954-11-27;Paris;31148
+416;Ana Ferreira Moreira;Musico;171;Grisalho;0;1968-09-01;Lisboa;17643
+417;Patricia Dias Carvalho;Advogado;169;Ruivo;0;1982-09-05;Bogota;22921
+418;Patricia Mendes Alves;Musico;162;Castanho;1;1991-10-08;Cidade Do Mexico;11841
+419;Larissa Gomes Goncalves;Jornalista;179;Grisalho;1;1970-02-02;Praga;29050
+420;Joao Cardoso Montes;Chef De Cozinha;162;Grisalho;0;2004-03-25;Lisboa;12127
+421;Juliana Santos Montes;Engenheiro;173;Preto;0;1995-11-03;Lisboa;14459
+422;Juliana Ferreira Alves;Fotografo;157;Grisalho;0;1996-10-28;Buenos Aires;14651
+423;Carlos Oliveira Silva;Engenheiro;175;Grisalho;0;1952-01-09;Toquio;15847
+424;Jose Barbosa Dias;Medico;162;Preto;0;1950-06-11;Roma;20209
+425;Gustavo Ribeiro Carvalho;Professor;164;Preto;0;1970-08-17;Paris;97692
+426;Maria Cardoso Pinto;Jornalista;166;Loiro;0;1995-11-21;Bogota;2940
+427;Beatriz Teixeira Silva;Guia Turistico;182;Castanho;0;1992-01-12;Buenos Aires;39536
+428;Felipe Gomes Alves;Professor;181;Castanho;0;2001-02-27;Cidade Do Mexico;5936
+429;Tatiane Lopes Mendes;Advogado;170;Castanho;0;1996-08-29;Madrid;7065
+430;Maria Araujo Santos;Professor;182;Preto;0;1966-08-03;Berlim;5997
+431;Jose Barbosa Gomes;Professor;163;Castanho;0;1989-06-09;Nova York;44633
+432;Beatriz Teixeira Carvalho;Professor;161;Ruivo;0;1967-04-14;Bogota;50681
+433;Monica Araujo Oliveira;Guia Turistico;173;Loiro;1;1965-06-14;Istambul;23260
+434;Juliana Mendes Monteiro;Advogado;163;Castanho;0;1950-07-13;Madrid;6320
+435;Carlos Alves Alves;Jornalista;188;Loiro;0;1952-09-05;Toquio;49792
+436;Bruno Pinto Monteiro;Advogado;171;Grisalho;0;1978-01-27;Madrid;9076
+437;Diego Oliveira Nunes;Designer;167;Preto;0;1953-05-23;Lisboa;2704
+438;Patricia Oliveira Rodrigues;Jornalista;159;Preto;0;1975-06-05;Cairo;11624
+439;Joao Montes Rocha;Chef De Cozinha;165;Grisalho;0;1955-07-15;Cairo;3534
+440;Jose Lima Cardoso;Jornalista;174;Castanho;0;1954-07-13;Atenas;5611
+441;Rodrigo Carvalho Santos;Piloto;170;Castanho;0;1989-06-08;Paris;29479
+442;Carlos Costa Alves;Jornalista;175;Ruivo;0;1957-07-02;Madrid;10724
+443;Lucas Nunes Goncalves;Engenheiro;165;Preto;0;1959-04-19;Cidade Do Mexico;36850
+444;Tatiane Cardoso Rodrigues;Chef De Cozinha;173;Castanho;1;1953-07-08;Cairo;20673
+445;Luiza Ferreira Ribeiro;Jornalista;170;Castanho;0;1968-11-21;Toquio;18724
+446;Aline Santos Silva;Professor;173;Loiro;0;1976-05-27;Praga;13821
+447;Ana Barbosa Rodrigues;Engenheiro;171;Preto;0;1964-08-11;Istambul;26640
+448;Carlos Goncalves Martins;Designer;168;Loiro;1;1978-07-23;Buenos Aires;20622
+449;Larissa Montes Moreira;Engenheiro;179;Grisalho;0;1952-04-29;Praga;45181
+450;Monica Dias Monteiro;Jornalista;187;Ruivo;0;1969-05-09;Buenos Aires;16267
+451;Aline Martins Vieira;Engenheiro;172;Preto;0;1963-08-12;Atenas;21776
+452;Felipe Oliveira Cardoso;Guia Turistico;165;Castanho;1;1998-05-25;Paris;2380
+453;Juliana Ferreira Santos;Guia Turistico;168;Loiro;0;1958-06-11;Paris;19525
+454;Thiago Mendes Alves;Advogado;174;Castanho;0;1989-04-10;Berlim;6463
+455;Andre Ribeiro Ribeiro;Advogado;191;Castanho;0;1985-08-17;Istambul;66621
+456;Tatiane Lima Oliveira;Guia Turistico;163;Grisalho;1;1987-12-06;Lisboa;50895
+457;Tatiane Fernandes Teixeira;Contador;173;Grisalho;0;1994-08-22;Cidade Do Mexico;10790
+458;Sonia Alves Carvalho;Advogado;178;Preto;0;1971-12-28;Viena;5657
+459;Lucas Moreira Carvalho;Contador;157;Loiro;0;2002-05-25;Berlim;21394
+460;Gustavo Araujo Moreira;Designer;179;Grisalho;1;1966-01-25;Bogota;7642
+461;Marcelo Souza Ferreira;Designer;180;Castanho;0;1983-11-29;Cidade Do Mexico;11775
+462;Maria Silva Gomes;Jornalista;161;Grisalho;0;1988-02-13;Madrid;4469
+463;Patricia Souza Souza;Engenheiro;172;Grisalho;0;1961-06-01;Roma;20778
+464;Patricia Ferreira Goncalves;Contador;161;Grisalho;0;2003-11-12;Cidade Do Mexico;13594
+465;Tatiane Araujo Costa;Musico;164;Castanho;0;1962-07-01;Cidade Do Mexico;9315
+466;Jose Mendes Silva;Musico;169;Castanho;0;1950-07-07;Cidade Do Mexico;11756
+467;Rodrigo Silva Cardoso;Contador;171;Loiro;0;1961-07-06;Istambul;12698
+468;Beatriz Gomes Nunes;Advogado;167;Loiro;1;1957-07-05;Toquio;6614
+469;Larissa Santos Souza;Chef De Cozinha;181;Castanho;0;1969-08-25;Madrid;12460
+470;Lucas Barbosa Rocha;Chef De Cozinha;185;Loiro;0;2000-08-16;Viena;10783
+471;Fernanda Rocha Cardoso;Guia Turistico;161;Castanho;0;1979-01-08;Buenos Aires;28553
+472;Pedro Fernandes Rocha;Designer;191;Ruivo;0;1983-08-05;Lisboa;10138
+473;Maria Alves Souza;Fotografo;161;Ruivo;1;2001-01-31;Atenas;5740
+474;Larissa Carvalho Vieira;Guia Turistico;166;Preto;0;1952-01-12;Cairo;44917
+475;Larissa Pinto Monteiro;Fotografo;174;Castanho;1;1979-01-20;Berlim;18265
+476;Camila Dias Rodrigues;Contador;167;Grisalho;0;1975-12-03;Nova York;7025
+477;Gustavo Souza Vieira;Advogado;159;Grisalho;1;1968-10-26;Toquio;52911
+478;Aline Nunes Nunes;Piloto;180;Preto;0;2004-02-18;Viena;62252
+479;Vanessa Silva Goncalves;Musico;169;Castanho;0;1979-11-26;Madrid;64990
+480;Pedro Montes Dias;Medico;163;Ruivo;1;1986-02-16;Viena;17355
+481;Larissa Souza Teixeira;Musico;160;Loiro;1;1976-09-07;Istambul;6201
+482;Juliana Montes Lopes;Professor;178;Grisalho;1;1959-11-24;Bogota;3750
+483;Eduardo Montes Pereira;Jornalista;171;Grisalho;0;1996-03-18;Lisboa;128762
+484;Diego Cardoso Vieira;Medico;161;Grisalho;0;1990-04-22;Cairo;15577
+485;Marcelo Araujo Souza;Designer;171;Preto;1;1972-06-11;Bogota;3471
+486;Renata Pinto Vieira;Designer;166;Loiro;1;1974-12-31;Roma;7126
+487;Andre Rocha Montes;Guia Turistico;168;Preto;0;1994-09-06;Viena;40488
+488;Fernanda Pereira Nunes;Medico;154;Ruivo;0;2003-12-22;Toquio;80417
+489;Jose Teixeira Rocha;Professor;148;Castanho;0;1961-12-05;Lisboa;8801
+490;Beatriz Ferreira Goncalves;Piloto;163;Castanho;0;1973-09-15;Lisboa;35966
+491;Andre Gomes Teixeira;Designer;158;Ruivo;0;2001-07-09;Atenas;1135
+492;Renata Goncalves Ribeiro;Piloto;184;Preto;0;1992-03-28;Nova York;8719
+493;Renata Rocha Ribeiro;Chef De Cozinha;152;Grisalho;0;2004-08-09;Buenos Aires;40117
+494;Luiza Goncalves Pinto;Contador;169;Preto;0;2003-02-14;Lisboa;621
+495;Maria Martins Barbosa;Professor;156;Preto;1;1987-12-07;Viena;31911
+496;Rodrigo Vieira Pereira;Medico;156;Ruivo;1;2002-05-05;Viena;27115
+497;Patricia Santos Ribeiro;Designer;177;Ruivo;1;1951-04-14;Nova York;9290
+498;Luiza Dias Monteiro;Contador;160;Castanho;0;1952-06-06;Cairo;15936
+499;Gustavo Barbosa Cardoso;Guia Turistico;164;Loiro;1;1972-06-14;Atenas;10886
+500;Gustavo Carvalho Teixeira;Guia Turistico;168;Ruivo;1;1997-04-21;Bogota;23335
+501;Lucas Fernandes Monteiro;Chef De Cozinha;174;Grisalho;0;1988-03-10;Praga;17811
+502;Diego Lopes Gomes;Medico;153;Loiro;0;1989-10-08;Cidade Do Mexico;10473
+503;Patricia Rocha Fernandes;Guia Turistico;175;Ruivo;1;1955-11-07;Viena;11365
+504;Bruno Lopes Souza;Chef De Cozinha;167;Ruivo;0;1973-08-24;Buenos Aires;15239
+505;Camila Monteiro Gomes;Guia Turistico;155;Ruivo;0;1957-06-03;Cairo;6740
+506;Jose Martins Dias;Engenheiro;168;Preto;0;1992-04-12;Nova York;26841
+507;Aline Vieira Teixeira;Professor;171;Castanho;0;1961-01-27;Viena;1656
+508;Bruno Teixeira Martins;Contador;176;Loiro;0;2004-03-30;Madrid;22692
+509;Rodrigo Carvalho Araujo;Guia Turistico;158;Grisalho;0;1978-09-13;Paris;12294
+510;Beatriz Araujo Lima;Guia Turistico;182;Castanho;0;1988-11-03;Roma;32730
+511;Gustavo Silva Santos;Musico;176;Preto;1;1994-07-06;Bogota;3900
+512;Ana Teixeira Montes;Musico;168;Preto;0;1956-03-12;Praga;32637
+513;Carlos Cardoso Oliveira;Piloto;176;Preto;0;1960-05-31;Nova York;21781
+514;Maria Teixeira Nunes;Chef De Cozinha;178;Ruivo;1;1996-08-24;Nova York;21191
+515;Luiza Teixeira Lopes;Jornalista;188;Castanho;0;1994-03-25;Cidade Do Mexico;13411
+516;Patricia Pinto Araujo;Piloto;164;Castanho;0;1965-09-10;Toquio;10364
+517;Camila Ribeiro Ferreira;Musico;182;Grisalho;0;1958-08-07;Paris;82127
+518;Beatriz Rodrigues Ferreira;Medico;159;Castanho;0;1955-07-10;Roma;13497
+519;Monica Oliveira Souza;Engenheiro;172;Loiro;1;1952-06-19;Roma;95537
+520;Pedro Moreira Cardoso;Designer;178;Castanho;1;1980-12-11;Madrid;34570
+521;Ana Vieira Alves;Medico;158;Preto;0;2001-03-15;Praga;6464
+522;Patricia Fernandes Cardoso;Designer;192;Castanho;0;1963-02-14;Cidade Do Mexico;9144
+523;Rafael Pinto Oliveira;Piloto;185;Castanho;0;1968-09-14;Viena;1230
+524;Ana Lopes Ribeiro;Chef De Cozinha;191;Ruivo;0;1977-11-22;Bogota;41557
+525;Gustavo Rodrigues Souza;Piloto;169;Preto;0;1965-08-01;Cairo;10612
+526;Vanessa Araujo Teixeira;Musico;183;Grisalho;0;1992-06-09;Istambul;6287
+527;Rafael Goncalves Silva;Guia Turistico;161;Loiro;0;1955-03-16;Buenos Aires;16284
+528;Rodrigo Ribeiro Montes;Medico;165;Loiro;1;1976-04-27;Lisboa;17171
+529;Luiza Montes Montes;Designer;171;Preto;0;1984-10-14;Bogota;8610
+530;Luiza Montes Souza;Piloto;172;Grisalho;0;1991-09-10;Viena;4701
+531;Gustavo Mendes Vieira;Piloto;168;Grisalho;0;1959-04-02;Berlim;21063
+532;Andre Santos Santos;Professor;174;Loiro;1;1955-10-02;Madrid;7439
+533;Marcelo Mendes Silva;Professor;175;Loiro;0;1976-02-22;Roma;11006
+534;Aline Pereira Pinto;Guia Turistico;180;Ruivo;0;1956-08-10;Roma;12553
+535;Camila Santos Rocha;Designer;182;Grisalho;1;1965-05-12;Buenos Aires;24186
+536;Thiago Rodrigues Silva;Engenheiro;147;Grisalho;0;1957-01-31;Atenas;8688
+537;Patricia Barbosa Martins;Professor;173;Preto;0;1977-03-29;Atenas;29311
+538;Aline Rocha Nunes;Musico;173;Preto;0;1985-05-16;Paris;3500
+539;Maria Souza Rocha;Chef De Cozinha;176;Loiro;0;1957-02-09;Bogota;17569
+540;Tatiane Ribeiro Rodrigues;Guia Turistico;168;Castanho;1;1968-05-13;Buenos Aires;20388
+541;Vanessa Moreira Dias;Chef De Cozinha;169;Castanho;0;1977-03-14;Berlim;21998
+542;Felipe Oliveira Alves;Advogado;159;Preto;0;1974-12-07;Buenos Aires;19182
+543;Gustavo Dias Ferreira;Fotografo;166;Ruivo;0;1964-06-10;Viena;40608
+544;Luiza Ferreira Teixeira;Medico;176;Grisalho;1;2004-07-02;Toquio;25425
+545;Larissa Fernandes Souza;Contador;169;Loiro;1;1979-04-02;Cairo;32854
+546;Felipe Costa Souza;Guia Turistico;166;Grisalho;0;1975-02-17;Toquio;10669
+547;Gustavo Costa Ribeiro;Guia Turistico;171;Castanho;0;1976-07-25;Lisboa;9506
+548;Felipe Pinto Ferreira;Musico;157;Ruivo;0;1965-07-28;Cidade Do Mexico;16830
+549;Diego Silva Gomes;Contador;172;Loiro;0;1967-06-07;Cidade Do Mexico;19097
+550;Larissa Ribeiro Lopes;Musico;146;Ruivo;0;1985-03-09;Nova York;48024
+551;Camila Monteiro Martins;Chef De Cozinha;171;Preto;1;1996-09-29;Toquio;16213
+552;Gustavo Lima Vieira;Chef De Cozinha;162;Loiro;0;1975-09-09;Madrid;13809
+553;Beatriz Cardoso Oliveira;Professor;158;Ruivo;1;1995-07-04;Toquio;3797
+554;Carlos Pinto Ribeiro;Fotografo;183;Loiro;0;1963-04-05;Bogota;7067
+555;Fernanda Mendes Pinto;Jornalista;174;Preto;0;1989-02-06;Buenos Aires;13509
+556;Carlos Cardoso Martins;Contador;182;Ruivo;0;1963-09-22;Bogota;14282
+557;Vanessa Costa Monteiro;Professor;174;Preto;0;1953-12-26;Paris;4456
+558;Aline Moreira Vieira;Jornalista;173;Grisalho;1;1973-03-28;Toquio;19718
+559;Juliana Goncalves Goncalves;Engenheiro;167;Ruivo;0;1963-03-31;Buenos Aires;4932
+560;Rodrigo Martins Cardoso;Designer;180;Ruivo;0;1956-07-15;Berlim;31773
+561;Beatriz Ribeiro Carvalho;Engenheiro;178;Ruivo;0;1996-02-27;Toquio;6910
+562;Renata Nunes Pereira;Chef De Cozinha;186;Preto;0;1954-03-24;Roma;2996
+563;Thiago Fernandes Ferreira;Piloto;166;Ruivo;1;1960-09-13;Istambul;16597
+564;Felipe Teixeira Costa;Medico;170;Ruivo;0;1955-01-19;Bogota;38945
+565;Jose Lopes Monteiro;Chef De Cozinha;184;Preto;1;1970-05-02;Viena;14630
+566;Sonia Martins Alves;Advogado;186;Preto;1;1980-01-30;Bogota;12883
+567;Ana Barbosa Souza;Designer;156;Ruivo;0;1966-04-02;Praga;84148
+568;Marcelo Rodrigues Nunes;Engenheiro;177;Castanho;0;1990-09-12;Nova York;8856
+569;Sonia Goncalves Araujo;Professor;150;Castanho;1;1980-11-19;Atenas;5793
+570;Tatiane Lima Teixeira;Chef De Cozinha;173;Preto;0;1984-07-29;Viena;47379
+571;Eduardo Araujo Nunes;Chef De Cozinha;168;Ruivo;1;1955-07-03;Berlim;8810
+572;Luiza Lopes Nunes;Chef De Cozinha;175;Ruivo;0;1984-03-31;Roma;27379
+573;Pedro Cardoso Lima;Guia Turistico;169;Castanho;1;1971-04-27;Buenos Aires;8414
+574;Fernanda Nunes Dias;Musico;162;Ruivo;0;1962-10-24;Paris;16602
+575;Juliana Gomes Fernandes;Chef De Cozinha;183;Preto;1;1964-08-18;Cidade Do Mexico;16043
+576;Eduardo Gomes Nunes;Contador;181;Ruivo;0;1961-08-05;Viena;9563
+577;Carlos Araujo Rocha;Advogado;147;Ruivo;0;1986-06-17;Roma;15416
+578;Vanessa Pinto Costa;Chef De Cozinha;149;Grisalho;0;1959-08-15;Istambul;50105
+579;Larissa Martins Costa;Piloto;169;Ruivo;0;1984-09-02;Cidade Do Mexico;21885
+580;Camila Fernandes Teixeira;Chef De Cozinha;181;Castanho;1;1986-02-19;Berlim;12654
+581;Renata Santos Pinto;Musico;156;Preto;0;1967-12-02;Roma;42888
+582;Fernanda Santos Souza;Chef De Cozinha;158;Loiro;1;1978-09-12;Bogota;6388
+583;Felipe Teixeira Santos;Fotografo;169;Preto;1;1966-06-07;Nova York;22507
+584;Bruno Lopes Lopes;Designer;157;Ruivo;0;1986-05-05;Praga;1095
+585;Maria Rodrigues Barbosa;Jornalista;163;Loiro;0;1996-02-12;Cidade Do Mexico;18217
+586;Eduardo Gomes Moreira;Jornalista;166;Preto;1;1998-04-22;Nova York;13703
+587;Rafael Souza Moreira;Chef De Cozinha;151;Castanho;0;1988-06-22;Buenos Aires;15009
+588;Maria Dias Rodrigues;Advogado;171;Preto;1;1983-12-16;Toquio;11147
+589;Joao Rodrigues Montes;Contador;171;Preto;0;1956-10-22;Nova York;2382
+590;Marcelo Pereira Vieira;Engenheiro;178;Grisalho;0;1986-09-07;Istambul;9211
+591;Felipe Pinto Oliveira;Musico;183;Preto;0;1976-03-23;Nova York;13702
+592;Eduardo Goncalves Rodrigues;Designer;162;Castanho;1;1956-01-10;Buenos Aires;30777
+593;Marcelo Lima Mendes;Musico;166;Grisalho;0;1960-02-28;Berlim;6478
+594;Marcelo Santos Mendes;Jornalista;176;Preto;0;1965-08-16;Lisboa;5167
+595;Thiago Teixeira Carvalho;Fotografo;158;Castanho;0;1969-07-10;Buenos Aires;24207
+596;Vanessa Costa Pereira;Fotografo;173;Grisalho;0;1993-04-16;Paris;5433
+597;Luiza Vieira Teixeira;Contador;188;Loiro;0;1962-11-25;Buenos Aires;42698
+598;Larissa Montes Alves;Jornalista;163;Castanho;0;1966-09-16;Cairo;70389
+599;Renata Barbosa Alves;Chef De Cozinha;175;Ruivo;0;1955-10-29;Atenas;40854
+600;Sonia Lopes Lopes;Jornalista;172;Ruivo;0;1984-05-08;Toquio;6427
+601;Maria Monteiro Lima;Musico;171;Grisalho;1;1950-11-05;Atenas;6157
+602;Juliana Gomes Lopes;Advogado;164;Loiro;0;1950-12-25;Atenas;38033
+603;Beatriz Barbosa Santos;Professor;170;Grisalho;1;1952-01-17;Istambul;118658
+604;Pedro Barbosa Moreira;Engenheiro;180;Castanho;1;2004-02-12;Nova York;13907
+605;Rafael Teixeira Rodrigues;Contador;173;Castanho;1;2001-07-02;Toquio;57204
+606;Camila Araujo Monteiro;Fotografo;153;Grisalho;0;1968-08-16;Berlim;13448
+607;Rodrigo Montes Teixeira;Advogado;159;Preto;1;1993-08-29;Atenas;12434
+608;Diego Oliveira Oliveira;Chef De Cozinha;171;Castanho;0;1996-05-08;Bogota;3867
+609;Andre Cardoso Lima;Professor;178;Preto;0;1968-05-03;Istambul;24379
+610;Andre Lima Fernandes;Jornalista;149;Grisalho;1;1985-07-18;Roma;13823
+611;Thiago Martins Goncalves;Medico;171;Preto;0;1977-03-12;Cairo;7785
+612;Beatriz Mendes Rodrigues;Designer;168;Grisalho;0;1983-09-27;Paris;4992
+613;Rafael Oliveira Souza;Medico;184;Preto;1;1982-07-06;Nova York;4330
+614;Andre Lima Vieira;Chef De Cozinha;167;Ruivo;1;1951-12-30;Nova York;21921
+615;Pedro Cardoso Martins;Advogado;175;Preto;0;1954-03-26;Buenos Aires;22515
+616;Fernanda Ferreira Rocha;Contador;182;Castanho;0;1950-01-22;Istambul;30776
+617;Jose Barbosa Mendes;Jornalista;158;Castanho;0;1999-08-08;Paris;12399
+618;Tatiane Santos Gomes;Designer;183;Preto;0;1966-06-23;Madrid;18454
+619;Bruno Vieira Moreira;Fotografo;177;Preto;1;1983-11-19;Madrid;68519
+620;Monica Ferreira Goncalves;Professor;161;Loiro;0;1975-09-21;Paris;7177
+621;Larissa Montes Araujo;Advogado;156;Loiro;0;1992-08-04;Nova York;4713
+622;Pedro Martins Monteiro;Contador;182;Preto;1;1979-08-16;Cairo;13814
+623;Carlos Rodrigues Santos;Engenheiro;175;Castanho;0;1999-03-04;Bogota;18936
+624;Vanessa Oliveira Ribeiro;Engenheiro;184;Castanho;0;1993-09-27;Nova York;1011
+625;Lucas Rodrigues Moreira;Advogado;180;Castanho;0;1987-07-30;Madrid;1726
+626;Bruno Fernandes Moreira;Piloto;166;Preto;0;1997-12-26;Cairo;6618
+627;Jose Dias Silva;Fotografo;171;Ruivo;1;1959-06-19;Toquio;25317
+628;Patricia Silva Lopes;Fotografo;185;Preto;1;1989-04-05;Nova York;12985
+629;Rodrigo Rocha Oliveira;Piloto;161;Preto;0;1970-04-08;Roma;3943
+630;Patricia Dias Teixeira;Piloto;178;Castanho;1;2003-12-28;Paris;12740
+631;Beatriz Alves Moreira;Jornalista;179;Grisalho;0;1954-01-10;Atenas;11043
+632;Camila Monteiro Goncalves;Jornalista;158;Grisalho;0;1957-07-11;Toquio;85605
+633;Andre Teixeira Carvalho;Advogado;168;Grisalho;0;1962-12-06;Atenas;10760
+634;Renata Alves Pereira;Contador;165;Preto;1;1990-12-26;Cidade Do Mexico;16779
+635;Felipe Goncalves Fernandes;Professor;162;Grisalho;0;1985-01-26;Buenos Aires;1096
+636;Larissa Carvalho Alves;Designer;164;Preto;1;1975-10-14;Cidade Do Mexico;3165
+637;Rodrigo Cardoso Montes;Engenheiro;182;Ruivo;0;1965-02-13;Praga;3811
+638;Tatiane Barbosa Alves;Contador;174;Ruivo;0;1951-09-15;Berlim;10133
+639;Bruno Rocha Rocha;Chef De Cozinha;172;Loiro;0;1969-02-16;Lisboa;20883
+640;Marcelo Martins Araujo;Jornalista;173;Grisalho;0;1978-11-12;Nova York;8602
+641;Jose Mendes Alves;Professor;158;Ruivo;1;1965-04-15;Atenas;5205
+642;Gustavo Costa Montes;Guia Turistico;163;Ruivo;0;1983-12-03;Madrid;91111
+643;Andre Gomes Montes;Fotografo;177;Loiro;0;1995-03-04;Roma;2216
+644;Marcelo Gomes Araujo;Musico;172;Grisalho;0;1964-01-09;Viena;20674
+645;Vanessa Nunes Montes;Contador;185;Loiro;0;1991-04-15;Cidade Do Mexico;1487
+646;Camila Rocha Teixeira;Jornalista;159;Castanho;0;1965-01-13;Lisboa;32280
+647;Rafael Nunes Goncalves;Contador;174;Ruivo;0;1957-04-04;Viena;11963
+648;Renata Oliveira Carvalho;Guia Turistico;171;Castanho;0;1985-06-03;Atenas;39845
+649;Beatriz Ferreira Souza;Professor;185;Castanho;0;1952-05-30;Nova York;38615
+650;Ana Dias Fernandes;Contador;174;Ruivo;0;1953-03-26;Viena;1617
+651;Juliana Rocha Cardoso;Contador;168;Grisalho;0;1970-12-09;Berlim;32232
+652;Tatiane Pereira Rocha;Engenheiro;142;Preto;0;1956-02-03;Toquio;8737
+653;Ana Pinto Alves;Musico;167;Ruivo;1;1995-04-02;Praga;12659
+654;Marcelo Costa Pinto;Medico;165;Preto;1;1973-10-01;Toquio;39547
+655;Marcelo Carvalho Souza;Piloto;170;Castanho;0;1978-12-08;Praga;152296
+656;Camila Rocha Ferreira;Chef De Cozinha;179;Ruivo;0;1990-12-01;Madrid;40860
+657;Larissa Lopes Vieira;Designer;179;Preto;1;1966-03-15;Atenas;33632
+658;Pedro Moreira Moreira;Designer;178;Castanho;0;1958-12-07;Roma;23613
+659;Maria Fernandes Goncalves;Engenheiro;160;Preto;0;1959-09-18;Cidade Do Mexico;11253
+660;Larissa Dias Rocha;Advogado;171;Preto;0;1964-05-11;Madrid;21796
+661;Larissa Ribeiro Fernandes;Professor;174;Ruivo;0;2003-08-30;Atenas;7210
+662;Maria Martins Araujo;Engenheiro;176;Grisalho;0;2000-11-17;Paris;13754
+663;Aline Dias Martins;Chef De Cozinha;167;Preto;0;1998-04-14;Madrid;7636
+664;Juliana Martins Lima;Jornalista;171;Grisalho;1;1974-06-10;Atenas;84959
+665;Marcelo Montes Oliveira;Guia Turistico;193;Grisalho;1;1971-04-02;Nova York;13632
+666;Camila Cardoso Souza;Piloto;162;Preto;0;1974-02-21;Atenas;2508
+667;Aline Goncalves Ribeiro;Professor;187;Grisalho;0;1977-11-18;Nova York;13498
+668;Juliana Cardoso Montes;Chef De Cozinha;174;Loiro;0;1990-01-21;Bogota;29786
+669;Vanessa Nunes Montes;Piloto;156;Loiro;0;1996-05-14;Viena;26555
+670;Juliana Fernandes Souza;Engenheiro;160;Ruivo;0;1974-12-24;Istambul;10623
+671;Rafael Ferreira Goncalves;Engenheiro;157;Loiro;1;1973-02-05;Nova York;16912
+672;Lucas Alves Pereira;Engenheiro;179;Preto;0;1992-01-14;Cidade Do Mexico;100202
+673;Sonia Silva Oliveira;Piloto;163;Grisalho;1;1964-09-25;Berlim;19071
+674;Beatriz Martins Monteiro;Piloto;175;Loiro;0;1996-07-08;Berlim;11107
+675;Andre Montes Pereira;Engenheiro;180;Loiro;0;1962-03-29;Istambul;35056
+676;Joao Lopes Oliveira;Fotografo;161;Ruivo;0;1989-06-23;Buenos Aires;3473
+677;Larissa Gomes Lima;Fotografo;183;Castanho;0;1996-01-10;Viena;20863
+678;Bruno Montes Ferreira;Chef De Cozinha;171;Castanho;1;1964-11-27;Paris;9781
+679;Vanessa Araujo Mendes;Medico;173;Grisalho;1;1968-07-31;Roma;18086
+680;Eduardo Nunes Pinto;Fotografo;160;Ruivo;0;1990-02-10;Cairo;5348
+681;Tatiane Pereira Oliveira;Engenheiro;170;Ruivo;1;1963-10-08;Praga;14302
+682;Camila Pinto Teixeira;Fotografo;173;Preto;0;1989-02-27;Cairo;10883
+683;Bruno Fernandes Moreira;Guia Turistico;159;Ruivo;1;1995-01-26;Paris;1635
+684;Lucas Souza Cardoso;Fotografo;159;Ruivo;0;1983-09-05;Roma;14636
+685;Patricia Fernandes Souza;Medico;174;Ruivo;1;1959-08-02;Atenas;55178
+686;Tatiane Ribeiro Fernandes;Musico;165;Grisalho;0;1959-09-06;Paris;14603
+687;Bruno Goncalves Teixeira;Guia Turistico;186;Loiro;0;1951-06-14;Lisboa;5722
+688;Carlos Rodrigues Teixeira;Advogado;169;Preto;1;1962-11-22;Cidade Do Mexico;10868
+689;Ana Rodrigues Carvalho;Designer;166;Grisalho;0;1957-02-11;Berlim;4226
+690;Tatiane Pereira Santos;Designer;183;Loiro;0;1952-11-05;Viena;25479
+691;Marcelo Fernandes Rocha;Advogado;170;Loiro;0;1972-10-25;Roma;6299
+692;Bruno Fernandes Monteiro;Piloto;177;Ruivo;0;1987-02-13;Praga;15581
+693;Fernanda Silva Lima;Chef De Cozinha;168;Preto;1;1988-12-29;Atenas;8045
+694;Aline Carvalho Silva;Piloto;179;Grisalho;0;1951-09-16;Bogota;17415
+695;Ana Barbosa Rodrigues;Designer;173;Ruivo;0;1978-11-28;Madrid;11362
+696;Eduardo Pereira Goncalves;Medico;173;Castanho;0;1954-05-16;Viena;19540
+697;Marcelo Monteiro Goncalves;Advogado;168;Castanho;1;1955-08-08;Istambul;1760
+698;Lucas Vieira Silva;Professor;160;Ruivo;0;1974-12-14;Toquio;3957
+699;Rafael Martins Lima;Fotografo;173;Castanho;0;1965-07-12;Praga;29283
+700;Luiza Lima Rodrigues;Piloto;188;Loiro;1;1959-04-12;Nova York;31253
+701;Eduardo Cardoso Costa;Musico;186;Castanho;0;1971-02-22;Berlim;18101
+702;Marcelo Rocha Barbosa;Professor;174;Ruivo;0;1957-10-23;Buenos Aires;20572
+703;Felipe Moreira Rodrigues;Professor;177;Ruivo;1;1965-01-12;Paris;20126
+704;Ana Barbosa Rodrigues;Medico;169;Preto;0;1974-03-30;Roma;35277
+705;Rodrigo Gomes Montes;Advogado;164;Loiro;0;1959-08-29;Nova York;8507
+706;Maria Vieira Ribeiro;Jornalista;171;Grisalho;0;1999-08-12;Roma;12171
+707;Beatriz Costa Rocha;Contador;190;Preto;0;1988-10-06;Atenas;2499
+708;Luiza Moreira Pinto;Musico;171;Loiro;0;1998-12-15;Viena;18501
+709;Eduardo Fernandes Vieira;Professor;161;Castanho;0;1976-02-26;Lisboa;42656
+710;Luiza Carvalho Lima;Chef De Cozinha;162;Loiro;0;1982-04-19;Atenas;22499
+711;Luiza Cardoso Gomes;Piloto;146;Castanho;0;1998-04-12;Praga;54463
+712;Lucas Araujo Pereira;Fotografo;174;Castanho;1;1969-12-24;Lisboa;11640
+713;Rafael Montes Silva;Contador;183;Castanho;0;1999-06-09;Bogota;7563
+714;Tatiane Araujo Vieira;Contador;171;Loiro;0;1957-07-17;Madrid;1471
+715;Pedro Nunes Pinto;Jornalista;164;Grisalho;0;1962-12-30;Atenas;6378
+716;Rafael Martins Rocha;Contador;187;Grisalho;0;1971-11-12;Istambul;1333
+717;Renata Rodrigues Ribeiro;Medico;180;Loiro;0;1963-03-14;Atenas;18012
+718;Maria Lima Carvalho;Guia Turistico;166;Ruivo;0;1975-11-24;Buenos Aires;7589
+719;Sonia Nunes Santos;Chef De Cozinha;152;Castanho;1;1977-09-17;Atenas;13535
+720;Renata Pereira Barbosa;Fotografo;161;Grisalho;0;1991-12-30;Roma;30259
+721;Tatiane Martins Moreira;Professor;169;Grisalho;1;1987-08-31;Lisboa;35550
+722;Fernanda Gomes Cardoso;Medico;166;Ruivo;0;1998-12-19;Madrid;27074
+723;Aline Martins Nunes;Piloto;162;Grisalho;0;1965-01-27;Viena;57108
+724;Bruno Lima Cardoso;Advogado;171;Preto;1;1990-06-26;Istambul;13199
+725;Rodrigo Souza Santos;Musico;176;Grisalho;0;1993-11-19;Paris;16278
+726;Aline Araujo Cardoso;Jornalista;175;Preto;1;1960-09-22;Paris;2687
+727;Jose Teixeira Teixeira;Advogado;163;Grisalho;0;1987-09-30;Lisboa;18498
+728;Diego Souza Ribeiro;Musico;176;Grisalho;1;1975-07-21;Lisboa;36291
+729;Carlos Araujo Lopes;Medico;169;Castanho;0;1984-06-17;Cidade Do Mexico;23024
+730;Vanessa Carvalho Nunes;Medico;161;Grisalho;0;2001-08-16;Roma;3172
+731;Joao Teixeira Silva;Designer;158;Preto;1;1996-03-05;Paris;14438
+732;Marcelo Mendes Rodrigues;Advogado;158;Preto;1;1994-03-17;Paris;21839
+733;Eduardo Souza Rodrigues;Guia Turistico;178;Grisalho;1;1998-10-08;Bogota;26618
+734;Camila Lopes Lopes;Engenheiro;182;Grisalho;0;1989-04-09;Praga;18351
+735;Aline Dias Oliveira;Medico;167;Grisalho;1;1959-11-25;Atenas;13971
+736;Bruno Pereira Vieira;Designer;154;Loiro;1;1952-12-30;Nova York;7750
+737;Felipe Rocha Rocha;Medico;163;Loiro;1;1962-09-26;Toquio;4815
+738;Gustavo Martins Rocha;Advogado;167;Grisalho;0;1959-02-19;Berlim;2926
+739;Marcelo Araujo Monteiro;Contador;176;Castanho;0;1986-04-13;Lisboa;5952
+740;Jose Costa Teixeira;Medico;176;Loiro;1;1985-11-25;Atenas;10468
+741;Lucas Alves Silva;Contador;177;Castanho;0;1998-02-18;Istambul;58598
+742;Tatiane Souza Rodrigues;Guia Turistico;172;Ruivo;0;1958-11-25;Praga;1619
+743;Fernanda Barbosa Rocha;Piloto;178;Grisalho;0;1993-03-16;Paris;36846
+744;Renata Nunes Nunes;Designer;178;Preto;0;2000-08-27;Praga;16474
+745;Bruno Ribeiro Ribeiro;Contador;170;Preto;0;1965-11-07;Paris;6729
+746;Joao Carvalho Souza;Professor;177;Grisalho;1;1976-11-28;Paris;14121
+747;Thiago Nunes Lopes;Musico;176;Ruivo;1;1965-05-08;Roma;12786
+748;Sonia Goncalves Monteiro;Piloto;173;Grisalho;0;1965-08-17;Buenos Aires;4415
+749;Tatiane Vieira Rocha;Professor;161;Ruivo;0;1982-12-19;Nova York;14856
+750;Thiago Goncalves Ribeiro;Musico;179;Loiro;0;1972-05-18;Nova York;10987
+751;Carlos Vieira Fernandes;Professor;168;Preto;1;1993-01-08;Madrid;2395
+752;Eduardo Ferreira Nunes;Advogado;152;Castanho;0;1980-12-04;Viena;14106
+753;Lucas Araujo Lima;Designer;167;Castanho;0;1983-06-17;Buenos Aires;30264
+754;Juliana Souza Gomes;Designer;174;Grisalho;1;1967-11-30;Atenas;20035
+755;Juliana Ribeiro Fernandes;Piloto;171;Grisalho;0;1983-04-30;Viena;12276
+756;Beatriz Costa Monteiro;Jornalista;187;Preto;1;1970-12-24;Istambul;33685
+757;Marcelo Rodrigues Vieira;Chef De Cozinha;169;Castanho;0;1996-01-17;Buenos Aires;3510
+758;Rafael Pereira Costa;Professor;175;Loiro;0;1991-04-13;Bogota;7724
+759;Rafael Pinto Cardoso;Engenheiro;181;Loiro;1;1998-11-27;Cairo;1956
+760;Jose Nunes Mendes;Musico;177;Preto;1;1966-03-17;Istambul;5074
+761;Maria Ribeiro Barbosa;Guia Turistico;184;Loiro;1;1961-10-29;Atenas;4063
+762;Monica Pereira Barbosa;Chef De Cozinha;170;Loiro;0;1965-07-28;Cidade Do Mexico;30706
+763;Patricia Moreira Carvalho;Piloto;176;Preto;0;1995-06-23;Madrid;33130
+764;Larissa Mendes Araujo;Contador;161;Loiro;1;1965-01-30;Toquio;13901
+765;Rodrigo Santos Monteiro;Advogado;168;Loiro;1;1964-01-12;Bogota;20488
+766;Sonia Oliveira Gomes;Jornalista;167;Grisalho;0;1997-08-26;Viena;4477
+767;Larissa Cardoso Rodrigues;Advogado;184;Grisalho;1;1980-03-29;Toquio;16076
+768;Rafael Lopes Nunes;Piloto;172;Ruivo;1;1975-06-20;Madrid;12427
+769;Fernanda Ribeiro Araujo;Medico;174;Preto;0;2001-08-04;Cairo;16374
+770;Joao Alves Fernandes;Designer;171;Grisalho;0;2001-02-07;Berlim;27202
+771;Gustavo Montes Monteiro;Advogado;165;Preto;0;1968-08-08;Lisboa;33493
+772;Sonia Mendes Oliveira;Professor;169;Grisalho;1;1961-07-21;Berlim;15569
+773;Maria Araujo Dias;Piloto;164;Castanho;0;2004-08-10;Viena;18444
+774;Beatriz Fernandes Ferreira;Designer;164;Grisalho;0;1967-01-09;Roma;24381
+775;Juliana Teixeira Monteiro;Fotografo;164;Ruivo;0;1999-04-20;Praga;26739
+776;Marcelo Ferreira Souza;Professor;191;Castanho;0;1990-01-20;Viena;48256
+777;Aline Pinto Nunes;Medico;183;Loiro;0;1982-05-16;Atenas;26154
+778;Marcelo Oliveira Fernandes;Fotografo;183;Castanho;1;1977-12-10;Istambul;7141
+779;Vanessa Silva Rodrigues;Medico;174;Loiro;0;2002-10-03;Toquio;36511
+780;Juliana Oliveira Teixeira;Professor;173;Grisalho;1;1992-07-23;Praga;6142
+781;Joao Martins Rodrigues;Piloto;175;Castanho;0;1980-05-28;Paris;23148
+782;Monica Teixeira Gomes;Chef De Cozinha;161;Loiro;0;1970-02-19;Madrid;33441
+783;Vanessa Ferreira Mendes;Jornalista;172;Preto;0;1976-08-07;Bogota;72604
+784;Luiza Monteiro Rocha;Advogado;171;Loiro;0;1976-04-28;Buenos Aires;5363
+785;Vanessa Santos Gomes;Professor;167;Loiro;0;1974-06-05;Viena;5973
+786;Aline Montes Teixeira;Piloto;180;Preto;0;1954-12-07;Buenos Aires;12261
+787;Tatiane Carvalho Oliveira;Guia Turistico;183;Loiro;1;1968-09-01;Paris;8706
+788;Diego Lopes Alves;Piloto;164;Grisalho;0;1958-09-27;Roma;18796
+789;Pedro Barbosa Souza;Chef De Cozinha;165;Castanho;1;1995-12-27;Praga;19650
+790;Pedro Lopes Mendes;Jornalista;173;Castanho;0;1982-12-17;Berlim;18712
+791;Ana Goncalves Alves;Jornalista;172;Preto;0;1988-11-23;Nova York;12832
+792;Renata Lima Alves;Jornalista;185;Ruivo;0;2004-07-15;Cidade Do Mexico;19989
+793;Aline Mendes Fernandes;Chef De Cozinha;157;Grisalho;0;1957-09-06;Bogota;9940
+794;Rafael Vieira Araujo;Chef De Cozinha;177;Ruivo;0;1997-01-30;Bogota;6727
+795;Diego Rodrigues Vieira;Advogado;183;Ruivo;0;1995-10-26;Nova York;7336
+796;Rodrigo Ribeiro Goncalves;Musico;173;Grisalho;0;1955-11-24;Praga;3021
+797;Tatiane Lima Costa;Contador;183;Castanho;0;1993-06-01;Madrid;83138
+798;Gustavo Monteiro Martins;Musico;180;Loiro;0;2000-02-05;Cidade Do Mexico;12995
+799;Vanessa Ribeiro Cardoso;Musico;171;Grisalho;0;1989-10-05;Toquio;4965
+800;Patricia Rodrigues Souza;Contador;155;Loiro;1;1981-06-13;Praga;25841
+801;Ana Carvalho Ribeiro;Professor;171;Ruivo;0;1973-03-23;Praga;5533
+802;Renata Pereira Goncalves;Professor;175;Ruivo;1;1979-08-05;Roma;3086
+803;Ana Araujo Ribeiro;Designer;154;Loiro;1;1998-01-26;Istambul;6122
+804;Maria Teixeira Pereira;Engenheiro;157;Preto;0;1950-04-27;Toquio;11514
+805;Rodrigo Vieira Moreira;Fotografo;166;Grisalho;0;1957-05-03;Toquio;37566
+806;Juliana Dias Pinto;Medico;171;Ruivo;1;1961-11-04;Roma;2508
+807;Maria Teixeira Alves;Musico;196;Loiro;0;1968-01-08;Viena;2980
+808;Luiza Lopes Lopes;Designer;169;Grisalho;0;1959-01-06;Buenos Aires;27048
+809;Eduardo Goncalves Monteiro;Piloto;161;Castanho;1;1983-02-26;Nova York;46378
+810;Joao Lima Alves;Engenheiro;183;Castanho;0;1968-02-25;Praga;16631
+811;Ana Dias Vieira;Fotografo;187;Ruivo;0;1963-12-23;Buenos Aires;5832
+812;Maria Vieira Fernandes;Guia Turistico;171;Castanho;0;1950-06-18;Nova York;15016
+813;Gustavo Santos Moreira;Fotografo;173;Loiro;0;1974-02-13;Istambul;10002
+814;Maria Dias Rocha;Advogado;175;Loiro;0;1952-05-13;Bogota;50866
+815;Juliana Barbosa Costa;Guia Turistico;180;Ruivo;1;1982-05-16;Toquio;13265
+816;Eduardo Vieira Alves;Jornalista;164;Castanho;0;1957-10-25;Bogota;28001
+817;Gustavo Dias Martins;Professor;159;Grisalho;0;1985-04-29;Toquio;2675
+818;Joao Moreira Teixeira;Medico;161;Grisalho;0;1952-08-11;Lisboa;34346
+819;Carlos Cardoso Lopes;Professor;173;Ruivo;0;1982-08-12;Praga;13572
+820;Renata Gomes Teixeira;Advogado;171;Preto;0;1967-06-11;Cairo;25462
+821;Aline Teixeira Lopes;Engenheiro;172;Preto;0;1960-03-29;Berlim;42931
+822;Diego Souza Souza;Advogado;187;Grisalho;0;1969-06-30;Nova York;17613
+823;Joao Montes Gomes;Advogado;167;Ruivo;0;1991-10-02;Atenas;5236
+824;Thiago Ferreira Alves;Engenheiro;175;Ruivo;0;1979-09-14;Berlim;19996
+825;Felipe Monteiro Lima;Fotografo;160;Loiro;1;1977-03-03;Istambul;5633
+826;Larissa Mendes Santos;Fotografo;169;Preto;1;1980-12-11;Nova York;4032
+827;Monica Rocha Santos;Engenheiro;167;Preto;0;1950-01-07;Lisboa;8506
+828;Diego Araujo Rocha;Piloto;157;Loiro;1;2003-02-27;Lisboa;12961
+829;Thiago Araujo Oliveira;Designer;176;Loiro;0;1971-09-20;Toquio;17978
+830;Eduardo Martins Araujo;Chef De Cozinha;173;Ruivo;1;1950-08-10;Madrid;8057
+831;Camila Cardoso Oliveira;Musico;177;Grisalho;1;1966-01-05;Berlim;29444
+832;Camila Silva Mendes;Professor;162;Grisalho;1;1966-12-21;Paris;9685
+833;Pedro Cardoso Martins;Musico;179;Preto;0;2000-11-29;Madrid;9917
+834;Lucas Rodrigues Pinto;Professor;159;Castanho;0;1985-10-31;Buenos Aires;69788
+835;Patricia Teixeira Monteiro;Designer;173;Grisalho;1;1964-06-24;Istambul;5599
+836;Fernanda Rodrigues Nunes;Guia Turistico;153;Grisalho;0;1992-07-16;Madrid;14988
+837;Thiago Nunes Santos;Fotografo;175;Castanho;0;1975-01-02;Viena;25175
+838;Camila Silva Carvalho;Guia Turistico;166;Loiro;0;1967-08-13;Cidade Do Mexico;13864
+839;Juliana Rodrigues Oliveira;Fotografo;162;Ruivo;0;1958-07-11;Cidade Do Mexico;3667
+840;Juliana Costa Lima;Fotografo;182;Preto;0;1988-07-02;Nova York;9086
+841;Thiago Barbosa Carvalho;Fotografo;186;Loiro;0;1964-04-20;Madrid;12635
+842;Juliana Rocha Teixeira;Advogado;183;Preto;1;1950-09-06;Madrid;16429
+843;Jose Lopes Monteiro;Jornalista;163;Loiro;0;1954-01-17;Viena;12661
+844;Rodrigo Pereira Monteiro;Piloto;167;Ruivo;0;1982-08-27;Cidade Do Mexico;58594
+845;Vanessa Lima Pereira;Advogado;184;Loiro;0;1975-11-01;Berlim;31076
+846;Sonia Nunes Pereira;Contador;169;Grisalho;1;1955-06-06;Berlim;6406
+847;Gustavo Pereira Teixeira;Advogado;164;Preto;1;1955-02-02;Paris;12653
+848;Luiza Oliveira Gomes;Jornalista;164;Loiro;0;1959-04-09;Cairo;73162
+849;Beatriz Teixeira Teixeira;Guia Turistico;176;Ruivo;1;1977-07-21;Praga;8907
+850;Felipe Ferreira Santos;Engenheiro;178;Ruivo;1;1988-01-13;Atenas;21408
+851;Luiza Rocha Costa;Jornalista;173;Preto;0;1974-01-17;Toquio;14297
+852;Vanessa Rocha Teixeira;Jornalista;180;Ruivo;0;1951-06-29;Viena;26906
+853;Lucas Monteiro Gomes;Piloto;176;Grisalho;0;1977-11-03;Cidade Do Mexico;6720
+854;Fernanda Lopes Goncalves;Chef De Cozinha;195;Loiro;1;1977-04-28;Istambul;6439
+855;Beatriz Goncalves Fernandes;Musico;155;Loiro;0;1965-10-17;Madrid;37520
+856;Aline Goncalves Ferreira;Engenheiro;170;Loiro;0;1996-03-08;Cidade Do Mexico;13739
+857;Renata Barbosa Silva;Piloto;176;Castanho;0;1965-12-30;Paris;93227
+858;Andre Oliveira Ribeiro;Designer;175;Grisalho;0;1991-01-23;Viena;10135
+859;Renata Montes Goncalves;Professor;161;Loiro;0;1954-08-31;Roma;15111
+860;Marcelo Santos Martins;Guia Turistico;155;Ruivo;0;1994-04-16;Cidade Do Mexico;7764
+861;Larissa Carvalho Mendes;Guia Turistico;185;Preto;1;1979-05-01;Nova York;42313
+862;Bruno Martins Ribeiro;Designer;171;Ruivo;0;1985-11-01;Viena;14818
+863;Joao Dias Barbosa;Jornalista;167;Preto;0;1995-11-17;Bogota;9508
+864;Andre Mendes Santos;Guia Turistico;171;Grisalho;1;1952-07-20;Nova York;12756
+865;Carlos Oliveira Souza;Jornalista;175;Castanho;1;1963-07-01;Atenas;5073
+866;Patricia Goncalves Monteiro;Fotografo;173;Grisalho;1;1987-12-30;Lisboa;16040
+867;Ana Ribeiro Fernandes;Musico;156;Loiro;1;1957-08-08;Madrid;16384
+868;Larissa Araujo Silva;Piloto;164;Loiro;1;1951-02-25;Cidade Do Mexico;8987
+869;Luiza Dias Goncalves;Guia Turistico;165;Preto;1;1966-06-25;Cairo;7368
+870;Aline Monteiro Martins;Guia Turistico;180;Loiro;0;1961-02-23;Paris;22283
+871;Gustavo Vieira Pinto;Professor;171;Ruivo;0;1998-05-22;Roma;14227
+872;Sonia Pereira Pereira;Professor;166;Ruivo;0;1955-12-07;Istambul;15584
+873;Thiago Nunes Goncalves;Musico;175;Ruivo;1;1963-03-27;Nova York;12851
+874;Larissa Pereira Pinto;Medico;173;Grisalho;1;1999-12-19;Toquio;4084
+875;Rodrigo Goncalves Oliveira;Musico;152;Ruivo;0;2004-02-28;Nova York;4883
+876;Ana Oliveira Mendes;Contador;161;Preto;0;1994-01-03;Cairo;16938
+877;Sonia Costa Silva;Engenheiro;165;Grisalho;0;1993-11-27;Roma;15924
+878;Felipe Lopes Moreira;Contador;169;Loiro;0;1953-03-05;Cairo;110322
+879;Vanessa Ribeiro Moreira;Piloto;168;Grisalho;0;1976-09-19;Berlim;16327
+880;Diego Dias Goncalves;Guia Turistico;163;Loiro;0;1956-06-19;Viena;6228
+881;Monica Santos Lopes;Chef De Cozinha;181;Grisalho;0;1961-03-31;Berlim;16650
+882;Sonia Carvalho Silva;Medico;169;Ruivo;1;1954-10-03;Viena;8686
+883;Sonia Costa Oliveira;Advogado;170;Loiro;0;1991-10-24;Toquio;26453
+884;Jose Martins Cardoso;Guia Turistico;159;Preto;0;1951-12-11;Bogota;3713
+885;Luiza Lopes Cardoso;Musico;164;Ruivo;0;1983-04-21;Lisboa;10338
+886;Aline Fernandes Monteiro;Fotografo;158;Castanho;1;1996-10-10;Lisboa;59772
+887;Lucas Costa Lima;Jornalista;162;Loiro;0;1966-11-26;Cairo;3607
+888;Luiza Lima Martins;Fotografo;170;Grisalho;0;1964-11-01;Istambul;8631
+889;Rafael Rocha Teixeira;Medico;164;Grisalho;0;1994-02-23;Roma;7555
+890;Sonia Dias Moreira;Piloto;186;Castanho;1;1987-08-28;Viena;18802
+891;Aline Oliveira Rocha;Jornalista;164;Loiro;1;1969-06-01;Cidade Do Mexico;5719
+892;Tatiane Nunes Goncalves;Medico;170;Preto;0;1977-03-27;Istambul;16366
+893;Maria Costa Araujo;Musico;171;Ruivo;0;2004-04-03;Madrid;2877
+894;Ana Montes Silva;Medico;163;Grisalho;0;2002-08-28;Toquio;11246
+895;Maria Souza Montes;Contador;178;Grisalho;0;1971-04-17;Madrid;9104
+896;Carlos Cardoso Gomes;Medico;153;Castanho;0;1986-01-13;Berlim;6435
+897;Thiago Fernandes Barbosa;Guia Turistico;166;Castanho;1;1983-06-26;Berlim;6648
+898;Pedro Goncalves Dias;Piloto;178;Ruivo;0;1954-11-14;Buenos Aires;12685
+899;Thiago Martins Ferreira;Professor;160;Ruivo;0;1987-08-16;Bogota;18655
+900;Carlos Moreira Goncalves;Musico;172;Castanho;0;1960-05-30;Madrid;4796
+901;Diego Oliveira Araujo;Guia Turistico;178;Preto;1;1955-11-24;Paris;10779
+902;Camila Nunes Alves;Designer;169;Preto;0;1968-02-17;Buenos Aires;28657
+903;Eduardo Monteiro Moreira;Medico;162;Loiro;1;1970-02-17;Madrid;43015
+904;Andre Oliveira Dias;Guia Turistico;149;Ruivo;0;1996-05-27;Cairo;5937
+905;Ana Pereira Goncalves;Designer;172;Grisalho;0;1952-04-08;Madrid;13492
+906;Marcelo Rodrigues Ribeiro;Piloto;164;Ruivo;1;1954-01-01;Madrid;38143
+907;Camila Teixeira Nunes;Engenheiro;159;Ruivo;0;1981-03-17;Istambul;81077
+908;Carlos Carvalho Cardoso;Musico;165;Grisalho;0;1978-10-28;Berlim;4494
+909;Diego Lopes Gomes;Engenheiro;183;Castanho;0;1985-09-19;Paris;18419
+910;Maria Oliveira Ribeiro;Professor;166;Ruivo;0;1960-11-24;Atenas;8039
+911;Ana Rodrigues Cardoso;Chef De Cozinha;180;Ruivo;0;1967-06-08;Madrid;5412
+912;Juliana Vieira Ferreira;Fotografo;175;Grisalho;0;1968-09-22;Roma;4499
+913;Aline Araujo Silva;Professor;179;Preto;0;1971-11-29;Berlim;59375
+914;Juliana Vieira Montes;Guia Turistico;172;Preto;1;1959-08-08;Praga;21879
+915;Tatiane Lima Barbosa;Piloto;169;Castanho;1;2004-07-08;Cidade Do Mexico;3296
+916;Thiago Rodrigues Barbosa;Chef De Cozinha;174;Ruivo;0;1991-12-13;Istambul;10473
+917;Carlos Gomes Alves;Piloto;163;Grisalho;0;1957-03-31;Bogota;6061
+918;Marcelo Montes Silva;Jornalista;163;Preto;0;1985-02-18;Atenas;12935
+919;Rodrigo Lopes Alves;Designer;165;Castanho;0;1991-09-05;Istambul;15486
+920;Gustavo Dias Gomes;Contador;163;Preto;0;1995-07-29;Viena;14481
+921;Luiza Barbosa Oliveira;Musico;174;Preto;0;1995-12-03;Viena;7449
+922;Carlos Ferreira Monteiro;Piloto;182;Ruivo;0;1958-07-20;Toquio;16781
+923;Pedro Ferreira Moreira;Contador;168;Castanho;1;1973-07-15;Viena;1778
+924;Luiza Carvalho Rocha;Piloto;163;Grisalho;0;1998-01-11;Atenas;34136
+925;Renata Carvalho Fernandes;Engenheiro;162;Ruivo;0;1963-04-22;Buenos Aires;27614
+926;Camila Rodrigues Nunes;Medico;154;Castanho;1;2001-03-20;Nova York;103330
+927;Marcelo Silva Teixeira;Engenheiro;176;Grisalho;0;1962-03-06;Toquio;16685
+928;Lucas Martins Rodrigues;Chef De Cozinha;155;Preto;0;1977-01-25;Toquio;37952
+929;Andre Mendes Rocha;Musico;172;Loiro;0;1969-02-23;Roma;6437
+930;Felipe Alves Moreira;Jornalista;164;Ruivo;0;1962-04-15;Istambul;9614
+931;Luiza Pereira Rocha;Medico;177;Preto;1;1964-01-07;Madrid;18272
+932;Bruno Vieira Dias;Fotografo;177;Grisalho;0;1973-10-03;Toquio;10217
+933;Luiza Mendes Souza;Contador;183;Preto;1;1966-05-09;Berlim;50538
+934;Luiza Pinto Mendes;Musico;170;Castanho;1;1976-02-07;Cairo;22553
+935;Beatriz Moreira Pinto;Advogado;189;Ruivo;0;1974-02-17;Viena;5805
+936;Andre Oliveira Cardoso;Medico;169;Preto;0;1960-02-02;Berlim;18503
+937;Tatiane Carvalho Alves;Musico;178;Preto;0;1951-04-03;Bogota;183960
+938;Sonia Dias Montes;Jornalista;186;Grisalho;1;1951-11-08;Madrid;17042
+939;Gustavo Vieira Silva;Guia Turistico;160;Preto;1;1950-12-25;Viena;5199
+940;Fernanda Ribeiro Gomes;Fotografo;160;Ruivo;0;2002-09-19;Cidade Do Mexico;18167
+941;Fernanda Cardoso Alves;Engenheiro;175;Loiro;0;1998-04-05;Berlim;7453
+942;Joao Nunes Rocha;Engenheiro;180;Ruivo;1;1958-07-13;Istambul;20185
+943;Gustavo Oliveira Rodrigues;Contador;165;Castanho;0;1980-05-08;Madrid;12577
+944;Vanessa Barbosa Araujo;Advogado;153;Castanho;0;1979-06-10;Berlim;15794
+945;Eduardo Montes Lima;Fotografo;176;Preto;1;1979-09-09;Atenas;33206
+946;Gustavo Nunes Ferreira;Piloto;174;Loiro;0;1952-07-23;Toquio;18514
+947;Carlos Barbosa Pereira;Chef De Cozinha;162;Ruivo;0;1951-05-13;Lisboa;49136
+948;Monica Alves Nunes;Guia Turistico;170;Loiro;0;1988-10-02;Nova York;14635
+949;Pedro Fernandes Oliveira;Advogado;157;Preto;1;1991-01-27;Buenos Aires;62023
+950;Felipe Montes Ribeiro;Designer;168;Ruivo;0;1992-01-26;Bogota;3083
+951;Lucas Dias Lopes;Piloto;181;Castanho;0;1955-06-11;Toquio;18481
+952;Eduardo Pereira Nunes;Advogado;161;Grisalho;0;1971-02-20;Istambul;22315
+953;Ana Vieira Cardoso;Designer;154;Loiro;1;1978-09-15;Nova York;29404
+954;Andre Barbosa Ribeiro;Piloto;183;Ruivo;1;1983-10-24;Cidade Do Mexico;31926
+955;Monica Fernandes Santos;Musico;182;Ruivo;0;1973-02-03;Paris;2386
+956;Monica Santos Teixeira;Jornalista;174;Castanho;0;1953-09-25;Praga;39227
+957;Fernanda Dias Pereira;Designer;171;Preto;0;1953-12-01;Berlim;19766
+958;Juliana Moreira Lima;Contador;161;Grisalho;0;1970-05-04;Cairo;11588
+959;Carlos Ferreira Martins;Chef De Cozinha;178;Loiro;0;1991-05-15;Toquio;10677
+960;Ana Oliveira Goncalves;Designer;169;Preto;0;1991-01-26;Buenos Aires;11468
+961;Monica Alves Cardoso;Advogado;171;Loiro;1;1968-05-09;Paris;17988
+962;Juliana Araujo Oliveira;Jornalista;175;Grisalho;1;2000-06-21;Lisboa;66599
+963;Maria Mendes Carvalho;Contador;163;Loiro;1;1990-08-19;Istambul;5612
+964;Juliana Mendes Ferreira;Professor;180;Ruivo;1;1985-12-23;Nova York;48795
+965;Rodrigo Silva Araujo;Advogado;160;Preto;0;1988-04-04;Cidade Do Mexico;1828
+966;Beatriz Ribeiro Carvalho;Medico;164;Preto;0;1951-07-04;Berlim;8435
+967;Bruno Dias Goncalves;Advogado;170;Grisalho;1;1967-04-20;Nova York;10050
+968;Aline Cardoso Gomes;Jornalista;186;Grisalho;0;1955-10-15;Lisboa;10713
+969;Ana Fernandes Nunes;Fotografo;171;Castanho;1;1992-11-14;Praga;6405
+970;Patricia Souza Goncalves;Jornalista;145;Loiro;0;1967-02-12;Atenas;13426
+971;Juliana Martins Mendes;Designer;178;Grisalho;0;1964-02-25;Cidade Do Mexico;5885
+972;Vanessa Santos Nunes;Guia Turistico;188;Grisalho;0;1970-12-10;Istambul;38223
+973;Andre Barbosa Pereira;Jornalista;167;Castanho;0;1967-11-09;Bogota;18787
+974;Aline Lopes Dias;Engenheiro;182;Castanho;1;1993-12-28;Toquio;4088
+975;Luiza Lima Cardoso;Medico;157;Loiro;1;1964-11-15;Praga;10414
+976;Diego Barbosa Monteiro;Advogado;164;Grisalho;0;1997-02-21;Berlim;42007
+977;Ana Santos Pereira;Chef De Cozinha;176;Grisalho;0;1988-10-16;Atenas;18349
+978;Larissa Nunes Teixeira;Chef De Cozinha;165;Grisalho;0;1996-07-11;Praga;37864
+979;Pedro Dias Fernandes;Advogado;173;Castanho;0;1962-11-22;Cidade Do Mexico;20414
+980;Ana Mendes Montes;Designer;171;Castanho;0;1964-07-22;Paris;17649
+981;Marcelo Ribeiro Souza;Piloto;163;Castanho;0;1976-06-27;Atenas;4761
+982;Gustavo Lopes Pereira;Piloto;159;Castanho;0;1973-09-28;Istambul;19056
+983;Rodrigo Rocha Moreira;Designer;143;Loiro;0;1953-04-28;Paris;33617
+984;Vanessa Dias Santos;Professor;174;Grisalho;1;1972-10-18;Bogota;7810
+985;Tatiane Gomes Ribeiro;Guia Turistico;161;Grisalho;0;1994-11-08;Cairo;49050
+986;Andre Santos Souza;Fotografo;152;Castanho;0;1951-10-22;Cidade Do Mexico;9323
+987;Maria Ferreira Monteiro;Designer;169;Loiro;0;1963-08-13;Buenos Aires;1435
+988;Ana Araujo Souza;Fotografo;160;Castanho;1;1978-11-11;Lisboa;38852
+989;Monica Lopes Fernandes;Piloto;168;Loiro;0;1979-06-19;Paris;17437
+990;Bruno Fernandes Martins;Guia Turistico;162;Castanho;0;1956-06-29;Cidade Do Mexico;3852
+991;Marcelo Montes Nunes;Jornalista;168;Ruivo;0;1998-12-10;Paris;3285
+992;Rafael Pinto Goncalves;Contador;173;Grisalho;0;1976-12-10;Berlim;2050
+993;Beatriz Monteiro Nunes;Piloto;175;Castanho;1;1995-04-07;Praga;9945
+994;Felipe Silva Fernandes;Designer;176;Castanho;0;1969-11-17;Viena;12598
+995;Gustavo Vieira Ribeiro;Fotografo;172;Loiro;0;1969-03-19;Lisboa;8303
+996;Sonia Oliveira Ferreira;Fotografo;181;Loiro;0;1971-06-30;Madrid;13777
+997;Diego Dias Lopes;Medico;161;Grisalho;0;1994-11-03;Cairo;22947
+998;Monica Monteiro Barbosa;Guia Turistico;181;Loiro;1;1988-01-04;Atenas;9580
+999;Vanessa Pinto Monteiro;Advogado;173;Ruivo;0;1979-08-28;Viena;12352
+1000;Maria Vieira Moreira;Engenheiro;169;Preto;0;1977-10-15;Paris;1017
+1001;Vanessa Vieira Carvalho;Contador;157;Castanho;0;1953-04-15;Cidade Do Mexico;8298
+1002;Larissa Ferreira Ferreira;Musico;174;Castanho;1;1974-02-03;Nova York;27110
+1003;Joao Ferreira Pinto;Guia Turistico;177;Grisalho;0;1994-10-05;Buenos Aires;13419
+1004;Andre Nunes Moreira;Guia Turistico;175;Grisalho;1;1990-01-03;Toquio;49965
+1005;Tatiane Mendes Oliveira;Guia Turistico;182;Loiro;1;1965-03-20;Viena;11041
+1006;Camila Teixeira Souza;Professor;161;Grisalho;0;1991-08-23;Paris;11751
+1007;Thiago Alves Carvalho;Musico;174;Grisalho;0;1962-12-09;Buenos Aires;10378
+1008;Juliana Nunes Monteiro;Professor;159;Loiro;0;2004-02-12;Bogota;8362
+1009;Tatiane Silva Mendes;Guia Turistico;174;Castanho;1;1969-10-11;Berlim;8316
+1010;Fernanda Pinto Barbosa;Medico;170;Loiro;0;2001-08-16;Atenas;17680
+1011;Gustavo Rodrigues Ferreira;Fotografo;169;Grisalho;0;2000-03-16;Nova York;1893
+1012;Aline Cardoso Dias;Professor;177;Castanho;0;1982-07-19;Nova York;3746
+1013;Aline Moreira Rocha;Jornalista;187;Ruivo;0;2001-07-13;Bogota;12504
+1014;Aline Souza Ferreira;Designer;163;Grisalho;1;1991-08-31;Madrid;11509
+1015;Ana Montes Teixeira;Musico;176;Ruivo;1;1953-03-13;Buenos Aires;5370
+1016;Ana Pinto Silva;Chef De Cozinha;172;Ruivo;0;1957-04-12;Nova York;16644
+1017;Felipe Carvalho Barbosa;Piloto;189;Castanho;1;1992-09-13;Atenas;28944
+1018;Carlos Souza Fernandes;Advogado;158;Castanho;1;1991-06-10;Toquio;6850
+1019;Juliana Costa Costa;Designer;156;Castanho;0;1965-02-08;Cidade Do Mexico;9741
+1020;Ana Ferreira Alves;Medico;167;Ruivo;0;1988-02-04;Viena;32516
+1021;Gustavo Costa Gomes;Advogado;171;Preto;0;1982-09-29;Roma;36149
+1022;Diego Moreira Pinto;Medico;173;Grisalho;0;2003-07-15;Praga;11974
+1023;Vanessa Souza Gomes;Advogado;173;Ruivo;1;1953-08-18;Lisboa;3466
+1024;Patricia Teixeira Goncalves;Piloto;172;Castanho;1;1960-12-24;Cairo;8810
+1025;Carlos Araujo Carvalho;Piloto;166;Preto;0;1960-06-12;Cidade Do Mexico;14326
+1026;Patricia Mendes Rodrigues;Musico;171;Ruivo;0;1962-03-23;Berlim;62036
+1027;Felipe Lopes Costa;Fotografo;164;Grisalho;0;1974-10-16;Madrid;26823
+1028;Diego Costa Lima;Contador;180;Ruivo;0;1975-07-14;Istambul;2121
+1029;Monica Ferreira Carvalho;Designer;159;Ruivo;0;1964-04-30;Atenas;6652
+1030;Lucas Santos Moreira;Designer;165;Preto;0;2001-04-11;Berlim;16819
+1031;Patricia Rodrigues Fernandes;Professor;176;Ruivo;1;1981-08-09;Toquio;17216
+1032;Rodrigo Ribeiro Vieira;Fotografo;181;Castanho;1;1962-07-18;Roma;9513
+1033;Jose Lima Dias;Professor;178;Castanho;0;1976-04-13;Bogota;17249
+1034;Jose Costa Costa;Chef De Cozinha;169;Preto;0;1970-06-01;Viena;2619
+1035;Camila Gomes Costa;Engenheiro;176;Grisalho;1;1972-10-08;Madrid;8610
+1036;Patricia Fernandes Fernandes;Contador;157;Castanho;0;1983-04-30;Bogota;8233
+1037;Andre Oliveira Goncalves;Engenheiro;177;Grisalho;0;1980-11-18;Viena;29297
+1038;Camila Oliveira Rocha;Piloto;150;Ruivo;1;1981-02-25;Buenos Aires;10049
+1039;Tatiane Costa Goncalves;Jornalista;169;Loiro;0;1955-04-01;Atenas;31913
+1040;Vanessa Araujo Santos;Jornalista;167;Loiro;1;1955-05-01;Bogota;10091
+1041;Vanessa Ferreira Vieira;Chef De Cozinha;171;Castanho;0;1961-01-29;Madrid;24476
+1042;Andre Moreira Ribeiro;Musico;176;Grisalho;1;1973-01-17;Madrid;18145
+1043;Marcelo Mendes Carvalho;Medico;185;Castanho;0;1978-12-09;Bogota;18974
+1044;Pedro Martins Martins;Contador;160;Grisalho;1;1958-06-29;Madrid;5645
+1045;Monica Moreira Rodrigues;Designer;167;Grisalho;0;1953-04-09;Buenos Aires;8137
+1046;Larissa Santos Pinto;Chef De Cozinha;168;Ruivo;0;1958-07-10;Viena;10730
+1047;Joao Rocha Oliveira;Piloto;164;Grisalho;0;1996-08-14;Toquio;28680
+1048;Beatriz Oliveira Fernandes;Engenheiro;173;Castanho;0;1992-03-15;Viena;16265
+1049;Rodrigo Teixeira Dias;Advogado;151;Castanho;0;1963-06-16;Lisboa;135230
+1050;Beatriz Carvalho Teixeira;Fotografo;185;Castanho;1;1983-02-11;Istambul;20546
+1051;Luiza Silva Santos;Advogado;177;Loiro;1;1963-12-09;Istambul;13839
+1052;Rodrigo Nunes Dias;Piloto;167;Grisalho;0;1951-03-24;Paris;20292
+1053;Beatriz Martins Fernandes;Jornalista;175;Ruivo;1;2004-08-21;Paris;11998
+1054;Monica Costa Gomes;Advogado;162;Grisalho;0;2004-09-30;Cairo;8899
+1055;Rafael Araujo Araujo;Advogado;182;Preto;0;1979-12-06;Cairo;4330
+1056;Tatiane Montes Barbosa;Guia Turistico;166;Preto;0;1986-06-04;Viena;18965
+1057;Jose Souza Vieira;Fotografo;153;Castanho;0;1954-05-20;Atenas;31850
+1058;Monica Fernandes Ferreira;Advogado;169;Ruivo;0;1994-02-13;Lisboa;22338
+1059;Thiago Moreira Alves;Fotografo;178;Loiro;0;1955-05-06;Paris;3270
+1060;Tatiane Barbosa Martins;Musico;163;Castanho;0;1962-07-07;Lisboa;13156
+1061;Ana Teixeira Carvalho;Professor;169;Ruivo;1;1984-11-22;Viena;7410
+1062;Gustavo Oliveira Ribeiro;Chef De Cozinha;171;Ruivo;0;1987-04-16;Istambul;8573
+1063;Eduardo Barbosa Lopes;Jornalista;168;Grisalho;0;1988-12-19;Roma;1967
+1064;Andre Monteiro Cardoso;Chef De Cozinha;175;Grisalho;1;1952-09-15;Lisboa;30782
+1065;Ana Araujo Nunes;Contador;163;Ruivo;0;1983-12-15;Praga;11209
+1066;Rafael Santos Rodrigues;Advogado;166;Loiro;0;1973-04-14;Bogota;32185
+1067;Ana Vieira Goncalves;Jornalista;175;Ruivo;0;1970-05-21;Berlim;4692
+1068;Rafael Monteiro Costa;Professor;170;Ruivo;0;1993-04-09;Nova York;7208
+1069;Larissa Martins Barbosa;Medico;164;Ruivo;1;1969-01-09;Lisboa;10539
+1070;Bruno Fernandes Nunes;Designer;159;Loiro;0;1952-10-18;Istambul;8785
+1071;Felipe Nunes Monteiro;Medico;183;Ruivo;1;1987-10-26;Paris;13466
+1072;Rafael Pinto Teixeira;Advogado;178;Ruivo;0;1976-09-24;Nova York;23565
+1073;Patricia Teixeira Rocha;Chef De Cozinha;182;Ruivo;0;1954-07-31;Cairo;28538
+1074;Bruno Lima Montes;Engenheiro;196;Ruivo;0;1951-06-15;Cidade Do Mexico;48619
+1075;Ana Cardoso Barbosa;Advogado;176;Loiro;0;1952-03-31;Bogota;15452
+1076;Felipe Lima Lopes;Advogado;179;Ruivo;1;1955-05-20;Paris;20752
+1077;Lucas Lopes Souza;Medico;167;Grisalho;1;1969-09-01;Viena;7026
+1078;Diego Vieira Martins;Piloto;172;Loiro;0;1992-07-01;Lisboa;30560
+1079;Aline Pereira Alves;Guia Turistico;169;Grisalho;0;1983-12-08;Madrid;25437
+1080;Rafael Moreira Mendes;Advogado;157;Grisalho;1;1974-09-01;Cidade Do Mexico;9679
+1081;Andre Pereira Moreira;Advogado;164;Grisalho;0;1984-07-27;Istambul;25990
+1082;Maria Teixeira Mendes;Musico;158;Preto;0;1974-03-08;Toquio;30429
+1083;Monica Souza Teixeira;Piloto;175;Preto;0;1987-01-04;Praga;48107
+1084;Vanessa Costa Costa;Jornalista;165;Ruivo;0;1985-06-01;Nova York;4619
+1085;Rafael Araujo Mendes;Contador;182;Preto;0;1955-10-05;Praga;10399
+1086;Andre Carvalho Ferreira;Fotografo;177;Castanho;1;1964-01-22;Roma;33158
+1087;Rodrigo Pereira Silva;Guia Turistico;161;Castanho;1;1951-03-10;Paris;8624
+1088;Diego Ribeiro Martins;Chef De Cozinha;179;Preto;1;1996-02-04;Cairo;28165
+1089;Aline Fernandes Silva;Designer;157;Castanho;1;1970-12-11;Toquio;5445
+1090;Felipe Oliveira Alves;Designer;189;Preto;0;1961-08-11;Cidade Do Mexico;16040
+1091;Ana Carvalho Montes;Medico;174;Castanho;0;1993-10-16;Istambul;26281
+1092;Felipe Rodrigues Gomes;Designer;168;Loiro;0;1987-03-05;Lisboa;16541
+1093;Fernanda Ferreira Teixeira;Designer;186;Castanho;1;1966-06-21;Bogota;9160
+1094;Luiza Lima Ferreira;Musico;167;Ruivo;0;1993-01-13;Buenos Aires;3632
+1095;Andre Ribeiro Lopes;Fotografo;153;Loiro;0;1956-03-04;Nova York;33345
+1096;Rafael Cardoso Gomes;Medico;177;Grisalho;0;1953-04-03;Berlim;12829
+1097;Patricia Souza Martins;Medico;169;Ruivo;0;1973-05-29;Istambul;62710
+1098;Renata Vieira Rodrigues;Guia Turistico;183;Ruivo;0;1965-04-14;Toquio;14712
+1099;Rodrigo Pereira Goncalves;Chef De Cozinha;174;Castanho;1;1959-08-06;Nova York;61011
+1100;Fernanda Carvalho Vieira;Designer;165;Grisalho;1;1970-03-14;Paris;7458
+1101;Sonia Santos Araujo;Medico;181;Loiro;0;1969-02-25;Cidade Do Mexico;6033
+1102;Gustavo Araujo Ribeiro;Designer;173;Grisalho;0;1953-12-11;Viena;18074
+1103;Patricia Barbosa Ribeiro;Jornalista;166;Preto;0;2002-07-15;Roma;2593
+1104;Tatiane Montes Oliveira;Designer;178;Preto;1;1972-01-16;Praga;45793
+1105;Vanessa Pinto Alves;Chef De Cozinha;174;Castanho;0;1966-06-22;Cairo;18893
+1106;Ana Ferreira Rodrigues;Advogado;173;Loiro;0;1959-12-11;Buenos Aires;2522
+1107;Carlos Gomes Cardoso;Chef De Cozinha;157;Castanho;0;1963-05-09;Toquio;6270
+1108;Jose Lima Moreira;Chef De Cozinha;180;Loiro;1;2004-03-23;Toquio;27371
+1109;Vanessa Moreira Teixeira;Professor;170;Preto;1;1952-08-18;Istambul;8264
+1110;Luiza Souza Mendes;Fotografo;178;Preto;0;1957-02-14;Lisboa;10471
+1111;Rodrigo Costa Lima;Guia Turistico;172;Grisalho;0;1971-10-03;Nova York;14487
+1112;Andre Santos Pinto;Engenheiro;155;Preto;0;2000-08-25;Toquio;27086
+1113;Patricia Dias Nunes;Designer;166;Castanho;1;1964-05-12;Toquio;20575
+1114;Rafael Teixeira Teixeira;Chef De Cozinha;167;Preto;0;1988-08-01;Cidade Do Mexico;4780
+1115;Lucas Monteiro Ribeiro;Advogado;176;Castanho;1;1987-03-29;Nova York;5693
+1116;Vanessa Cardoso Goncalves;Contador;174;Grisalho;0;1973-05-26;Roma;26623
+1117;Patricia Araujo Souza;Contador;168;Ruivo;0;1961-04-14;Nova York;6697
+1118;Renata Nunes Monteiro;Jornalista;180;Preto;0;1967-06-05;Atenas;18268
+1119;Juliana Goncalves Araujo;Engenheiro;165;Loiro;0;1973-02-05;Istambul;15457
+1120;Aline Teixeira Vieira;Musico;172;Loiro;0;1953-10-08;Atenas;19031
+1121;Felipe Oliveira Araujo;Advogado;179;Grisalho;0;1967-04-02;Praga;2939
+1122;Diego Lopes Pinto;Contador;176;Castanho;0;1962-03-14;Nova York;11528
+1123;Thiago Araujo Goncalves;Advogado;163;Castanho;0;1979-11-06;Cidade Do Mexico;16269
+1124;Larissa Ribeiro Rodrigues;Musico;161;Castanho;0;1962-05-14;Istambul;88235
+1125;Juliana Goncalves Mendes;Chef De Cozinha;176;Loiro;0;1958-11-07;Cairo;209730
+1126;Eduardo Nunes Lima;Musico;162;Preto;0;1990-07-03;Cairo;28460
+1127;Vanessa Alves Pereira;Contador;183;Grisalho;1;1979-07-27;Atenas;65957
+1128;Rodrigo Souza Ribeiro;Professor;167;Ruivo;0;1990-05-25;Istambul;8570
+1129;Gustavo Oliveira Dias;Musico;156;Grisalho;0;1990-04-17;Istambul;23579
+1130;Aline Carvalho Oliveira;Engenheiro;168;Castanho;0;1966-01-01;Atenas;84447
+1131;Bruno Rodrigues Carvalho;Musico;153;Castanho;0;1991-12-12;Cidade Do Mexico;1124
+1132;Patricia Vieira Silva;Professor;175;Loiro;0;1971-09-19;Toquio;10798
+1133;Jose Araujo Ribeiro;Jornalista;174;Loiro;0;1970-09-25;Toquio;24340
+1134;Beatriz Teixeira Goncalves;Advogado;172;Grisalho;0;1978-05-15;Berlim;19806
+1135;Thiago Teixeira Martins;Jornalista;167;Castanho;0;1951-02-11;Praga;13446
+1136;Juliana Rodrigues Lima;Advogado;171;Preto;1;1960-03-16;Buenos Aires;4749
+1137;Bruno Araujo Pereira;Contador;164;Castanho;0;1956-11-06;Paris;13039
+1138;Marcelo Lopes Costa;Designer;158;Loiro;1;1995-07-21;Toquio;6759
+1139;Carlos Araujo Souza;Medico;194;Ruivo;0;1950-02-01;Cairo;8461
+1140;Ana Vieira Silva;Contador;191;Preto;1;1996-09-11;Cidade Do Mexico;49219
+1141;Vanessa Teixeira Souza;Musico;167;Preto;0;1991-01-07;Cidade Do Mexico;3618
+1142;Ana Monteiro Pereira;Advogado;169;Loiro;0;1982-06-27;Praga;41745
+1143;Vanessa Alves Rodrigues;Piloto;188;Ruivo;0;1981-05-15;Madrid;13033
+1144;Camila Cardoso Souza;Professor;185;Grisalho;0;1958-05-24;Viena;24412
+1145;Fernanda Nunes Gomes;Medico;165;Preto;0;2001-01-08;Lisboa;6037
+1146;Sonia Dias Costa;Fotografo;180;Ruivo;0;1985-07-10;Madrid;26241
+1147;Diego Montes Pinto;Medico;167;Ruivo;1;1974-02-04;Madrid;27220
+1148;Pedro Costa Fernandes;Contador;177;Loiro;0;1962-12-06;Bogota;13665
+1149;Pedro Pereira Martins;Contador;168;Preto;0;2001-12-30;Bogota;18864
+1150;Fernanda Montes Carvalho;Fotografo;174;Castanho;0;1953-06-21;Cairo;44168
+1151;Thiago Costa Vieira;Engenheiro;179;Ruivo;0;1968-12-23;Atenas;7130
+1152;Beatriz Carvalho Ferreira;Advogado;167;Castanho;0;1999-12-09;Bogota;5766
+1153;Gustavo Goncalves Vieira;Contador;167;Grisalho;0;1978-10-17;Roma;3265
+1154;Eduardo Costa Cardoso;Engenheiro;167;Castanho;0;1972-07-08;Bogota;24808
+1155;Patricia Silva Carvalho;Designer;168;Preto;0;1973-08-07;Buenos Aires;9504
+1156;Sonia Montes Carvalho;Medico;187;Grisalho;1;1981-08-06;Istambul;59939
+1157;Jose Nunes Carvalho;Guia Turistico;169;Ruivo;1;1974-01-24;Istambul;47148
+1158;Fernanda Montes Pinto;Designer;169;Loiro;0;1967-08-06;Buenos Aires;2789
+1159;Aline Vieira Vieira;Engenheiro;166;Castanho;0;1993-08-07;Roma;174857
+1160;Juliana Mendes Cardoso;Medico;194;Loiro;0;1974-10-27;Istambul;25337
+1161;Maria Araujo Ribeiro;Fotografo;156;Preto;0;1967-06-07;Berlim;18772
+1162;Fernanda Oliveira Goncalves;Jornalista;184;Ruivo;0;1984-10-28;Lisboa;30703
+1163;Vanessa Costa Carvalho;Jornalista;171;Grisalho;0;1981-01-19;Madrid;57215
+1164;Andre Monteiro Souza;Chef De Cozinha;166;Castanho;0;1958-06-25;Cairo;23257
+1165;Gustavo Teixeira Nunes;Fotografo;171;Grisalho;0;1980-05-24;Istambul;28886
+1166;Sonia Fernandes Rodrigues;Fotografo;157;Preto;1;1976-07-29;Praga;12753
+1167;Monica Montes Alves;Jornalista;172;Grisalho;1;1966-04-26;Roma;11358
+1168;Diego Fernandes Ferreira;Fotografo;175;Preto;0;1964-11-12;Istambul;51743
+1169;Joao Teixeira Goncalves;Designer;171;Castanho;0;1952-02-07;Viena;20064
+1170;Eduardo Moreira Montes;Contador;171;Loiro;0;1974-11-23;Roma;30995
+1171;Ana Mendes Lima;Fotografo;164;Grisalho;0;1993-09-13;Berlim;7427
+1172;Jose Dias Vieira;Medico;177;Grisalho;1;1982-11-27;Nova York;5613
+1173;Aline Oliveira Barbosa;Designer;155;Preto;0;1960-10-25;Istambul;52298
+1174;Carlos Lopes Dias;Designer;164;Grisalho;0;1957-10-09;Atenas;48562
+1175;Rodrigo Souza Oliveira;Musico;155;Preto;0;1956-04-02;Cairo;90791
+1176;Rodrigo Rodrigues Ferreira;Designer;168;Grisalho;0;1993-08-02;Bogota;16535
+1177;Patricia Alves Pereira;Fotografo;169;Preto;0;1991-09-03;Madrid;24242
+1178;Rafael Barbosa Montes;Engenheiro;176;Loiro;0;1996-02-20;Atenas;66610
+1179;Vanessa Monteiro Moreira;Fotografo;160;Loiro;0;1961-08-16;Toquio;34860
+1180;Marcelo Moreira Dias;Piloto;165;Preto;1;1980-09-01;Berlim;7448
+1181;Monica Cardoso Montes;Advogado;166;Castanho;0;1997-01-31;Istambul;29586
+1182;Diego Vieira Gomes;Piloto;172;Loiro;1;1965-01-01;Bogota;48452
+1183;Luiza Vieira Nunes;Advogado;155;Castanho;0;1989-05-28;Madrid;3607
+1184;Patricia Araujo Dias;Medico;188;Loiro;1;1968-09-09;Istambul;5802
+1185;Monica Alves Dias;Advogado;166;Castanho;0;1985-12-02;Atenas;18346
+1186;Joao Ribeiro Oliveira;Contador;184;Ruivo;1;1976-01-28;Roma;29520
+1187;Vanessa Ribeiro Pereira;Designer;161;Preto;0;1955-10-14;Istambul;4994
+1188;Thiago Moreira Goncalves;Advogado;164;Ruivo;1;1958-02-14;Viena;23332
+1189;Camila Gomes Gomes;Designer;169;Grisalho;0;1995-10-07;Toquio;2823
+1190;Felipe Vieira Goncalves;Guia Turistico;161;Ruivo;1;1971-08-31;Praga;11052
+1191;Eduardo Montes Oliveira;Guia Turistico;160;Ruivo;1;1987-04-01;Cidade Do Mexico;5802
+1192;Maria Martins Moreira;Piloto;188;Preto;0;1980-09-08;Buenos Aires;1169
+1193;Monica Oliveira Fernandes;Professor;175;Grisalho;1;2002-11-12;Viena;33427
+1194;Diego Costa Pinto;Engenheiro;163;Loiro;1;1982-08-15;Praga;18989
+1195;Fernanda Costa Lima;Piloto;174;Grisalho;0;1997-12-13;Paris;6469
+1196;Joao Ferreira Lima;Piloto;177;Preto;0;1970-02-19;Bogota;15028
+1197;Patricia Gomes Lima;Chef De Cozinha;173;Ruivo;1;1958-01-10;Viena;7331
+1198;Aline Lima Pinto;Musico;162;Loiro;0;1951-08-28;Roma;14270
+1199;Larissa Cardoso Santos;Fotografo;168;Ruivo;1;1973-04-03;Toquio;120775
+1200;Fernanda Martins Cardoso;Engenheiro;163;Loiro;0;1997-08-23;Toquio;56954
+1201;Monica Martins Montes;Jornalista;171;Castanho;0;1984-05-29;Madrid;12694
+1202;Ana Nunes Goncalves;Piloto;174;Preto;0;1977-11-29;Toquio;28701
+1203;Diego Cardoso Monteiro;Professor;170;Grisalho;0;1976-08-22;Toquio;25179
+1204;Monica Monteiro Dias;Professor;157;Ruivo;1;2000-08-19;Istambul;9372
+1205;Camila Rodrigues Moreira;Contador;161;Castanho;1;1999-06-12;Madrid;11800
+1206;Carlos Dias Dias;Jornalista;179;Castanho;1;1950-02-16;Lisboa;10357
+1207;Lucas Costa Rocha;Contador;165;Ruivo;0;1973-07-11;Toquio;9304
+1208;Bruno Alves Ferreira;Jornalista;181;Ruivo;0;1978-05-06;Cidade Do Mexico;3188
+1209;Thiago Ferreira Goncalves;Chef De Cozinha;176;Preto;0;1967-06-21;Berlim;8662
+1210;Larissa Dias Fernandes;Medico;172;Grisalho;0;1959-08-07;Atenas;14014
+1211;Aline Cardoso Mendes;Jornalista;161;Loiro;1;1977-01-27;Paris;12032
+1212;Felipe Ferreira Moreira;Guia Turistico;167;Grisalho;0;1959-04-22;Nova York;5464
+1213;Bruno Barbosa Moreira;Advogado;188;Ruivo;0;1973-08-12;Paris;6513
+1214;Sonia Pinto Mendes;Medico;167;Castanho;0;1980-05-09;Toquio;26690
+1215;Lucas Carvalho Pereira;Contador;172;Preto;1;1952-06-08;Nova York;6119
+1216;Renata Souza Souza;Piloto;164;Castanho;0;1976-06-01;Cidade Do Mexico;3932
+1217;Eduardo Oliveira Pereira;Jornalista;164;Castanho;0;2001-05-17;Nova York;42547
+1218;Monica Moreira Moreira;Advogado;165;Grisalho;0;1981-12-14;Roma;9241
+1219;Pedro Teixeira Dias;Fotografo;167;Loiro;0;1956-11-24;Praga;10988
+1220;Luiza Lopes Cardoso;Guia Turistico;168;Ruivo;0;1979-06-06;Cidade Do Mexico;7131
+1221;Maria Ferreira Lopes;Medico;184;Grisalho;0;1970-05-09;Madrid;27597
+1222;Vanessa Montes Lima;Piloto;172;Ruivo;0;1970-04-02;Istambul;6737
+1223;Rodrigo Rocha Carvalho;Guia Turistico;146;Ruivo;0;1976-04-30;Nova York;12783
+1224;Felipe Souza Barbosa;Musico;160;Preto;0;1995-07-17;Buenos Aires;12025
+1225;Gustavo Rocha Montes;Advogado;163;Preto;0;1966-08-03;Paris;2624
+1226;Patricia Mendes Teixeira;Medico;187;Castanho;1;1983-09-23;Toquio;30361
+1227;Andre Silva Ferreira;Advogado;173;Grisalho;0;1969-09-08;Buenos Aires;22422
+1228;Diego Cardoso Mendes;Contador;187;Ruivo;1;1969-01-03;Toquio;9519
+1229;Fernanda Cardoso Ferreira;Medico;175;Grisalho;0;1996-09-08;Lisboa;5980
+1230;Rafael Silva Fernandes;Chef De Cozinha;173;Ruivo;0;1996-03-14;Madrid;10635
+1231;Renata Ribeiro Montes;Advogado;167;Grisalho;1;1996-03-18;Viena;8617
+1232;Juliana Cardoso Lima;Advogado;158;Loiro;0;1989-12-21;Paris;14408
+1233;Rafael Lima Martins;Guia Turistico;172;Castanho;0;1998-10-02;Paris;35538
+1234;Lucas Pereira Vieira;Medico;158;Grisalho;0;1997-08-27;Lisboa;6826
+1235;Rodrigo Monteiro Nunes;Jornalista;165;Preto;0;1975-10-25;Nova York;18417
+1236;Eduardo Rocha Costa;Jornalista;183;Castanho;0;1991-03-03;Cidade Do Mexico;2690
+1237;Fernanda Lima Carvalho;Advogado;168;Castanho;0;1982-05-31;Viena;23324
+1238;Eduardo Fernandes Cardoso;Jornalista;171;Ruivo;0;1951-10-21;Berlim;5862
+1239;Lucas Vieira Teixeira;Chef De Cozinha;171;Loiro;0;1996-02-09;Cidade Do Mexico;23561
+1240;Carlos Costa Dias;Guia Turistico;171;Ruivo;1;1972-10-26;Cidade Do Mexico;2700
+1241;Marcelo Teixeira Gomes;Piloto;171;Preto;0;1958-06-10;Viena;10804
+1242;Thiago Goncalves Costa;Advogado;188;Loiro;0;2001-01-02;Cairo;16879
+1243;Luiza Montes Monteiro;Engenheiro;174;Castanho;1;1983-10-12;Viena;22719
+1244;Joao Costa Pinto;Jornalista;176;Preto;1;1991-02-06;Nova York;10576
+1245;Sonia Santos Nunes;Advogado;175;Castanho;0;1986-06-10;Lisboa;19322
+1246;Rafael Ribeiro Ferreira;Advogado;165;Ruivo;1;1984-11-19;Paris;14113
+1247;Carlos Lopes Rocha;Fotografo;176;Loiro;0;1982-08-31;Lisboa;10657
+1248;Tatiane Rocha Pereira;Designer;162;Loiro;0;1996-07-13;Atenas;122078
+1249;Juliana Gomes Ferreira;Piloto;165;Grisalho;0;1962-04-05;Atenas;6069
+1250;Sonia Lopes Oliveira;Musico;160;Preto;0;1983-04-18;Berlim;12249
+1251;Jose Costa Carvalho;Guia Turistico;165;Grisalho;0;1964-08-10;Paris;10809
+1252;Carlos Lopes Souza;Professor;173;Preto;0;1954-07-18;Bogota;16148
+1253;Ana Moreira Araujo;Fotografo;175;Preto;1;1956-03-12;Paris;15771
+1254;Pedro Costa Oliveira;Jornalista;180;Preto;0;1986-08-24;Buenos Aires;9219
+1255;Tatiane Vieira Lopes;Advogado;179;Grisalho;0;1957-06-23;Roma;11572
+1256;Rodrigo Teixeira Martins;Guia Turistico;177;Grisalho;0;1973-05-13;Berlim;13902
+1257;Jose Pereira Martins;Guia Turistico;167;Castanho;0;1966-01-15;Madrid;22601
+1258;Bruno Ferreira Silva;Advogado;181;Castanho;0;1987-01-07;Lisboa;38929
+1259;Marcelo Lima Vieira;Professor;159;Loiro;1;1961-10-02;Nova York;174851
+1260;Bruno Barbosa Martins;Advogado;155;Ruivo;0;1956-07-23;Berlim;9401
+1261;Bruno Rodrigues Dias;Medico;160;Preto;0;1965-07-07;Bogota;16923
+1262;Bruno Nunes Araujo;Guia Turistico;169;Ruivo;1;1989-10-10;Istambul;15581
+1263;Joao Mendes Lopes;Musico;159;Grisalho;0;1985-08-25;Berlim;5351
+1264;Lucas Dias Pereira;Advogado;153;Loiro;1;1998-12-05;Berlim;31728
+1265;Marcelo Lopes Lopes;Contador;183;Loiro;1;1966-11-17;Bogota;32962
+1266;Thiago Carvalho Silva;Fotografo;168;Loiro;0;1969-10-27;Bogota;7391
+1267;Sonia Santos Lopes;Designer;158;Loiro;1;1957-08-19;Praga;13239
+1268;Andre Martins Goncalves;Medico;161;Ruivo;0;1965-09-04;Bogota;21168
+1269;Eduardo Vieira Ferreira;Piloto;191;Ruivo;0;1981-04-07;Nova York;14233
+1270;Andre Monteiro Gomes;Musico;164;Ruivo;0;1992-07-02;Paris;13483
+1271;Rodrigo Souza Pinto;Advogado;169;Preto;0;2001-03-08;Praga;22524
+1272;Andre Carvalho Santos;Engenheiro;171;Ruivo;1;1977-12-10;Viena;35193
+1273;Felipe Ferreira Costa;Designer;160;Castanho;0;1993-03-28;Lisboa;24828
+1274;Andre Dias Silva;Piloto;161;Ruivo;0;2001-08-26;Cidade Do Mexico;14002
+1275;Felipe Ferreira Monteiro;Contador;168;Preto;0;1950-05-28;Roma;7517
+1276;Andre Santos Nunes;Professor;170;Grisalho;0;1960-04-30;Viena;934
+1277;Patricia Alves Fernandes;Professor;164;Loiro;1;1964-11-18;Buenos Aires;16556
+1278;Joao Silva Teixeira;Guia Turistico;185;Castanho;0;1978-11-02;Cidade Do Mexico;19065
+1279;Eduardo Dias Alves;Professor;176;Grisalho;1;1953-02-24;Madrid;23873
+1280;Rafael Carvalho Ribeiro;Medico;165;Loiro;1;1973-03-30;Roma;11340
+1281;Renata Pinto Mendes;Fotografo;179;Castanho;1;1982-06-18;Praga;15596
+1282;Felipe Gomes Pereira;Medico;176;Preto;0;2003-02-08;Bogota;27210
+1283;Rodrigo Montes Dias;Designer;164;Grisalho;0;2000-07-01;Roma;21955
+1284;Carlos Silva Cardoso;Chef De Cozinha;175;Loiro;0;1974-04-14;Bogota;7379
+1285;Bruno Rodrigues Moreira;Medico;168;Loiro;0;1951-12-01;Praga;5974
+1286;Lucas Goncalves Goncalves;Engenheiro;177;Preto;0;1953-08-25;Lisboa;7674
+1287;Aline Lima Mendes;Chef De Cozinha;169;Preto;0;1964-06-25;Istambul;13001
+1288;Sonia Lopes Lopes;Chef De Cozinha;168;Ruivo;0;1964-08-08;Roma;19808
+1289;Luiza Carvalho Silva;Musico;143;Loiro;0;1951-07-02;Viena;40426
+1290;Gustavo Vieira Dias;Professor;165;Castanho;0;1954-01-31;Toquio;72689
+1291;Marcelo Martins Pinto;Musico;158;Castanho;1;1952-07-05;Berlim;2722
+1292;Ana Pereira Teixeira;Engenheiro;178;Loiro;0;1957-02-10;Cairo;31918
+1293;Gustavo Alves Goncalves;Professor;165;Grisalho;0;1984-03-05;Istambul;10396
+1294;Lucas Rocha Alves;Engenheiro;180;Castanho;0;1999-12-19;Buenos Aires;4346
+1295;Marcelo Lopes Carvalho;Guia Turistico;158;Ruivo;0;1971-05-21;Roma;11937
+1296;Marcelo Lima Ferreira;Contador;170;Loiro;0;1955-04-28;Buenos Aires;54410
+1297;Jose Lopes Martins;Piloto;162;Loiro;0;1981-07-26;Cairo;45573
+1298;Aline Martins Araujo;Professor;171;Preto;0;1981-06-23;Bogota;5043
+1299;Andre Moreira Barbosa;Advogado;169;Castanho;0;1996-07-06;Roma;10661
+1300;Sonia Martins Goncalves;Advogado;164;Preto;1;1995-07-22;Roma;10800
+1301;Joao Montes Santos;Fotografo;161;Loiro;0;1967-12-09;Praga;11275
+1302;Luiza Goncalves Gomes;Fotografo;184;Preto;1;1963-10-15;Praga;32849
+1303;Aline Rodrigues Alves;Designer;171;Preto;1;1981-02-28;Istambul;22062
+1304;Lucas Nunes Montes;Chef De Cozinha;176;Grisalho;0;1977-10-04;Viena;20152
+1305;Luiza Nunes Barbosa;Medico;178;Grisalho;0;1968-09-17;Buenos Aires;37502
+1306;Rodrigo Lopes Gomes;Contador;164;Grisalho;0;1953-08-16;Paris;16160
+1307;Rafael Araujo Cardoso;Piloto;169;Castanho;1;1956-09-15;Toquio;39807
+1308;Thiago Teixeira Dias;Piloto;175;Loiro;0;1982-12-16;Viena;26033
+1309;Diego Carvalho Lima;Guia Turistico;154;Ruivo;1;1965-06-04;Lisboa;2226
+1310;Luiza Moreira Barbosa;Fotografo;164;Ruivo;0;1953-05-21;Roma;172951
+1311;Beatriz Montes Nunes;Piloto;167;Ruivo;1;1971-11-12;Praga;2390
+1312;Larissa Ribeiro Moreira;Medico;176;Loiro;0;1990-03-20;Lisboa;21822
+1313;Lucas Pereira Souza;Piloto;175;Preto;0;1986-06-01;Atenas;13852
+1314;Pedro Santos Cardoso;Jornalista;166;Castanho;0;1988-12-21;Berlim;47822
+1315;Eduardo Lopes Barbosa;Engenheiro;166;Grisalho;1;1993-10-27;Nova York;26233
+1316;Rafael Moreira Mendes;Chef De Cozinha;175;Loiro;1;1954-04-08;Nova York;31007
+1317;Luiza Moreira Costa;Engenheiro;162;Loiro;0;1974-03-18;Istambul;10624
+1318;Jose Ribeiro Pereira;Piloto;156;Loiro;1;2002-10-28;Buenos Aires;26051
+1319;Aline Vieira Silva;Guia Turistico;185;Preto;0;2002-02-02;Roma;11366
+1320;Lucas Moreira Lopes;Fotografo;168;Loiro;0;1978-02-11;Toquio;13582
+1321;Rodrigo Monteiro Barbosa;Chef De Cozinha;170;Loiro;0;1988-08-11;Istambul;24994
+1322;Luiza Carvalho Gomes;Jornalista;165;Castanho;0;1954-05-16;Bogota;17392
+1323;Camila Gomes Ferreira;Engenheiro;171;Loiro;1;1970-10-23;Nova York;8933
+1324;Fernanda Dias Silva;Fotografo;172;Castanho;0;1973-12-09;Berlim;20389
+1325;Lucas Monteiro Rodrigues;Medico;180;Ruivo;0;1960-05-08;Buenos Aires;5331
+1326;Maria Araujo Souza;Professor;182;Castanho;0;1955-11-27;Cairo;42680
+1327;Luiza Monteiro Oliveira;Fotografo;170;Castanho;0;1998-10-10;Viena;9817
+1328;Felipe Goncalves Rocha;Jornalista;196;Preto;0;1997-12-16;Atenas;6873
+1329;Rodrigo Teixeira Cardoso;Musico;174;Grisalho;0;1977-02-09;Atenas;32132
+1330;Carlos Ferreira Pinto;Chef De Cozinha;170;Castanho;0;1996-02-01;Paris;5309
+1331;Gustavo Lima Araujo;Fotografo;176;Grisalho;0;1955-06-07;Roma;29121
+1332;Andre Ferreira Rocha;Fotografo;174;Grisalho;0;1998-02-20;Berlim;9223
+1333;Vanessa Fernandes Carvalho;Professor;173;Grisalho;0;1995-05-25;Berlim;13505
+1334;Diego Santos Vieira;Engenheiro;168;Ruivo;1;1966-03-31;Praga;17897
+1335;Diego Rodrigues Moreira;Contador;176;Ruivo;0;1972-04-05;Atenas;11021
+1336;Joao Martins Lopes;Contador;174;Loiro;1;1960-02-07;Atenas;3111
+1337;Tatiane Montes Dias;Piloto;169;Loiro;0;1996-04-29;Madrid;32358
+1338;Carlos Oliveira Carvalho;Chef De Cozinha;174;Loiro;0;1975-05-17;Cairo;86619
+1339;Luiza Cardoso Goncalves;Jornalista;156;Castanho;0;1952-12-30;Toquio;31655
+1340;Gustavo Montes Santos;Jornalista;167;Preto;0;1989-07-21;Toquio;12054
+1341;Rodrigo Lima Pinto;Guia Turistico;170;Castanho;0;1958-06-23;Madrid;11763
+1342;Rafael Lopes Nunes;Contador;175;Loiro;1;1991-09-08;Buenos Aires;18888
+1343;Camila Ribeiro Monteiro;Musico;170;Loiro;0;2004-03-09;Praga;2850
+1344;Joao Rocha Fernandes;Professor;172;Grisalho;1;1979-11-14;Paris;8971
+1345;Juliana Silva Souza;Fotografo;169;Preto;0;1999-01-04;Bogota;3604
+1346;Andre Cardoso Lima;Guia Turistico;188;Castanho;0;1956-08-28;Madrid;18855
+1347;Aline Lima Pereira;Medico;158;Ruivo;0;1978-01-18;Istambul;11679
+1348;Andre Montes Nunes;Advogado;170;Grisalho;0;1962-03-03;Cairo;4597
+1349;Joao Ferreira Fernandes;Fotografo;171;Grisalho;0;1977-11-01;Toquio;15714
+1350;Fernanda Mendes Monteiro;Medico;165;Grisalho;0;1984-12-02;Toquio;28823
+1351;Tatiane Oliveira Carvalho;Designer;187;Grisalho;0;1955-10-27;Istambul;10315
+1352;Ana Costa Ribeiro;Jornalista;171;Loiro;1;1957-10-11;Roma;12987
+1353;Jose Pinto Lopes;Advogado;176;Loiro;1;1956-01-14;Roma;40751
+1354;Patricia Barbosa Nunes;Designer;171;Ruivo;0;1976-08-27;Atenas;13151
+1355;Pedro Montes Martins;Chef De Cozinha;174;Preto;0;1964-06-22;Atenas;37280
+1356;Luiza Rocha Souza;Medico;176;Loiro;0;2002-09-26;Bogota;4968
+1357;Sonia Pinto Barbosa;Designer;178;Ruivo;0;1971-03-28;Cidade Do Mexico;16510
+1358;Vanessa Fernandes Santos;Medico;161;Castanho;1;1990-07-21;Praga;14842
+1359;Camila Vieira Santos;Musico;177;Preto;1;1954-08-05;Madrid;6267
+1360;Ana Montes Moreira;Guia Turistico;169;Loiro;0;1976-10-25;Cidade Do Mexico;4067
+1361;Tatiane Mendes Vieira;Designer;158;Ruivo;1;1990-02-11;Berlim;45356
+1362;Aline Souza Dias;Advogado;181;Grisalho;0;1992-09-07;Cidade Do Mexico;19239
+1363;Aline Teixeira Ferreira;Advogado;154;Castanho;1;1970-12-07;Lisboa;24689
+1364;Andre Martins Mendes;Medico;164;Loiro;0;1991-08-30;Atenas;3462
+1365;Aline Vieira Moreira;Designer;174;Castanho;0;1961-11-28;Madrid;6350
+1366;Camila Mendes Lopes;Designer;155;Ruivo;1;1968-02-15;Nova York;5025
+1367;Diego Rocha Martins;Professor;160;Ruivo;0;1967-04-19;Praga;13996
+1368;Beatriz Oliveira Rodrigues;Fotografo;170;Castanho;0;1995-05-15;Paris;20052
+1369;Gustavo Fernandes Pinto;Guia Turistico;176;Castanho;1;2000-04-29;Roma;7491
+1370;Sonia Rodrigues Rodrigues;Musico;158;Loiro;0;1982-01-30;Nova York;10174
+1371;Diego Nunes Costa;Professor;167;Ruivo;0;1959-03-26;Berlim;13122
+1372;Beatriz Ferreira Cardoso;Advogado;170;Grisalho;0;2004-07-28;Bogota;18424
+1373;Rodrigo Fernandes Silva;Advogado;186;Castanho;0;1982-03-20;Berlim;17439
+1374;Diego Santos Gomes;Medico;165;Ruivo;0;1982-09-09;Bogota;10141
+1375;Sonia Oliveira Mendes;Chef De Cozinha;157;Loiro;0;1975-04-19;Toquio;13115
+1376;Patricia Monteiro Nunes;Advogado;157;Preto;1;1989-02-24;Lisboa;11886
+1377;Lucas Barbosa Araujo;Piloto;165;Grisalho;0;1950-04-11;Istambul;17786
+1378;Patricia Rocha Araujo;Fotografo;162;Ruivo;0;1953-06-08;Istambul;12479
+1379;Pedro Rodrigues Santos;Medico;174;Ruivo;0;1960-12-03;Bogota;20367
+1380;Camila Araujo Rodrigues;Engenheiro;180;Preto;0;1959-09-29;Bogota;6257
+1381;Larissa Rocha Pereira;Chef De Cozinha;164;Preto;0;2000-07-21;Madrid;11016
+1382;Eduardo Rocha Santos;Contador;173;Castanho;1;1991-02-01;Bogota;18146
+1383;Beatriz Ribeiro Lopes;Designer;177;Loiro;0;2001-05-21;Viena;43220
+1384;Thiago Cardoso Rocha;Guia Turistico;167;Ruivo;1;1978-05-10;Toquio;10370
+1385;Thiago Pereira Rocha;Fotografo;177;Castanho;0;1989-08-23;Praga;35927
+1386;Aline Pinto Ribeiro;Professor;168;Loiro;0;1994-07-31;Viena;25381
+1387;Larissa Dias Pereira;Guia Turistico;175;Loiro;1;1965-07-09;Istambul;2346
+1388;Gustavo Montes Carvalho;Engenheiro;162;Grisalho;0;1983-01-22;Paris;10203
+1389;Carlos Dias Teixeira;Advogado;165;Loiro;0;1995-02-28;Praga;10391
+1390;Camila Barbosa Pereira;Guia Turistico;170;Preto;0;1976-04-17;Nova York;5092
+1391;Maria Martins Santos;Jornalista;164;Grisalho;0;1965-02-24;Paris;184023
+1392;Felipe Souza Dias;Musico;173;Castanho;0;1997-09-01;Paris;2249
+1393;Renata Cardoso Gomes;Fotografo;162;Preto;0;1979-11-27;Bogota;31998
+1394;Rodrigo Monteiro Monteiro;Professor;175;Castanho;0;1963-03-16;Viena;49446
+1395;Pedro Fernandes Gomes;Piloto;171;Loiro;0;1952-07-29;Buenos Aires;10451
+1396;Carlos Pereira Santos;Chef De Cozinha;162;Castanho;1;1977-11-19;Buenos Aires;19617
+1397;Andre Araujo Lopes;Jornalista;161;Ruivo;0;1958-04-22;Madrid;12703
+1398;Bruno Santos Fernandes;Guia Turistico;175;Preto;1;1992-05-28;Toquio;13510
+1399;Thiago Costa Fernandes;Advogado;167;Preto;0;1975-09-23;Viena;7149
+1400;Renata Pereira Teixeira;Medico;168;Castanho;1;1987-08-16;Paris;5544
+1401;Joao Carvalho Dias;Fotografo;175;Grisalho;1;2001-02-12;Buenos Aires;9344
+1402;Lucas Souza Oliveira;Professor;150;Preto;1;1967-09-04;Buenos Aires;8238
+1403;Ana Fernandes Carvalho;Contador;182;Preto;0;1962-06-17;Atenas;13555
+1404;Felipe Nunes Goncalves;Advogado;176;Preto;0;2004-04-14;Bogota;66135
+1405;Fernanda Souza Santos;Professor;153;Grisalho;0;1989-10-15;Roma;6239
+1406;Ana Nunes Santos;Professor;184;Loiro;1;1977-06-26;Toquio;9280
+1407;Jose Santos Carvalho;Professor;158;Castanho;0;1955-08-22;Cairo;5033
+1408;Marcelo Souza Barbosa;Piloto;161;Ruivo;0;1952-07-22;Toquio;59743
+1409;Carlos Vieira Fernandes;Engenheiro;174;Loiro;0;1986-03-07;Nova York;3368
+1410;Pedro Lima Mendes;Piloto;186;Ruivo;1;1991-08-01;Bogota;8963
+1411;Jose Souza Vieira;Advogado;175;Grisalho;0;1950-04-06;Cairo;8464
+1412;Lucas Martins Teixeira;Jornalista;160;Grisalho;0;1951-12-10;Lisboa;7883
+1413;Marcelo Gomes Montes;Contador;168;Loiro;1;1975-07-25;Cairo;22828
+1414;Marcelo Ferreira Teixeira;Chef De Cozinha;173;Preto;1;1964-03-18;Roma;18020
+1415;Jose Pinto Vieira;Engenheiro;169;Loiro;0;1999-10-10;Paris;4049
+1416;Joao Silva Pinto;Musico;181;Grisalho;1;1958-07-19;Toquio;8637
+1417;Patricia Nunes Cardoso;Jornalista;174;Loiro;1;2004-05-30;Viena;13188
+1418;Beatriz Alves Santos;Engenheiro;169;Castanho;0;1994-12-22;Praga;3756
+1419;Lucas Fernandes Montes;Piloto;165;Ruivo;0;1998-10-02;Cairo;8693
+1420;Andre Fernandes Monteiro;Guia Turistico;174;Preto;0;1988-11-14;Bogota;3437
+1421;Aline Monteiro Goncalves;Medico;162;Loiro;0;1985-11-14;Istambul;10552
+1422;Lucas Mendes Pinto;Piloto;164;Castanho;1;1990-06-15;Toquio;12239
+1423;Sonia Barbosa Goncalves;Engenheiro;164;Grisalho;0;1963-02-05;Atenas;1802
+1424;Carlos Vieira Silva;Jornalista;174;Preto;0;1954-03-18;Paris;20303
+1425;Monica Pinto Ferreira;Guia Turistico;188;Preto;0;1979-07-29;Roma;22362
+1426;Lucas Silva Oliveira;Engenheiro;162;Grisalho;0;1955-08-30;Istambul;36376
+1427;Renata Araujo Moreira;Designer;173;Ruivo;1;1964-06-13;Istambul;5413
+1428;Bruno Goncalves Pinto;Engenheiro;168;Grisalho;1;1979-10-10;Bogota;61508
+1429;Diego Nunes Montes;Medico;164;Loiro;0;1973-09-06;Cidade Do Mexico;4358
+1430;Camila Ribeiro Dias;Medico;149;Preto;0;1950-04-15;Cairo;26498
+1431;Camila Moreira Cardoso;Chef De Cozinha;164;Preto;0;1957-08-30;Cidade Do Mexico;3743
+1432;Thiago Vieira Barbosa;Musico;168;Grisalho;0;1979-01-03;Bogota;18169
+1433;Renata Gomes Silva;Musico;178;Loiro;1;1961-07-21;Cairo;12516
+1434;Rafael Santos Araujo;Designer;165;Ruivo;0;1988-05-24;Istambul;1840
+1435;Thiago Goncalves Araujo;Piloto;177;Castanho;0;1975-04-29;Berlim;4633
+1436;Jose Pinto Carvalho;Guia Turistico;174;Ruivo;1;1969-04-21;Istambul;2019
+1437;Juliana Teixeira Ribeiro;Guia Turistico;149;Grisalho;1;1962-10-19;Toquio;2928
+1438;Thiago Alves Moreira;Contador;166;Preto;0;1953-03-02;Praga;33650
+1439;Camila Rodrigues Lima;Engenheiro;180;Castanho;0;1983-07-20;Lisboa;4801
+1440;Renata Santos Montes;Advogado;187;Preto;0;1969-07-17;Cairo;7139
+1441;Vanessa Mendes Costa;Professor;163;Loiro;1;1996-11-07;Istambul;16809
+1442;Rafael Mendes Moreira;Jornalista;171;Preto;1;2001-12-20;Istambul;57415
+1443;Gustavo Nunes Costa;Guia Turistico;172;Preto;0;2003-04-13;Paris;15428
+1444;Andre Santos Ferreira;Jornalista;155;Ruivo;0;1956-06-05;Cidade Do Mexico;7888
+1445;Luiza Nunes Monteiro;Jornalista;163;Castanho;0;1959-12-15;Berlim;9178
+1446;Vanessa Alves Barbosa;Advogado;173;Loiro;0;1976-09-18;Atenas;21934
+1447;Jose Lopes Cardoso;Professor;172;Grisalho;0;1958-02-13;Paris;11630
+1448;Beatriz Moreira Fernandes;Medico;154;Loiro;0;1965-09-04;Madrid;13269
+1449;Joao Alves Ferreira;Designer;166;Loiro;0;2001-02-23;Madrid;13346
+1450;Jose Araujo Vieira;Contador;177;Ruivo;0;1960-03-13;Atenas;12685
+1451;Rodrigo Nunes Pinto;Advogado;168;Loiro;1;1988-10-06;Bogota;8456
+1452;Larissa Rodrigues Costa;Advogado;173;Loiro;1;1967-10-19;Nova York;8155
+1453;Beatriz Cardoso Barbosa;Chef De Cozinha;170;Preto;0;1988-10-23;Nova York;4418
+1454;Bruno Lopes Carvalho;Piloto;163;Loiro;0;1987-12-26;Cidade Do Mexico;8975
+1455;Beatriz Pereira Alves;Professor;177;Castanho;0;1972-07-28;Nova York;7143
+1456;Jose Gomes Alves;Contador;183;Loiro;1;1991-08-09;Paris;45736
+1457;Monica Montes Goncalves;Jornalista;167;Ruivo;0;1980-11-22;Roma;23929
+1458;Juliana Rodrigues Santos;Medico;172;Loiro;0;1995-05-28;Buenos Aires;1326
+1459;Tatiane Alves Montes;Engenheiro;161;Preto;1;1981-12-01;Toquio;8772
+1460;Eduardo Mendes Araujo;Guia Turistico;173;Castanho;1;1966-06-02;Viena;61135
+1461;Sonia Teixeira Mendes;Medico;181;Preto;0;1997-12-23;Cairo;52550
+1462;Monica Dias Fernandes;Medico;174;Loiro;0;1972-03-29;Berlim;8147
+1463;Patricia Souza Pinto;Medico;168;Castanho;0;1976-07-24;Madrid;13105
+1464;Thiago Nunes Oliveira;Musico;164;Loiro;1;1951-12-30;Lisboa;10386
+1465;Andre Lima Gomes;Medico;173;Preto;0;1998-02-03;Madrid;21244
+1466;Maria Cardoso Ribeiro;Engenheiro;164;Ruivo;0;1975-10-07;Atenas;8641
+1467;Renata Alves Costa;Guia Turistico;165;Grisalho;1;2004-03-02;Nova York;7594
+1468;Gustavo Rocha Dias;Musico;165;Loiro;1;1960-02-14;Bogota;19065
+1469;Ana Dias Pinto;Medico;170;Loiro;1;1996-09-14;Istambul;8813
+1470;Andre Moreira Teixeira;Contador;181;Preto;0;1988-04-23;Bogota;22957
+1471;Juliana Lima Alves;Musico;171;Castanho;0;1991-02-27;Praga;37060
+1472;Juliana Goncalves Rodrigues;Designer;170;Grisalho;1;1967-05-27;Cairo;10963
+1473;Larissa Moreira Gomes;Chef De Cozinha;170;Ruivo;0;1969-06-21;Praga;7060
+1474;Diego Carvalho Nunes;Advogado;169;Grisalho;1;1964-07-26;Cidade Do Mexico;8182
+1475;Juliana Vieira Vieira;Designer;175;Grisalho;1;1976-04-02;Roma;9546
+1476;Felipe Silva Goncalves;Designer;158;Grisalho;0;1960-09-23;Berlim;6934
+1477;Beatriz Costa Rodrigues;Fotografo;157;Ruivo;0;1956-11-11;Nova York;26306
+1478;Larissa Pereira Santos;Jornalista;170;Castanho;0;1978-05-24;Paris;15087
+1479;Fernanda Nunes Rodrigues;Engenheiro;180;Castanho;0;1985-02-08;Istambul;4083
+1480;Felipe Martins Ribeiro;Musico;158;Preto;1;1976-09-23;Lisboa;11735
+1481;Juliana Araujo Nunes;Designer;170;Castanho;0;1962-09-10;Berlim;13744
+1482;Beatriz Cardoso Pinto;Advogado;169;Preto;1;1956-03-26;Madrid;88115
+1483;Larissa Vieira Monteiro;Medico;174;Castanho;1;2000-04-21;Buenos Aires;11843
+1484;Ana Ferreira Costa;Fotografo;176;Castanho;1;1970-11-22;Nova York;12865
+1485;Felipe Teixeira Pereira;Fotografo;161;Grisalho;1;1984-10-13;Viena;13598
+1486;Aline Barbosa Moreira;Medico;161;Grisalho;0;1969-03-20;Atenas;34615
+1487;Lucas Lopes Souza;Contador;163;Castanho;0;1958-07-09;Lisboa;12645
+1488;Gustavo Barbosa Moreira;Guia Turistico;161;Castanho;1;1971-11-05;Berlim;11713
+1489;Beatriz Pereira Vieira;Contador;175;Grisalho;1;1991-12-09;Praga;967
+1490;Tatiane Rocha Dias;Medico;157;Grisalho;0;2001-07-24;Cairo;13260
+1491;Gustavo Santos Carvalho;Medico;168;Grisalho;1;1977-07-19;Berlim;5834
+1492;Andre Mendes Lopes;Contador;189;Grisalho;0;1954-01-04;Buenos Aires;20574
+1493;Gustavo Carvalho Rocha;Contador;168;Preto;0;1983-07-01;Berlim;79541
+1494;Vanessa Araujo Silva;Piloto;173;Loiro;0;1987-09-01;Lisboa;15823
+1495;Patricia Pereira Oliveira;Medico;164;Loiro;0;1957-02-12;Paris;23591
+1496;Rodrigo Montes Santos;Chef De Cozinha;175;Preto;0;2004-06-17;Paris;7114
+1497;Gustavo Martins Martins;Chef De Cozinha;164;Grisalho;1;1979-02-27;Paris;8687
+1498;Vanessa Fernandes Monteiro;Fotografo;181;Loiro;1;1981-03-16;Praga;38118
+1499;Aline Vieira Nunes;Musico;167;Castanho;0;1986-02-01;Toquio;7621
+1500;Bruno Santos Carvalho;Guia Turistico;171;Ruivo;1;1979-04-22;Atenas;8038
+1501;Patricia Araujo Araujo;Professor;153;Loiro;1;1994-06-20;Atenas;42383
+1502;Eduardo Alves Teixeira;Professor;164;Loiro;1;1955-11-06;Praga;33874
+1503;Aline Dias Gomes;Advogado;161;Grisalho;1;1985-03-25;Cidade Do Mexico;29826
+1504;Jose Santos Carvalho;Fotografo;184;Ruivo;0;1973-12-28;Paris;50625
+1505;Fernanda Rodrigues Costa;Chef De Cozinha;184;Preto;0;1976-04-19;Madrid;8843
+1506;Tatiane Pereira Silva;Medico;156;Castanho;0;1998-04-15;Nova York;29738
+1507;Thiago Fernandes Oliveira;Professor;174;Grisalho;0;1963-06-01;Madrid;17951
+1508;Rodrigo Araujo Teixeira;Jornalista;176;Grisalho;0;1992-07-07;Praga;53029
+1509;Eduardo Moreira Montes;Contador;173;Castanho;0;1983-10-15;Cidade Do Mexico;17721
+1510;Renata Pereira Monteiro;Chef De Cozinha;151;Preto;0;1985-12-23;Paris;11859
+1511;Camila Oliveira Barbosa;Contador;167;Ruivo;1;1959-09-08;Bogota;15356
+1512;Patricia Fernandes Ferreira;Guia Turistico;172;Ruivo;0;1997-04-23;Praga;5852
+1513;Andre Teixeira Araujo;Fotografo;176;Loiro;1;1995-03-14;Madrid;8891
+1514;Maria Costa Oliveira;Fotografo;162;Grisalho;1;1997-05-31;Buenos Aires;11272
+1515;Vanessa Carvalho Goncalves;Medico;174;Preto;0;1978-11-26;Paris;9612
+1516;Jose Fernandes Ferreira;Contador;170;Castanho;1;1981-05-08;Istambul;7671
+1517;Pedro Cardoso Monteiro;Fotografo;175;Grisalho;0;1987-02-24;Istambul;4043
+1518;Renata Rocha Oliveira;Contador;178;Grisalho;0;1954-10-26;Lisboa;7106
+1519;Thiago Montes Ferreira;Advogado;184;Castanho;1;1957-01-21;Roma;79015
+1520;Lucas Monteiro Pinto;Jornalista;174;Grisalho;0;2001-10-18;Bogota;12303
+1521;Beatriz Lopes Martins;Fotografo;172;Preto;0;1993-06-15;Praga;19691
+1522;Carlos Carvalho Lopes;Jornalista;152;Grisalho;0;2002-04-13;Toquio;8849
+1523;Andre Martins Silva;Chef De Cozinha;171;Loiro;0;2004-09-22;Berlim;10860
+1524;Patricia Rodrigues Alves;Chef De Cozinha;166;Grisalho;0;1996-08-03;Cairo;161246
+1525;Renata Ribeiro Lopes;Fotografo;172;Grisalho;1;1988-06-19;Lisboa;14861
+1526;Luiza Montes Pereira;Jornalista;178;Ruivo;0;1956-09-11;Toquio;6476
+1527;Fernanda Vieira Carvalho;Jornalista;174;Preto;1;1997-11-29;Nova York;10153
+1528;Fernanda Lopes Pinto;Medico;167;Preto;0;1990-01-14;Lisboa;48704
+1529;Patricia Monteiro Silva;Contador;181;Ruivo;1;1999-04-15;Nova York;3731
+1530;Sonia Mendes Ferreira;Advogado;175;Loiro;0;1977-08-11;Buenos Aires;8864
+1531;Joao Teixeira Alves;Chef De Cozinha;156;Loiro;1;1981-12-03;Berlim;4652
+1532;Patricia Souza Teixeira;Fotografo;167;Castanho;1;1992-12-12;Cairo;21076
+1533;Renata Santos Pereira;Jornalista;180;Preto;0;1970-02-08;Cidade Do Mexico;10801
+1534;Aline Ribeiro Ribeiro;Fotografo;166;Loiro;0;1960-06-19;Bogota;8977
+1535;Rodrigo Pinto Souza;Professor;172;Preto;0;1974-08-30;Lisboa;15198
+1536;Jose Gomes Santos;Contador;175;Castanho;1;2004-09-08;Lisboa;23100
+1537;Beatriz Lima Fernandes;Professor;158;Ruivo;0;1973-07-19;Bogota;14867
+1538;Aline Souza Gomes;Piloto;166;Ruivo;0;1989-05-20;Istambul;9492
+1539;Thiago Pereira Ribeiro;Chef De Cozinha;161;Grisalho;0;1979-04-09;Lisboa;9612
+1540;Rafael Mendes Araujo;Fotografo;176;Castanho;1;1997-08-11;Praga;14334
+1541;Monica Santos Barbosa;Guia Turistico;178;Grisalho;1;2004-02-26;Viena;9999
+1542;Juliana Souza Moreira;Medico;179;Preto;0;1961-03-08;Berlim;10640
+1543;Fernanda Goncalves Silva;Jornalista;169;Grisalho;0;1998-10-22;Praga;10839
+1544;Pedro Oliveira Rodrigues;Medico;152;Grisalho;0;1987-02-01;Toquio;1877
+1545;Vanessa Ferreira Ferreira;Fotografo;188;Castanho;0;1975-01-20;Istambul;64752
+1546;Carlos Teixeira Vieira;Contador;158;Ruivo;0;1974-02-05;Berlim;25344
+1547;Aline Santos Silva;Contador;171;Grisalho;1;1974-07-06;Cidade Do Mexico;5200
+1548;Larissa Barbosa Vieira;Jornalista;160;Ruivo;0;1975-08-09;Istambul;15346
+1549;Camila Mendes Montes;Engenheiro;178;Preto;1;1955-07-02;Berlim;27896
+1550;Rafael Souza Cardoso;Musico;165;Loiro;1;1965-12-15;Cidade Do Mexico;26423
+1551;Carlos Costa Rocha;Advogado;154;Grisalho;0;1991-05-25;Roma;4555
+1552;Thiago Monteiro Rodrigues;Chef De Cozinha;171;Ruivo;0;2001-09-12;Praga;8596
+1553;Fernanda Mendes Fernandes;Musico;192;Ruivo;1;1980-09-10;Bogota;2421
+1554;Monica Carvalho Silva;Engenheiro;162;Grisalho;0;1963-02-15;Praga;13423
+1555;Monica Pinto Lopes;Contador;180;Loiro;0;1979-03-22;Berlim;7919
+1556;Renata Rocha Souza;Medico;163;Castanho;0;1993-10-30;Nova York;29293
+1557;Ana Rodrigues Gomes;Piloto;163;Ruivo;0;1968-12-04;Praga;10201
+1558;Pedro Pereira Lopes;Advogado;161;Castanho;0;1958-03-12;Praga;4745
+1559;Renata Lima Cardoso;Professor;185;Ruivo;1;1978-12-27;Atenas;3651
+1560;Tatiane Fernandes Vieira;Contador;175;Ruivo;0;1951-11-26;Roma;41580
+1561;Carlos Oliveira Ferreira;Advogado;171;Grisalho;1;1985-05-27;Atenas;5707
+1562;Sonia Araujo Monteiro;Contador;174;Grisalho;0;1981-03-03;Paris;28896
+1563;Bruno Lopes Souza;Guia Turistico;177;Castanho;0;1963-11-05;Nova York;49094
+1564;Thiago Teixeira Alves;Professor;170;Ruivo;0;1986-04-22;Cairo;3982
+1565;Jose Costa Silva;Jornalista;180;Grisalho;0;1965-08-22;Paris;11582
+1566;Joao Ferreira Martins;Jornalista;178;Loiro;0;1979-07-19;Roma;40842
+1567;Eduardo Carvalho Rodrigues;Engenheiro;166;Grisalho;0;1965-12-01;Atenas;9434
+1568;Tatiane Cardoso Oliveira;Medico;184;Grisalho;0;1964-11-21;Viena;17531
+1569;Jose Mendes Santos;Professor;173;Castanho;0;1956-07-14;Cairo;15021
+1570;Beatriz Cardoso Nunes;Guia Turistico;176;Ruivo;1;1982-11-25;Roma;3156
+1571;Beatriz Fernandes Lopes;Guia Turistico;176;Grisalho;0;1991-07-12;Nova York;53277
+1572;Felipe Alves Montes;Musico;177;Loiro;0;1956-05-28;Lisboa;3081
+1573;Jose Monteiro Gomes;Contador;170;Grisalho;0;1980-01-07;Buenos Aires;2268
+1574;Ana Nunes Santos;Guia Turistico;169;Ruivo;1;1953-01-06;Toquio;5881
+1575;Carlos Dias Ribeiro;Medico;178;Preto;0;1966-02-28;Praga;24429
+1576;Rodrigo Goncalves Cardoso;Guia Turistico;185;Preto;0;1989-12-27;Bogota;27528
+1577;Beatriz Carvalho Ferreira;Fotografo;169;Ruivo;0;1956-12-07;Praga;9569
+1578;Felipe Gomes Goncalves;Engenheiro;178;Ruivo;1;1990-08-31;Berlim;9387
+1579;Rafael Souza Monteiro;Designer;176;Ruivo;1;1975-11-04;Berlim;53997
+1580;Joao Carvalho Rodrigues;Designer;170;Preto;0;2001-02-13;Madrid;3552
+1581;Camila Fernandes Moreira;Piloto;176;Loiro;0;1953-06-25;Berlim;21202
+1582;Andre Mendes Martins;Professor;183;Preto;1;1994-01-01;Atenas;99344
+1583;Aline Santos Nunes;Professor;179;Castanho;0;1997-07-04;Lisboa;13733
+1584;Carlos Rodrigues Santos;Engenheiro;154;Preto;0;1960-02-03;Lisboa;3920
+1585;Joao Cardoso Rodrigues;Contador;171;Castanho;0;1960-11-08;Roma;60727
+1586;Camila Gomes Alves;Chef De Cozinha;175;Loiro;0;1958-08-02;Praga;4036
+1587;Camila Goncalves Monteiro;Engenheiro;175;Castanho;0;1965-07-24;Atenas;23071
+1588;Bruno Cardoso Rodrigues;Fotografo;162;Ruivo;1;1957-04-12;Cairo;5581
+1589;Maria Costa Pinto;Engenheiro;165;Ruivo;0;1974-02-28;Buenos Aires;2478
+1590;Beatriz Souza Goncalves;Fotografo;164;Loiro;1;2000-09-18;Bogota;7621
+1591;Juliana Dias Lopes;Professor;158;Grisalho;1;1950-10-11;Cidade Do Mexico;10557
+1592;Vanessa Pinto Fernandes;Designer;159;Grisalho;1;1986-09-08;Berlim;8512
+1593;Jose Fernandes Costa;Designer;173;Grisalho;1;1972-06-03;Viena;4791
+1594;Rodrigo Ribeiro Ribeiro;Medico;170;Preto;0;1978-05-22;Istambul;114173
+1595;Rodrigo Goncalves Barbosa;Musico;166;Preto;0;1994-03-13;Lisboa;32941
+1596;Marcelo Gomes Ribeiro;Advogado;162;Ruivo;1;1988-01-28;Praga;8053
+1597;Monica Martins Martins;Contador;183;Preto;0;1980-07-23;Madrid;49490
+1598;Felipe Goncalves Martins;Designer;160;Ruivo;1;2004-07-23;Roma;20898
+1599;Andre Vieira Moreira;Guia Turistico;161;Castanho;0;1971-03-04;Nova York;14150
+1600;Lucas Araujo Dias;Professor;178;Preto;1;1995-09-29;Praga;24612
+1601;Ana Cardoso Fernandes;Musico;167;Castanho;1;2003-12-25;Berlim;27559
+1602;Felipe Mendes Oliveira;Contador;165;Loiro;0;2000-09-21;Atenas;32157
+1603;Pedro Barbosa Ribeiro;Chef De Cozinha;179;Loiro;0;1973-11-28;Toquio;6195
+1604;Pedro Souza Ferreira;Advogado;175;Ruivo;1;1966-06-03;Praga;18563
+1605;Luiza Moreira Oliveira;Medico;179;Castanho;0;1960-05-21;Viena;21556
+1606;Pedro Alves Rodrigues;Guia Turistico;168;Ruivo;0;1962-02-24;Bogota;20573
+1607;Bruno Souza Costa;Engenheiro;176;Castanho;1;1976-11-27;Paris;5131
+1608;Larissa Cardoso Ferreira;Professor;180;Grisalho;0;1957-01-01;Lisboa;13961
+1609;Pedro Goncalves Silva;Musico;169;Castanho;0;1971-03-02;Cairo;5538
+1610;Fernanda Gomes Moreira;Medico;166;Preto;0;1963-07-04;Bogota;1647
+1611;Pedro Mendes Vieira;Musico;164;Grisalho;0;1979-08-24;Roma;10060
+1612;Thiago Martins Goncalves;Guia Turistico;166;Grisalho;1;1966-02-23;Toquio;30638
+1613;Tatiane Monteiro Montes;Piloto;147;Grisalho;0;1990-05-24;Cairo;3863
+1614;Andre Rodrigues Rocha;Musico;171;Preto;0;1992-12-01;Praga;3554
+1615;Felipe Barbosa Oliveira;Medico;179;Ruivo;1;1950-12-16;Viena;27044
+1616;Sonia Mendes Ferreira;Professor;149;Grisalho;1;1968-08-06;Bogota;5505
+1617;Rodrigo Mendes Teixeira;Musico;171;Castanho;1;1980-04-03;Berlim;10163
+1618;Rafael Souza Oliveira;Chef De Cozinha;167;Castanho;0;1969-06-27;Praga;18562
+1619;Andre Oliveira Cardoso;Piloto;172;Preto;0;1959-08-24;Atenas;4759
+1620;Andre Cardoso Pinto;Fotografo;169;Castanho;0;1962-05-30;Roma;11292
+1621;Larissa Pereira Teixeira;Guia Turistico;155;Loiro;0;1953-05-12;Nova York;63235
+1622;Ana Barbosa Rodrigues;Advogado;169;Loiro;1;1975-01-23;Bogota;60269
+1623;Aline Lima Goncalves;Contador;161;Preto;0;1975-11-27;Paris;8636
+1624;Thiago Goncalves Souza;Piloto;171;Grisalho;0;1987-10-14;Nova York;67361
+1625;Ana Martins Silva;Professor;165;Preto;0;1996-12-03;Nova York;14758
+1626;Thiago Vieira Araujo;Advogado;169;Preto;0;1952-06-19;Madrid;11274
+1627;Pedro Montes Montes;Jornalista;165;Castanho;1;1991-03-13;Buenos Aires;12323
+1628;Beatriz Araujo Ribeiro;Medico;173;Castanho;0;1995-04-15;Roma;9736
+1629;Renata Monteiro Carvalho;Contador;175;Castanho;1;1993-06-11;Nova York;25592
+1630;Sonia Barbosa Mendes;Designer;153;Castanho;1;1982-04-17;Roma;2999
+1631;Camila Martins Fernandes;Designer;172;Preto;0;1976-07-30;Atenas;8817
+1632;Lucas Rocha Dias;Chef De Cozinha;179;Loiro;0;1953-08-18;Buenos Aires;6903
+1633;Camila Monteiro Vieira;Piloto;185;Ruivo;0;1997-12-18;Cairo;5441
+1634;Carlos Gomes Lima;Musico;181;Loiro;1;1982-12-03;Nova York;51335
+1635;Ana Montes Nunes;Musico;186;Castanho;0;1977-06-25;Cairo;78104
+1636;Sonia Teixeira Barbosa;Contador;176;Grisalho;0;1985-08-12;Bogota;7284
+1637;Marcelo Moreira Barbosa;Chef De Cozinha;160;Castanho;1;1970-12-29;Berlim;6073
+1638;Lucas Rodrigues Cardoso;Medico;174;Grisalho;0;1980-09-13;Paris;10530
+1639;Larissa Ribeiro Cardoso;Advogado;170;Castanho;0;1971-03-30;Madrid;3313
+1640;Patricia Pereira Alves;Jornalista;161;Ruivo;1;1964-12-02;Atenas;29136
+1641;Carlos Vieira Rodrigues;Musico;161;Grisalho;0;1973-07-31;Cairo;17928
+1642;Joao Vieira Araujo;Jornalista;183;Loiro;0;1993-10-14;Toquio;20324
+1643;Felipe Carvalho Rodrigues;Advogado;163;Preto;0;1990-04-23;Lisboa;6208
+1644;Camila Mendes Lima;Musico;175;Ruivo;0;1972-01-28;Berlim;5170
+1645;Tatiane Cardoso Carvalho;Fotografo;163;Ruivo;0;1991-12-09;Praga;16535
+1646;Larissa Lima Teixeira;Designer;187;Loiro;1;1981-07-26;Cidade Do Mexico;18466
+1647;Diego Ferreira Monteiro;Medico;162;Loiro;0;1960-03-14;Madrid;30608
+1648;Bruno Teixeira Araujo;Contador;164;Ruivo;0;1989-10-26;Toquio;8198
+1649;Camila Lima Oliveira;Professor;166;Preto;1;1977-05-03;Lisboa;21742
+1650;Patricia Pinto Lima;Professor;157;Castanho;0;1979-08-21;Praga;8810
+1651;Patricia Teixeira Pereira;Medico;170;Preto;0;2004-02-19;Praga;44069
+1652;Patricia Montes Silva;Professor;168;Ruivo;0;1988-11-05;Istambul;10171
+1653;Andre Dias Martins;Chef De Cozinha;176;Loiro;1;1963-01-25;Lisboa;7930
+1654;Monica Monteiro Costa;Musico;156;Loiro;0;1997-09-01;Toquio;8277
+1655;Gustavo Pereira Rodrigues;Designer;168;Castanho;1;1992-09-10;Buenos Aires;28185
+1656;Rodrigo Monteiro Cardoso;Professor;170;Ruivo;0;1990-12-23;Istambul;38904
+1657;Tatiane Carvalho Carvalho;Piloto;177;Loiro;0;1952-12-07;Praga;8889
+1658;Ana Araujo Araujo;Piloto;182;Preto;0;1991-06-22;Cairo;27419
+1659;Joao Silva Barbosa;Fotografo;174;Loiro;0;1991-08-09;Berlim;2018
+1660;Joao Costa Pereira;Engenheiro;173;Ruivo;0;1970-05-10;Berlim;19628
+1661;Andre Martins Lima;Designer;184;Grisalho;0;1952-01-19;Paris;31934
+1662;Andre Ribeiro Montes;Advogado;166;Preto;1;1968-10-06;Bogota;45150
+1663;Ana Mendes Barbosa;Piloto;165;Preto;1;1995-04-27;Paris;12951
+1664;Juliana Alves Cardoso;Fotografo;177;Loiro;0;2004-06-29;Roma;139143
+1665;Vanessa Dias Moreira;Professor;156;Ruivo;0;1961-01-18;Bogota;42327
+1666;Larissa Moreira Monteiro;Piloto;169;Ruivo;0;1966-11-21;Bogota;8220
+1667;Diego Vieira Monteiro;Jornalista;167;Castanho;1;1952-12-27;Lisboa;61010
+1668;Ana Costa Carvalho;Professor;163;Loiro;0;1979-12-06;Praga;21771
+1669;Ana Lopes Cardoso;Guia Turistico;170;Grisalho;0;1979-08-22;Bogota;8086
+1670;Larissa Vieira Montes;Musico;170;Loiro;0;1989-07-22;Atenas;8900
+1671;Vanessa Nunes Pinto;Contador;164;Grisalho;0;2000-12-20;Madrid;9764
+1672;Sonia Monteiro Pinto;Medico;165;Grisalho;0;1960-10-05;Atenas;44550
+1673;Patricia Montes Martins;Musico;171;Grisalho;0;2004-03-26;Buenos Aires;12231
+1674;Andre Rodrigues Moreira;Piloto;161;Grisalho;1;1956-10-15;Madrid;46046
+1675;Luiza Dias Santos;Medico;188;Castanho;0;1984-06-01;Atenas;17370
+1676;Bruno Rocha Rocha;Medico;160;Grisalho;0;2000-06-20;Istambul;4539
+1677;Juliana Mendes Dias;Musico;183;Preto;0;1962-02-05;Roma;28793
+1678;Rafael Fernandes Lima;Medico;161;Loiro;1;1980-09-25;Paris;26985
+1679;Andre Dias Nunes;Designer;175;Grisalho;0;1953-11-19;Viena;10905
+1680;Monica Fernandes Cardoso;Chef De Cozinha;157;Grisalho;0;1954-06-14;Lisboa;6690
+1681;Vanessa Lima Costa;Fotografo;163;Preto;0;1982-08-28;Roma;2008
+1682;Renata Mendes Barbosa;Chef De Cozinha;178;Grisalho;0;1958-07-13;Atenas;3850
+1683;Renata Pinto Costa;Chef De Cozinha;186;Preto;0;1975-04-24;Berlim;28146
+1684;Juliana Pinto Vieira;Professor;184;Ruivo;0;1977-06-23;Buenos Aires;15224
+1685;Jose Vieira Moreira;Musico;161;Preto;0;1984-10-02;Istambul;9217
+1686;Ana Rocha Nunes;Jornalista;171;Preto;0;1957-04-14;Paris;12994
+1687;Fernanda Vieira Araujo;Professor;164;Castanho;0;1973-10-31;Viena;13094
+1688;Carlos Mendes Gomes;Guia Turistico;184;Castanho;1;1957-09-01;Cairo;10684
+1689;Tatiane Silva Barbosa;Fotografo;173;Loiro;0;1966-05-30;Lisboa;45359
+1690;Pedro Barbosa Oliveira;Medico;165;Loiro;0;1990-10-24;Roma;7618
+1691;Monica Carvalho Vieira;Jornalista;196;Ruivo;0;1950-01-13;Buenos Aires;18821
+1692;Larissa Cardoso Martins;Piloto;160;Ruivo;0;2000-03-26;Buenos Aires;27931
+1693;Rodrigo Oliveira Silva;Medico;170;Preto;0;1951-06-07;Lisboa;35387
+1694;Patricia Moreira Monteiro;Designer;163;Preto;0;1970-11-03;Nova York;28983
+1695;Beatriz Lopes Teixeira;Medico;163;Grisalho;0;1994-10-25;Madrid;12613
+1696;Rafael Alves Nunes;Musico;170;Preto;0;1987-11-29;Paris;5865
+1697;Pedro Oliveira Pinto;Medico;164;Loiro;0;1955-11-12;Bogota;20557
+1698;Thiago Ferreira Santos;Engenheiro;167;Loiro;0;2002-11-16;Atenas;36203
+1699;Aline Gomes Santos;Advogado;157;Ruivo;1;1989-09-02;Atenas;4655
+1700;Sonia Alves Barbosa;Designer;175;Castanho;1;1966-11-15;Berlim;7165
+1701;Lucas Rodrigues Cardoso;Advogado;175;Castanho;0;1982-05-28;Paris;4567
+1702;Andre Pinto Rodrigues;Jornalista;194;Grisalho;0;1979-02-10;Lisboa;48527
+1703;Larissa Ferreira Goncalves;Fotografo;188;Preto;0;1956-07-16;Cairo;40739
+1704;Bruno Rodrigues Santos;Medico;176;Ruivo;1;1951-06-28;Madrid;16374
+1705;Luiza Lopes Teixeira;Chef De Cozinha;175;Grisalho;0;1989-09-14;Madrid;24314
+1706;Gustavo Fernandes Barbosa;Piloto;175;Grisalho;1;1977-03-12;Atenas;21891
+1707;Eduardo Rodrigues Fernandes;Guia Turistico;159;Loiro;0;1951-08-22;Nova York;63328
+1708;Camila Oliveira Barbosa;Musico;179;Grisalho;0;1987-01-16;Nova York;28175
+1709;Patricia Gomes Silva;Chef De Cozinha;192;Loiro;1;1965-11-21;Istambul;18880
+1710;Eduardo Silva Lima;Musico;172;Grisalho;1;1974-04-05;Toquio;5284
+1711;Ana Mendes Pinto;Advogado;176;Castanho;1;1960-12-07;Atenas;5503
+1712;Bruno Dias Rodrigues;Guia Turistico;160;Loiro;0;1999-05-18;Atenas;65010
+1713;Sonia Fernandes Monteiro;Guia Turistico;184;Castanho;1;1992-06-07;Toquio;4438
+1714;Camila Araujo Rocha;Piloto;159;Loiro;1;1997-01-10;Praga;21124
+1715;Tatiane Fernandes Costa;Medico;179;Grisalho;0;1971-06-02;Istambul;4041
+1716;Aline Ribeiro Oliveira;Piloto;177;Ruivo;0;1968-05-14;Atenas;18400
+1717;Andre Dias Teixeira;Contador;176;Loiro;0;1995-06-24;Cidade Do Mexico;2502
+1718;Luiza Costa Carvalho;Contador;161;Ruivo;1;1976-11-26;Berlim;36872
+1719;Larissa Mendes Oliveira;Chef De Cozinha;161;Preto;0;1954-10-06;Paris;11815
+1720;Andre Martins Silva;Contador;169;Castanho;1;1997-07-12;Berlim;40635
+1721;Camila Vieira Araujo;Musico;172;Ruivo;1;1991-11-27;Toquio;20676
+1722;Andre Lima Ribeiro;Fotografo;171;Preto;0;1954-12-19;Cairo;3687
+1723;Juliana Dias Mendes;Fotografo;179;Castanho;1;1978-12-03;Roma;215272
+1724;Lucas Araujo Mendes;Fotografo;166;Castanho;0;1994-06-01;Istambul;9297
+1725;Tatiane Santos Teixeira;Guia Turistico;165;Castanho;0;1957-04-09;Lisboa;12626
+1726;Lucas Rodrigues Pereira;Contador;172;Grisalho;0;1996-11-27;Cairo;9094
+1727;Vanessa Gomes Oliveira;Jornalista;158;Ruivo;0;1970-02-14;Istambul;18030
+1728;Sonia Goncalves Nunes;Jornalista;168;Grisalho;1;1977-04-13;Bogota;54954
+1729;Bruno Rodrigues Barbosa;Designer;184;Ruivo;0;1982-11-06;Nova York;34388
+1730;Ana Pereira Moreira;Musico;170;Preto;0;1959-05-17;Berlim;5187
+1731;Patricia Lima Dias;Jornalista;172;Grisalho;0;1960-05-12;Paris;4963
+1732;Luiza Araujo Santos;Medico;164;Ruivo;0;1980-03-02;Atenas;27464
+1733;Larissa Fernandes Fernandes;Musico;170;Preto;1;2000-02-28;Bogota;17440
+1734;Luiza Monteiro Martins;Musico;162;Loiro;0;2004-10-05;Toquio;16735
+1735;Maria Ferreira Lopes;Medico;176;Grisalho;0;1984-11-23;Bogota;8356
+1736;Gustavo Araujo Nunes;Chef De Cozinha;167;Preto;1;1998-01-07;Buenos Aires;3562
+1737;Carlos Mendes Dias;Advogado;171;Preto;1;1952-09-08;Madrid;15455
+1738;Eduardo Monteiro Costa;Chef De Cozinha;154;Preto;0;1992-02-25;Nova York;16831
+1739;Renata Pinto Lopes;Jornalista;157;Preto;1;1989-08-30;Paris;19522
+1740;Rafael Carvalho Ribeiro;Musico;173;Grisalho;0;1971-08-05;Lisboa;9683
+1741;Vanessa Alves Rodrigues;Piloto;172;Castanho;1;1952-05-17;Paris;16420
+1742;Beatriz Alves Silva;Guia Turistico;169;Castanho;1;1984-09-06;Atenas;3864
+1743;Larissa Martins Vieira;Musico;157;Castanho;0;1982-11-03;Atenas;49764
+1744;Camila Gomes Moreira;Chef De Cozinha;166;Ruivo;0;1983-01-24;Cairo;76382
+1745;Felipe Ferreira Dias;Advogado;179;Preto;1;1988-08-02;Lisboa;26503
+1746;Sonia Oliveira Vieira;Advogado;162;Ruivo;0;1998-07-26;Bogota;15108
+1747;Maria Alves Souza;Advogado;165;Preto;1;1977-03-02;Madrid;5976
+1748;Gustavo Silva Gomes;Chef De Cozinha;179;Ruivo;1;1980-12-28;Nova York;14982
+1749;Jose Gomes Barbosa;Designer;173;Grisalho;1;1978-05-03;Praga;1670
+1750;Beatriz Araujo Fernandes;Guia Turistico;167;Ruivo;1;1991-02-09;Lisboa;28340
+1751;Marcelo Santos Pinto;Designer;181;Loiro;1;1980-03-14;Viena;13606
+1752;Bruno Barbosa Goncalves;Designer;161;Preto;0;1992-05-02;Berlim;19635
+1753;Monica Vieira Goncalves;Medico;168;Loiro;1;1992-06-13;Nova York;14227
+1754;Lucas Ribeiro Lima;Jornalista;173;Castanho;0;1965-01-09;Nova York;30135
+1755;Larissa Nunes Rocha;Contador;164;Ruivo;0;1957-04-28;Berlim;9156
+1756;Lucas Souza Silva;Jornalista;175;Grisalho;1;1992-05-25;Cairo;7321
+1757;Juliana Gomes Montes;Piloto;170;Grisalho;0;1959-12-29;Madrid;49854
+1758;Felipe Rocha Santos;Jornalista;173;Ruivo;0;1952-01-02;Nova York;5065
+1759;Vanessa Teixeira Gomes;Contador;157;Grisalho;1;1976-01-17;Lisboa;2749
+1760;Larissa Dias Gomes;Advogado;161;Loiro;0;1968-05-15;Buenos Aires;97727
+1761;Eduardo Ferreira Nunes;Advogado;161;Ruivo;1;1977-12-29;Berlim;11872
+1762;Renata Montes Moreira;Musico;155;Grisalho;1;1994-01-31;Berlim;5266
+1763;Fernanda Vieira Moreira;Medico;166;Ruivo;0;1973-01-20;Cairo;27480
+1764;Andre Moreira Fernandes;Professor;165;Grisalho;1;1974-09-12;Cairo;5431
+1765;Luiza Goncalves Lopes;Guia Turistico;178;Preto;1;1956-09-09;Istambul;23491
+1766;Juliana Lopes Costa;Advogado;170;Ruivo;0;1991-05-24;Cidade Do Mexico;7357
+1767;Fernanda Dias Rodrigues;Medico;174;Preto;0;1967-09-23;Madrid;11496
+1768;Andre Moreira Dias;Designer;191;Preto;1;1964-03-29;Berlim;17744
+1769;Carlos Costa Nunes;Contador;172;Preto;0;1961-11-20;Toquio;21840
+1770;Fernanda Montes Monteiro;Engenheiro;173;Ruivo;0;1991-04-29;Nova York;2899
+1771;Joao Ferreira Lopes;Medico;174;Grisalho;1;1989-05-05;Madrid;11319
+1772;Rodrigo Mendes Silva;Chef De Cozinha;182;Castanho;0;1964-09-16;Lisboa;7646
+1773;Tatiane Nunes Cardoso;Guia Turistico;164;Preto;0;1950-08-04;Berlim;57875
+1774;Pedro Barbosa Alves;Musico;165;Loiro;0;1983-04-12;Toquio;8229
+1775;Luiza Ferreira Vieira;Contador;177;Preto;0;1969-12-09;Roma;36924
+1776;Diego Lima Fernandes;Fotografo;159;Grisalho;1;1987-10-28;Paris;5988
+1777;Thiago Rocha Dias;Chef De Cozinha;175;Preto;0;1992-01-24;Istambul;13882
+1778;Pedro Fernandes Cardoso;Fotografo;170;Preto;0;1987-05-25;Berlim;7909
+1779;Patricia Lopes Mendes;Contador;156;Preto;0;1950-09-04;Toquio;19844
+1780;Camila Montes Gomes;Piloto;171;Grisalho;0;1988-12-04;Roma;4670
+1781;Diego Alves Goncalves;Medico;181;Loiro;0;1978-07-27;Cidade Do Mexico;7949
+1782;Patricia Alves Pereira;Medico;155;Grisalho;1;1993-12-01;Berlim;4840
+1783;Maria Monteiro Monteiro;Piloto;173;Castanho;0;1952-03-22;Nova York;10618
+1784;Pedro Martins Alves;Jornalista;154;Grisalho;1;1997-05-16;Bogota;8098
+1785;Patricia Ferreira Pinto;Contador;164;Loiro;0;1967-12-31;Buenos Aires;5159
+1786;Renata Costa Lopes;Medico;149;Grisalho;0;1972-07-12;Toquio;24809
+1787;Aline Costa Lopes;Musico;172;Grisalho;0;1971-01-12;Lisboa;12765
+1788;Pedro Lopes Alves;Engenheiro;168;Castanho;0;1964-05-28;Istambul;3362
+1789;Renata Rodrigues Lima;Fotografo;171;Grisalho;0;1973-01-09;Cidade Do Mexico;12211
+1790;Pedro Araujo Pinto;Professor;173;Preto;0;1981-05-22;Lisboa;12259
+1791;Maria Monteiro Silva;Fotografo;175;Castanho;0;1995-01-21;Berlim;9435
+1792;Andre Fernandes Nunes;Piloto;175;Castanho;1;1965-12-28;Lisboa;4433
+1793;Lucas Pereira Rocha;Advogado;169;Preto;0;1955-12-30;Praga;58735
+1794;Monica Rodrigues Dias;Fotografo;156;Grisalho;0;1972-04-21;Nova York;41808
+1795;Felipe Vieira Teixeira;Jornalista;161;Castanho;0;1981-05-30;Nova York;14818
+1796;Monica Lopes Lopes;Advogado;169;Loiro;1;1967-01-21;Viena;47416
+1797;Andre Cardoso Gomes;Contador;166;Ruivo;0;1967-07-23;Berlim;17723
+1798;Vanessa Goncalves Costa;Medico;168;Grisalho;0;1951-02-28;Roma;26191
+1799;Maria Pinto Moreira;Professor;165;Loiro;1;1985-07-31;Buenos Aires;7957
+1800;Rafael Costa Mendes;Musico;167;Castanho;0;1963-08-25;Roma;34909
+1801;Juliana Lopes Martins;Guia Turistico;182;Ruivo;1;1979-08-10;Istambul;6125
+1802;Rodrigo Silva Lopes;Engenheiro;162;Loiro;1;1966-10-29;Lisboa;7168
+1803;Rafael Pereira Costa;Fotografo;187;Castanho;1;1971-02-07;Cairo;9631
+1804;Monica Gomes Barbosa;Chef De Cozinha;181;Grisalho;1;1962-01-08;Atenas;11118
+1805;Andre Dias Lima;Contador;160;Preto;0;1984-01-23;Lisboa;27674
+1806;Rodrigo Cardoso Vieira;Designer;173;Preto;0;1995-12-02;Madrid;9647
+1807;Fernanda Rodrigues Gomes;Contador;172;Ruivo;0;1962-03-14;Nova York;8022
+1808;Pedro Alves Nunes;Piloto;182;Ruivo;0;1967-12-07;Viena;5620
+1809;Aline Silva Fernandes;Guia Turistico;172;Ruivo;0;1963-01-30;Roma;9457
+1810;Ana Oliveira Fernandes;Jornalista;172;Preto;0;1951-04-16;Viena;10856
+1811;Carlos Monteiro Araujo;Fotografo;169;Ruivo;0;2004-07-17;Roma;43278
+1812;Luiza Vieira Martins;Medico;177;Grisalho;0;1980-01-01;Atenas;22587
+1813;Renata Costa Lopes;Advogado;169;Loiro;0;1971-10-14;Berlim;47778
+1814;Fernanda Pinto Oliveira;Advogado;184;Preto;0;1958-05-07;Berlim;6199
+1815;Juliana Goncalves Monteiro;Engenheiro;149;Ruivo;0;1984-02-05;Toquio;10255
+1816;Camila Monteiro Lima;Jornalista;166;Grisalho;0;1991-08-17;Roma;7687
+1817;Rodrigo Nunes Moreira;Professor;169;Preto;0;1975-02-06;Lisboa;14541
+1818;Rodrigo Rodrigues Montes;Engenheiro;166;Ruivo;0;1965-03-28;Cairo;12116
+1819;Beatriz Vieira Dias;Jornalista;169;Loiro;0;1993-09-25;Istambul;6361
+1820;Beatriz Carvalho Pinto;Guia Turistico;161;Castanho;0;1990-01-15;Cidade Do Mexico;24529
+1821;Thiago Mendes Ribeiro;Medico;160;Preto;1;1968-08-13;Madrid;34637
+1822;Felipe Vieira Carvalho;Piloto;166;Preto;0;1958-07-20;Lisboa;53844
+1823;Felipe Goncalves Montes;Jornalista;183;Ruivo;0;1977-09-20;Lisboa;57795
+1824;Camila Gomes Lima;Professor;165;Grisalho;0;1950-10-04;Buenos Aires;10648
+1825;Marcelo Martins Teixeira;Musico;161;Loiro;1;2004-10-11;Lisboa;4469
+1826;Jose Martins Barbosa;Advogado;173;Preto;0;1985-04-20;Paris;55270
+1827;Maria Mendes Costa;Musico;171;Castanho;0;1976-05-06;Atenas;3903
+1828;Luiza Carvalho Lopes;Fotografo;175;Castanho;0;1967-05-28;Berlim;11963
+1829;Vanessa Ferreira Mendes;Chef De Cozinha;176;Castanho;0;1970-11-09;Roma;38548
+1830;Ana Lopes Fernandes;Designer;173;Grisalho;0;1974-10-25;Viena;19805
+1831;Rodrigo Montes Ribeiro;Professor;176;Ruivo;0;1953-03-18;Roma;8924
+1832;Eduardo Silva Costa;Chef De Cozinha;184;Loiro;0;2004-08-07;Cairo;12507
+1833;Pedro Ferreira Montes;Medico;174;Castanho;0;1963-11-05;Praga;3339
+1834;Monica Goncalves Souza;Chef De Cozinha;177;Ruivo;1;2003-07-17;Lisboa;10078
+1835;Diego Ribeiro Rodrigues;Designer;194;Loiro;0;2002-11-01;Buenos Aires;25502
+1836;Beatriz Barbosa Monteiro;Professor;164;Castanho;1;2001-07-27;Madrid;5344
+1837;Gustavo Fernandes Goncalves;Guia Turistico;164;Preto;1;1963-05-23;Viena;3991
+1838;Juliana Souza Araujo;Designer;170;Grisalho;0;1968-08-30;Cidade Do Mexico;15004
+1839;Larissa Gomes Gomes;Engenheiro;179;Castanho;1;1950-08-26;Lisboa;6145
+1840;Gustavo Lima Goncalves;Jornalista;158;Ruivo;0;1960-05-28;Istambul;12733
+1841;Joao Pereira Lima;Jornalista;163;Loiro;1;1985-02-23;Bogota;2827
+1842;Felipe Costa Rocha;Chef De Cozinha;168;Grisalho;1;1953-08-25;Viena;5996
+1843;Marcelo Goncalves Carvalho;Engenheiro;185;Loiro;1;1984-09-12;Nova York;23851
+1844;Beatriz Monteiro Rodrigues;Engenheiro;163;Ruivo;0;1959-09-04;Toquio;28565
+1845;Rafael Mendes Carvalho;Chef De Cozinha;171;Loiro;1;1990-12-31;Atenas;69951
+1846;Jose Moreira Carvalho;Musico;171;Castanho;1;2004-05-24;Berlim;22501
+1847;Ana Silva Gomes;Designer;178;Ruivo;0;1955-09-26;Paris;23854
+1848;Carlos Mendes Vieira;Engenheiro;170;Castanho;0;1965-06-19;Paris;12521
+1849;Rafael Ferreira Silva;Contador;170;Castanho;1;1962-08-01;Berlim;53733
+1850;Thiago Souza Carvalho;Advogado;176;Ruivo;1;1951-06-16;Madrid;8919
+1851;Renata Goncalves Martins;Fotografo;160;Ruivo;0;2000-03-15;Cidade Do Mexico;36984
+1852;Gustavo Teixeira Nunes;Professor;174;Castanho;0;1981-07-19;Cairo;5900
+1853;Joao Vieira Ferreira;Engenheiro;157;Loiro;1;1953-07-13;Cidade Do Mexico;12850
+1854;Bruno Lima Costa;Medico;167;Grisalho;0;1951-10-08;Bogota;19894
+1855;Beatriz Oliveira Alves;Musico;160;Castanho;1;1956-02-28;Madrid;29380
+1856;Pedro Montes Montes;Fotografo;167;Preto;0;2002-05-18;Toquio;3535
+1857;Pedro Teixeira Mendes;Medico;170;Preto;0;1962-02-25;Cairo;62907
+1858;Andre Teixeira Souza;Medico;180;Preto;0;1962-08-16;Roma;5882
+1859;Fernanda Lopes Goncalves;Chef De Cozinha;178;Preto;0;1952-01-22;Madrid;30897
+1860;Felipe Lopes Souza;Contador;164;Preto;0;1970-12-31;Nova York;7885
+1861;Beatriz Souza Costa;Fotografo;158;Castanho;0;1950-06-29;Cairo;14474
+1862;Juliana Mendes Araujo;Musico;178;Loiro;0;1956-10-16;Lisboa;6289
+1863;Camila Oliveira Monteiro;Contador;165;Preto;0;1976-02-15;Lisboa;5313
+1864;Larissa Ribeiro Mendes;Piloto;185;Castanho;1;1979-11-03;Viena;19983
+1865;Rodrigo Nunes Vieira;Professor;174;Castanho;1;1952-01-26;Toquio;16417
+1866;Andre Barbosa Barbosa;Guia Turistico;179;Ruivo;1;1986-08-11;Praga;46550
+1867;Juliana Rocha Lima;Fotografo;177;Castanho;0;1971-09-23;Praga;7987
+1868;Andre Moreira Monteiro;Medico;171;Grisalho;0;1954-09-04;Toquio;38482
+1869;Larissa Moreira Monteiro;Fotografo;189;Castanho;0;1958-07-10;Toquio;6430
+1870;Rodrigo Teixeira Pereira;Guia Turistico;177;Loiro;0;1987-12-12;Nova York;12227
+1871;Maria Araujo Rodrigues;Musico;167;Ruivo;0;1974-07-13;Atenas;7499
+1872;Camila Barbosa Barbosa;Medico;185;Preto;0;1951-08-29;Berlim;85328
+1873;Joao Alves Goncalves;Designer;177;Preto;0;1950-08-11;Toquio;32092
+1874;Joao Martins Cardoso;Advogado;181;Castanho;0;1985-07-04;Istambul;67747
+1875;Ana Araujo Oliveira;Fotografo;164;Preto;0;1959-10-10;Cidade Do Mexico;22026
+1876;Fernanda Lopes Silva;Musico;167;Loiro;1;2001-04-27;Paris;90174
+1877;Eduardo Moreira Montes;Chef De Cozinha;163;Ruivo;1;1973-07-09;Lisboa;2067
+1878;Camila Gomes Dias;Contador;154;Ruivo;0;1972-06-18;Roma;3283
+1879;Fernanda Moreira Montes;Fotografo;158;Castanho;0;1992-05-14;Cairo;6011
+1880;Ana Rodrigues Goncalves;Engenheiro;169;Loiro;0;1979-07-28;Cairo;8976
+1881;Andre Mendes Fernandes;Musico;189;Loiro;0;1984-02-23;Atenas;10816
+1882;Patricia Cardoso Araujo;Fotografo;186;Grisalho;0;1964-04-26;Cidade Do Mexico;29596
+1883;Vanessa Carvalho Goncalves;Musico;165;Castanho;0;1978-08-29;Cairo;11475
+1884;Beatriz Araujo Teixeira;Guia Turistico;178;Ruivo;0;1964-01-19;Buenos Aires;20711
+1885;Marcelo Mendes Rodrigues;Advogado;173;Ruivo;0;1972-06-16;Madrid;11980
+1886;Felipe Martins Ribeiro;Medico;176;Castanho;0;2000-09-22;Praga;17363
+1887;Carlos Santos Lopes;Jornalista;158;Grisalho;1;1967-10-28;Cairo;5163
+1888;Renata Mendes Santos;Advogado;169;Grisalho;0;1969-08-23;Toquio;1228
+1889;Tatiane Rocha Lopes;Guia Turistico;176;Grisalho;0;1981-11-22;Lisboa;12975
+1890;Larissa Ribeiro Araujo;Engenheiro;172;Grisalho;0;1974-02-12;Buenos Aires;11465
+1891;Juliana Cardoso Moreira;Professor;179;Loiro;1;1971-06-18;Cidade Do Mexico;19133
+1892;Bruno Gomes Martins;Advogado;185;Grisalho;0;1972-09-19;Toquio;15577
+1893;Monica Lopes Teixeira;Engenheiro;164;Loiro;0;1981-10-29;Cairo;1278
+1894;Fernanda Montes Martins;Engenheiro;169;Ruivo;1;1999-04-27;Lisboa;4336
+1895;Felipe Goncalves Dias;Professor;178;Preto;1;1958-11-24;Bogota;17483
+1896;Tatiane Nunes Rodrigues;Contador;173;Castanho;0;1965-01-01;Viena;5596
+1897;Thiago Gomes Silva;Contador;169;Castanho;0;1984-02-15;Paris;30752
+1898;Luiza Lopes Rodrigues;Guia Turistico;175;Ruivo;1;1974-07-08;Lisboa;71402
+1899;Camila Alves Teixeira;Medico;173;Castanho;0;1994-03-29;Istambul;3599
+1900;Eduardo Gomes Fernandes;Fotografo;173;Preto;1;1993-04-15;Nova York;7672
+1901;Jose Barbosa Rodrigues;Advogado;171;Loiro;1;1952-11-15;Cidade Do Mexico;13019
+1902;Ana Teixeira Vieira;Jornalista;169;Ruivo;0;1995-11-22;Praga;2446
+1903;Carlos Vieira Cardoso;Jornalista;156;Ruivo;0;1980-06-19;Nova York;6414
+1904;Patricia Araujo Mendes;Chef De Cozinha;170;Ruivo;1;1968-11-21;Berlim;23784
+1905;Fernanda Pinto Dias;Contador;175;Loiro;0;1971-06-18;Nova York;21155
+1906;Juliana Gomes Rodrigues;Engenheiro;190;Loiro;1;1964-10-24;Paris;7337
+1907;Pedro Lima Souza;Guia Turistico;158;Grisalho;1;2000-08-14;Roma;10511
+1908;Rodrigo Ferreira Ribeiro;Fotografo;170;Loiro;0;1961-07-03;Nova York;20215
+1909;Renata Alves Gomes;Advogado;168;Preto;1;1954-10-09;Toquio;12656
+1910;Felipe Nunes Rocha;Chef De Cozinha;173;Preto;0;1985-01-29;Cidade Do Mexico;17218
+1911;Sonia Ribeiro Martins;Fotografo;174;Loiro;0;1992-08-18;Cairo;3611
+1912;Juliana Pinto Monteiro;Jornalista;167;Loiro;0;1955-01-13;Lisboa;23107
+1913;Maria Vieira Vieira;Medico;176;Grisalho;1;1983-05-21;Berlim;29191
+1914;Lucas Gomes Lima;Advogado;177;Preto;0;1956-08-18;Madrid;8354
+1915;Monica Souza Rocha;Designer;171;Loiro;0;1976-01-06;Lisboa;10697
+1916;Eduardo Carvalho Vieira;Professor;179;Castanho;0;2004-11-30;Cidade Do Mexico;11370
+1917;Ana Rocha Fernandes;Chef De Cozinha;158;Castanho;0;1964-05-28;Madrid;86161
+1918;Rodrigo Gomes Oliveira;Engenheiro;157;Castanho;0;1987-02-06;Cairo;84746
+1919;Pedro Gomes Carvalho;Piloto;155;Grisalho;0;2004-05-14;Praga;9492
+1920;Monica Alves Lopes;Fotografo;170;Grisalho;1;1978-09-17;Praga;10089
+1921;Larissa Mendes Costa;Medico;183;Grisalho;1;1977-07-21;Nova York;5386
+1922;Thiago Santos Barbosa;Piloto;176;Ruivo;1;1977-02-28;Istambul;34497
+1923;Larissa Costa Costa;Chef De Cozinha;181;Grisalho;1;1963-01-04;Istambul;15815
+1924;Gustavo Montes Vieira;Engenheiro;174;Ruivo;1;2001-01-25;Cairo;3773
+1925;Andre Pereira Pinto;Jornalista;158;Castanho;1;1959-09-05;Roma;7515
+1926;Beatriz Martins Teixeira;Designer;162;Loiro;0;1974-04-01;Atenas;16999
+1927;Jose Montes Nunes;Medico;162;Ruivo;0;1980-05-19;Lisboa;17476
+1928;Aline Souza Costa;Engenheiro;159;Ruivo;1;1992-08-22;Madrid;33721
+1929;Rodrigo Santos Goncalves;Piloto;176;Loiro;0;1978-12-02;Viena;1217
+1930;Juliana Montes Mendes;Advogado;175;Preto;0;1974-08-27;Praga;7477
+1931;Marcelo Monteiro Silva;Chef De Cozinha;174;Ruivo;0;1997-09-02;Lisboa;13070
+1932;Vanessa Pereira Rodrigues;Chef De Cozinha;163;Ruivo;0;1965-09-16;Buenos Aires;5603
+1933;Felipe Vieira Cardoso;Piloto;181;Loiro;1;1962-12-04;Lisboa;11019
+1934;Eduardo Araujo Rocha;Medico;173;Castanho;0;1967-04-19;Praga;21994
+1935;Lucas Teixeira Moreira;Contador;173;Preto;0;2004-02-12;Toquio;9061
+1936;Larissa Costa Vieira;Piloto;155;Preto;0;1957-09-07;Cidade Do Mexico;15467
+1937;Rodrigo Dias Vieira;Contador;151;Ruivo;0;2004-02-07;Istambul;5921
+1938;Sonia Lima Dias;Designer;170;Ruivo;0;1995-04-24;Bogota;39474
+1939;Rafael Carvalho Alves;Contador;182;Loiro;0;1981-07-31;Paris;30010
+1940;Beatriz Rocha Rocha;Guia Turistico;158;Castanho;0;1989-10-04;Toquio;12574
+1941;Felipe Teixeira Carvalho;Musico;186;Loiro;1;1953-11-16;Lisboa;32840
+1942;Aline Lopes Goncalves;Professor;180;Grisalho;0;1978-08-28;Cairo;23739
+1943;Gustavo Montes Dias;Designer;189;Castanho;1;1975-02-08;Berlim;20948
+1944;Camila Moreira Oliveira;Engenheiro;168;Preto;0;1989-10-09;Atenas;5638
+1945;Luiza Mendes Moreira;Musico;182;Castanho;0;1974-06-26;Bogota;37006
+1946;Juliana Souza Monteiro;Professor;175;Preto;1;1964-02-14;Atenas;20102
+1947;Sonia Lima Ferreira;Jornalista;173;Castanho;1;1981-03-06;Roma;15577
+1948;Felipe Santos Lopes;Engenheiro;186;Ruivo;0;1976-03-10;Viena;27567
+1949;Sonia Teixeira Moreira;Contador;153;Castanho;1;1987-01-07;Buenos Aires;10950
+1950;Andre Nunes Montes;Professor;167;Castanho;0;1984-03-24;Madrid;6215
+1951;Sonia Cardoso Ferreira;Guia Turistico;174;Ruivo;0;2002-06-10;Praga;7648
+1952;Thiago Cardoso Rocha;Jornalista;163;Grisalho;1;1965-06-02;Roma;12527
+1953;Larissa Cardoso Cardoso;Professor;174;Castanho;0;1967-01-03;Cairo;3809
+1954;Jose Mendes Vieira;Advogado;169;Loiro;0;1970-01-11;Roma;17722
+1955;Pedro Monteiro Fernandes;Designer;172;Ruivo;0;1986-07-16;Lisboa;2682
+1956;Jose Teixeira Fernandes;Engenheiro;168;Ruivo;0;1986-06-07;Madrid;15660
+1957;Tatiane Rocha Santos;Musico;164;Grisalho;0;1961-12-22;Nova York;17216
+1958;Luiza Nunes Barbosa;Designer;176;Loiro;0;1990-11-16;Istambul;22045
+1959;Bruno Alves Souza;Fotografo;161;Preto;0;1992-10-28;Lisboa;3266
+1960;Luiza Costa Oliveira;Musico;185;Grisalho;1;1983-04-06;Bogota;5418
+1961;Jose Souza Ferreira;Engenheiro;164;Grisalho;0;1966-04-10;Bogota;10054
+1962;Tatiane Ribeiro Lopes;Designer;173;Castanho;0;1967-02-04;Paris;7012
+1963;Joao Barbosa Alves;Guia Turistico;182;Preto;0;1994-02-14;Bogota;18529
+1964;Pedro Rocha Souza;Fotografo;162;Ruivo;0;1976-11-22;Buenos Aires;11383
+1965;Fernanda Rocha Pereira;Piloto;165;Grisalho;0;1960-12-25;Atenas;10595
+1966;Diego Lopes Gomes;Professor;168;Ruivo;1;2003-05-27;Lisboa;31215
+1967;Lucas Rodrigues Vieira;Piloto;166;Loiro;1;1984-03-23;Paris;32121
+1968;Aline Ferreira Goncalves;Chef De Cozinha;174;Castanho;1;1964-04-09;Praga;3192
+1969;Juliana Martins Ferreira;Contador;181;Grisalho;0;1982-11-04;Buenos Aires;14358
+1970;Jose Alves Fernandes;Medico;189;Preto;0;1959-11-10;Cidade Do Mexico;54198
+1971;Lucas Ferreira Carvalho;Musico;164;Castanho;0;1954-07-24;Cairo;7585
+1972;Marcelo Carvalho Monteiro;Designer;171;Ruivo;1;1968-03-27;Istambul;11862
+1973;Tatiane Santos Lopes;Designer;171;Loiro;0;1994-04-24;Madrid;6546
+1974;Bruno Gomes Costa;Professor;173;Ruivo;0;1998-11-07;Cidade Do Mexico;3291
+1975;Carlos Pinto Montes;Contador;166;Loiro;1;1980-06-05;Paris;11246
+1976;Gustavo Oliveira Martins;Medico;161;Preto;0;1956-01-03;Paris;35431
+1977;Sonia Ribeiro Rocha;Medico;174;Castanho;0;1980-01-16;Bogota;9267
+1978;Bruno Teixeira Pereira;Piloto;166;Loiro;0;1965-11-03;Praga;2824
+1979;Gustavo Alves Barbosa;Designer;187;Ruivo;0;1955-07-03;Nova York;52875
+1980;Thiago Dias Cardoso;Musico;163;Ruivo;0;1979-12-24;Paris;5636
+1981;Rafael Monteiro Oliveira;Medico;170;Ruivo;0;1998-07-16;Buenos Aires;61034
+1982;Felipe Teixeira Pereira;Chef De Cozinha;177;Preto;0;1966-04-28;Istambul;9665
+1983;Rodrigo Nunes Nunes;Fotografo;144;Ruivo;0;1975-07-24;Toquio;500
+1984;Larissa Nunes Gomes;Piloto;179;Grisalho;1;2002-04-21;Nova York;28145
+1985;Luiza Dias Goncalves;Advogado;165;Ruivo;0;1967-02-12;Cidade Do Mexico;13023
+1986;Felipe Barbosa Rocha;Engenheiro;157;Preto;0;1980-01-23;Praga;8295
+1987;Felipe Goncalves Carvalho;Designer;180;Ruivo;1;1964-10-25;Viena;50590
+1988;Larissa Alves Souza;Engenheiro;178;Ruivo;0;1986-03-31;Praga;8691
+1989;Fernanda Mendes Martins;Professor;174;Grisalho;0;1981-05-29;Lisboa;13974
+1990;Marcelo Oliveira Nunes;Contador;180;Castanho;0;1955-09-09;Buenos Aires;11387
+1991;Aline Montes Ribeiro;Advogado;177;Grisalho;0;1953-11-04;Roma;8025
+1992;Sonia Goncalves Lopes;Professor;161;Castanho;0;1977-10-06;Lisboa;10739
+1993;Lucas Moreira Cardoso;Guia Turistico;156;Grisalho;1;1980-07-15;Madrid;37321
+1994;Rafael Cardoso Dias;Contador;174;Preto;0;2003-07-08;Bogota;36260
+1995;Felipe Santos Pinto;Guia Turistico;164;Grisalho;0;1954-04-10;Paris;7400
+1996;Aline Barbosa Rodrigues;Chef De Cozinha;164;Preto;0;1988-02-01;Berlim;6099
+1997;Eduardo Dias Lima;Musico;171;Grisalho;0;1981-10-28;Lisboa;2540
+1998;Diego Rodrigues Mendes;Jornalista;180;Castanho;0;1976-01-19;Nova York;25380
+1999;Rodrigo Pereira Pinto;Guia Turistico;179;Castanho;0;1987-07-15;Bogota;11163
+2000;Maria Pinto Mendes;Guia Turistico;183;Ruivo;0;1958-07-17;Lisboa;17342

@@ -1,0 +1,2041 @@
+﻿id;nome;profissao;altura_cm;cor_cabelo;tem_tatuagem;data_nascimento;ultima_cidade;valor_gasto_viagens
+1317;LUIZA MOREIRA COSTA;Engenheiro;162 cm;loiro;nao;18-03-1974;Istambul;10.624
+1001;Vanessa Vieira Carvalho;Contador;157 cm; castanho;N;15/04/1953;Cidade do México;R$8298
+1069;Larissa Martins Barbosa;Médico  ;1,64 m;ruivo;Sim;09-01-1969;Lisboa;R$ 10.539
+1968;Aline Ferreira Gonçalves;chef de cozinha;1,74 m;CASTANHO;S;09.04.1964;Praga;3192
+530;LUÍZA MONTES SOUZA; Piloto;172; grisalho;False;1991-09-10;viena;4701
+299;GUSTAVO LOPES COSTA;Musico;176;GRISALHO;N;31-10-1979; BOGOTA;3394
+415;FELIPE SOUZA SILVA;Contador;1,61 m; LOIRO;falso;1954-11-27;Paris;31.148
+983;Rodrigo Rocha Moreira;Designer  ;143;loiro;0;1953-04-28; Paris;R$ 33.617
+417;Patricia Dias Carvalho;ADVOGADO;1,69 m;ruivo  ;N;05/09/1982;BOGOTÁ;R$ 22.921
+1472;Juliana Gonçalves Rodrigues; designer;1,70 m;GRISALHO;1;27/05/1967;Cairo;R$ 10.963
+1525;RENATA RIBEIRO LOPES;fotógrafo;172;grisalho;True;19/06/1988;LISBOA;R$ 14.861
+1576;Rodrigo Gonçalves Cardoso;Guia Turistico;185 cm;preto;nao;1989-12-27;BOGOTA;R$ 27.528
+252;FERNANDA BARBOSA MOREIRA; Jornalista;153 cm;loiro;Não;09-06-1966;Berlim  ;90.045
+1622;ANA BARBOSA RODRIGUES;Advogado;169 cm;loiro;sim;23-01-1975;Bogotá;60269
+71;Maria Rocha Nunes  ;Guia Turistico;176;preto;SIM;13-07-1954;Toquio;6111
+1107; Carlos Gomes Cardoso; Chef de Cozinha;157;CASTANHO;N;1963-05-09;TOQUIO;6270
+1363;Aline  Teixeira Ferreira; Advogado;154;;verdadeiro;1970-12-07;Lisboa;R$ 24.689
+351;Larissa Teixeira Fernandes;MUSICO;1,60 m; preto;NÃO;30-09-1957;Toquio;R$ 2.577
+1392;Felipe Souza Dias;Músico  ;173;castanho;N;01.09.1997;paris;R$ 2.249
+1088;Diego Ribeiro Martins; CHEF DE COZINHA;1,79 m;preto;yes;1996-02-04;CAIRO;28165
+66;JOSÉ MOREIRA MONTEIRO;fotógrafo;167;preto;0;07/09/1955;Tóquio;R$ 23.662
+980;Ana Mendes Montes; DESIGNER;171;castanho;falso;22/07/1964;PARIS;17649
+125;ana rocha ferreira;jornalista  ;1,72 m;preto;NÃO;1993-01-17; Tóquio;R$ 7.124
+1269;Eduardo Vieira Ferreira  ;piloto  ;191;ruivo;falso;07-04-1981;NOVA YORK;R$ 14.233
+1682;renata mendes barbosa;CHEF DE COZINHA;178 cm;grisalho;N;13/07/1958;Atenas;3850
+1316;Rafael Moreira Mendes  ;chef de cozinha;175;loiro;Sim;1954-04-08;Nova York  ;31007
+544;Luiza Ferreira Teixeira;Medico;176;grisalho;Sim;02-07-2004;Tóquio;R$ 25.425
+874;Larissa Pereira Pinto;Medico;173;grisalho;1;19-12-1999;Tóquio;4084
+1492;Andre Mendes Lopes;contador  ;189;grisalho;no;04-01-1954;Buenos Aires;R$ 20.574
+1944;CAMILA MOREIRA OLIVEIRA  ;Engenheiro;168;PRETO;NÃO;09/10/1989; Atenas;R$ 5.638
+1621;larissa pereira teixeira;Guia Turistico;155;loiro;False;12.05.1953;Nova York;R$63235
+375;RAFAEL FERREIRA MARTINS;Professor;155;loiro;N;03-12-1993;Bogota  ;R$ 11.972
+1248;tatiane rocha pereira  ; DESIGNER;1,62 m;loiro;N;13/07/1996;ATENAS;122078
+213; Bruno Pinto Monteiro; ENGENHEIRO;173;ruivo;0;1985-01-29;TÓQUIO;47636
+1720;Andre Martins Silva;Contador;169;castanho;SIM;12/07/1997;BERLIM;R$40635
+325;bruno carvalho rocha;Jornalista;172 cm;grisalho;False;1968-10-17;paris;R$11756
+30;Ana Silva Gonçalves;Contador;164 cm;ruivo  ;yes;27/05/1980;Roma;R$ 11.516
+1836;Beatriz Barbosa Monteiro;Professor;1,64 m;castanho;yes;27/07/2001;Madrid;R$5344
+781;joão martins rodrigues;Piloto;175 cm;castanho;NÃO;28/05/1980;Paris;R$23148
+290;Monica Montes Rodrigues;Engenheiro;178;ruivo;NÃO;17-02-1969; tóquio;31.955
+1264;Lucas Dias Pereira; Advogado;153;loiro;sim;05.12.1998;Berlim;31.728
+496;Rodrigo Vieira Pereira;MÉDICO  ;156; RUIVO;1;2002-05-05;Viena;R$ 27.115
+271;Gustavo Teixeira Souza;MUSICO;166;castanho;falso;01/05/1991;Tóquio;15055
+965;rodrigo silva araújo;Advogado;160;PRETO;0;04/04/1988; CIDADE DO MEXICO;1.828
+353;Tatiane Santos Silva;Engenheiro;168 cm;loiro;0;1955-06-08;PARIS;12.226
+101;Aline Martins Ferreira;PROFESSOR;173;RUIVO;0;16/12/2002;Praga  ;7480
+737;FELIPE ROCHA ROCHA  ;MÉDICO;163 cm; loiro;yes;1962-09-26;Toquio;R$ 4.815
+255;renata martins barbosa;Designer  ;184;GRISALHO;N;1996-04-24;CIDADE DO MÉXICO;10265
+1423;Sonia Barbosa Goncalves;Engenheiro;164;grisalho;0;1963-02-05;Atenas;1.802
+586;eduardo gomes moreira;Jornalista;166;preto;SIM;22-04-1998;NOVA YORK  ;R$13703
+553;beatriz cardoso oliveira; Professor;158;ruivo;verdadeiro;1995-07-04;Tóquio;R$ 3.797
+744;Renata Nunes Nunes;Designer;178;PRETO;False;27-08-2000;praga;R$16474
+57;VANESSA BARBOSA ROCHA  ;fotógrafo;146;ruivo;1;05.04.1968;Cairo;12762
+394;Renata Barbosa Fernandes  ;MEDICO;169 cm;RUIVO;sim;14/02/1960;Cairo;R$ 24.066
+1365; Aline Vieira Moreira;Designer;174;CASTANHO;nao;28/11/1961;madrid;6350
+422;JULIANA FERREIRA ALVES;fotógrafo;157;grisalho;N;1996-10-28;BUENOS AIRES;14651
+1002;Larissa Ferreira Ferreira;Músico  ;174 cm;castanho;yes;03.02.1974;nova york;R$ 27.110
+1024;patrícia teixeira gonçalves;PILOTO;172;CASTANHO;True;24-12-1960;Cairo;8810
+1713; Sônia Fernandes Monteiro; Guia Turistico;184;castanho;Sim;1992-06-07;Tóquio;R$ 4.438
+681;TATIANE PEREIRA OLIVEIRA;ENGENHEIRO  ;1,70 m;ruivo;True;1963-10-08;Praga;14302
+1564;THIAGO TEIXEIRA ALVES;Professor;170 cm;ruivo;N;22.04.1986;Cairo;R$ 3.982
+1524;Patricia Rodrigues Alves; Chef de Cozinha;166 cm;grisalho;N;03-08-1996;CAIRO;R$ 161.246
+1898;Luiza Lopes Rodrigues;Guia Turístico;1,75 m;ruivo;S;08/07/1974;Lisboa;71402
+614;Andre Lima Vieira;Chef de Cozinha;1,67 m;ruivo;yes;30.12.1951;nova york;21.921
+535;Camila Santos Rocha;Designer;182;grisalho;SIM;12.05.1965;buenos aires;R$ 24.186
+308;Gustavo Souza Costa;Fotografo;168; ruivo;NÃO;1964-05-15;buenos aires;7.886
+969;ANA FERNANDES NUNES;Fotografo;171; castanho;Sim;14-11-1992;Praga  ;6405
+1469;ANA DIAS PINTO;Médico;1,70 m;LOIRO;sim;14.09.1996; ISTAMBUL;8813
+1936;larissa  costa vieira;PILOTO;155;preto;falso;07/09/1957;Cidade do Mexico;15.467
+549;DIEGO SILVA GOMES;CONTADOR;1,72 m;LOIRO;0;07-06-1967;Cidade do México;19097
+1126;Eduardo Nunes Lima; Musico;1,62 m;PRETO;nao;1990-07-03;Cairo;R$ 28.460
+412;Camila Pereira Rodrigues;Músico;165 cm;RUIVO  ;True;31.01.1993;MADRID;9475
+1407;Jose Santos Carvalho;PROFESSOR;158;CASTANHO;False;1955-08-22;CAIRO;R$ 5.033
+1419;Lucas Fernandes Montes;Piloto;165;ruivo;NÃO;1998-10-02;cairo;R$ 8.693
+1250;Sonia Lopes Oliveira;Musico;160;preto;no;18/04/1983;berlim;12249
+1952;THIAGO CARDOSO ROCHA;jornalista;163;grisalho;SIM;1965-06-02;Roma;12.527
+257;Ana Carvalho Pereira;GUIA  TURÍSTICO;166;loiro;no;16-02-1955;Istambul;5205
+1086; André Carvalho Ferreira;fotógrafo;177;castanho;Sim;22/01/1964;Roma;R$ 33.158
+731;João Teixeira Silva;designer;1,58 m;preto;yes;05/03/1996;PARIS;R$ 14.438
+1495;Patrícia Pereira Oliveira;Medico;164;loiro  ;NÃO;12-02-1957;Paris;R$ 23.591
+1857;PEDRO TEIXEIRA MENDES;médico;170;PRETO;Não;1962-02-25;Cairo;62.907
+345;RAFAEL FERREIRA DIAS;Contador;163;CASTANHO;nao;1963-03-02;Bogotá  ;R$ 2.797
+418;Patricia Mendes Alves;músico;162 cm;castanho;SIM;1991-10-08;Cidade do México;11.841
+1424;Carlos Vieira Silva;Jornalista;1,74 m;preto;falso;18-03-1954;Paris  ;20.303
+1890;Larissa  Ribeiro Araújo;;172;GRISALHO;NÃO;1974-02-12;Buenos Aires;R$ 11.465
+1186;joão ribeiro oliveira;contador;1,84 m;ruivo;True;28-01-1976;Roma  ;29520
+1478;Larissa Pereira Santos;Jornalista;170; castanho;nao;1978-05-24;PARIS;15.087
+1994;Rafael Cardoso Dias;Contador;174 cm;preto;Não;08/07/2003;Bogota;36.260
+1780;Camila Montes Gomes;Piloto;171;GRISALHO;0;04-12-1988;Roma;4670
+300;rafael ferreira ribeiro;Medico;181 cm;LOIRO  ;0;27.03.1955;NOVA YORK;R$ 22.891
+1119;Juliana  Gonçalves Araújo; Engenheiro;1,65 m;loiro;nao;05/02/1973;Istambul;R$ 15.457
+1926;Beatriz Martins Teixeira;Designer;162; loiro;nao;1974-04-01;Atenas  ;16999
+1300;SÔNIA MARTINS GONÇALVES  ;Advogado;164 cm;preto;SIM;22.07.1995;Roma;10.800
+70;eduardo rodrigues fernandes;Contador;177;grisalho;False;21.01.1995;ISTAMBUL  ;11.718
+1568; TATIANE CARDOSO OLIVEIRA; Medico;184 cm; grisalho;False;1964-11-21;viena;R$ 17.531
+573;PEDRO CARDOSO LIMA  ;Guia Turistico  ;169;castanho;sim;27.04.1971;buenos aires;R$ 8.414
+1884;Beatriz Araújo Teixeira;Guia Turístico;1,78 m;ruivo;0;19.01.1964;Buenos Aires;20711
+1152;Beatriz Carvalho Ferreira;Advogado  ;167 cm;;0;09-12-1999;bogotá;5766
+1477;Beatriz Costa Rodrigues;Fotografo  ;157;ruivo;nao;11.11.1956;Nova York;26306
+880;Diego Dias Goncalves;GUIA TURISTICO;163;loiro;Não;19-06-1956;Viena;6228
+1768;André Moreira Dias;DESIGNER;191; preto;yes;29/03/1964;Berlim;R$ 17.744
+819;Carlos Cardoso Lopes;Professor;173;ruivo;N;12.08.1982;Praga  ;13572
+481;Larissa Souza Teixeira;Musico;160;;1;07-09-1976;istambul;R$ 6.201
+100;pedro lima oliveira;Médico;1,75 m;castanho;falso;13/03/2000;Cairo;10011
+608;Diego Oliveira Oliveira;chef de cozinha;171 cm;castanho;NÃO;08-05-1996;BOGOTÁ;3867
+742;tatiane souza rodrigues;guia turístico;172;ruivo;0;25.11.1958; Praga;1619
+1631;Camila Martins Fernandes;Designer;172;preto;False;1976-07-30; atenas;8817
+1665;VANESSA DIAS MOREIRA;Professor;1,56 m;ruivo;nao;1961-01-18;bogotá;R$42327
+562;Renata Nunes Pereira;Chef de Cozinha;186;preto;NÃO;24-03-1954;ROMA;R$2996
+112;LUCAS PEREIRA MONTEIRO;Médico;184;PRETO;0;18.09.1982;Nova York;R$ 24.013
+1023;VANESSA SOUZA GOMES;Advogado;173 cm;;1;18/08/1953;lisboa;R$ 3.466
+240;LUIZA MARTINS SOUZA;Guia Turístico;164 cm;castanho;nao;1989-03-14;BUENOS AIRES;R$ 12.529
+1212;Felipe Ferreira Moreira;GUIA TURISTICO;167;grisalho;NÃO;1959-04-22;Nova York;R$ 5.464
+129;Gustavo Martins Monteiro;Advogado;168 cm;castanho;Sim;26/07/2004;TOQUIO;R$31827
+1972;MARCELO CARVALHO MONTEIRO;Designer;171;RUIVO;True;27/03/1968;Istambul;R$ 11.862
+1950;André Nunes Montes  ;professor  ;1,67 m;CASTANHO;no;24.03.1984;Madrid;R$ 6.215
+508;BRUNO TEIXEIRA MARTINS;CONTADOR;176;LOIRO;N;2004-03-30;Madrid;R$ 22.692
+1905;Fernanda Pinto Dias;Contador;175;loiro  ;falso;18/06/1971; Nova York;21155
+1259;Marcelo Lima Vieira;Professor;159;loiro;SIM;02.10.1961;Nova York;174851
+1960;Luiza Costa Oliveira;Músico;185;grisalho;Sim;06/04/1983;bogotá;5.418
+707;BEATRIZ COSTA ROCHA  ;;190;preto;0;1988-10-06;Atenas;2499
+1826;José Martins Barbosa;ADVOGADO;173 cm;preto;falso;1985-04-20;PARIS;R$ 55.270
+1672;Sonia Monteiro Pinto;MEDICO;165 cm;grisalho;N;05-10-1960;Atenas;44550
+520;PEDRO MOREIRA CARDOSO; DESIGNER;178 cm;castanho;yes;1980-12-11;Madrid;34.570
+987;Maria Ferreira Monteiro;Designer;169;loiro;N;13.08.1963;Buenos Aires;1435
+941;FERNANDA CARDOSO ALVES; Engenheiro;175;loiro;N;05/04/1998;Berlim;7453
+1827;Maria Mendes Costa;Musico;171;CASTANHO;NÃO;06-05-1976;atenas;R$ 3.903
+904;ANDRE OLIVEIRA DIAS;GUIA TURÍSTICO;1,49 m;ruivo;NÃO;27-05-1996;cairo;R$ 5.937
+1108;José Lima Moreira; Chef de Cozinha;1,80 m;loiro;sim;23.03.2004;Tóquio;R$ 27.371
+1064;ANDRE MONTEIRO CARDOSO;Chef de Cozinha;175;grisalho;SIM;15-09-1952;LISBOA;R$30782
+964;JULIANA MENDES FERREIRA;Professor  ;180;RUIVO;S;23.12.1985;Nova York;R$48795
+367;Luíza Lima Pinto; FOTOGRAFO;178;grisalho;Sim;2003-07-23;viena;R$ 10.024
+1422;LUCAS MENDES PINTO;Piloto;1,64 m;castanho;sim;15.06.1990;TÓQUIO;R$ 12.239
+675; Andre Montes Pereira;engenheiro;180 cm;loiro;no;1962-03-29;Istambul;35.056
+1813; renata costa lopes;Advogado;169 cm;loiro  ;N;14/10/1971;Berlim;47778
+1513;André Teixeira Araújo  ;Fotógrafo;176; LOIRO;S;14-03-1995;Madrid;8.891
+597;Luiza Vieira Teixeira;Contador  ;1,88 m;loiro;False;25/11/1962;Buenos Aires  ;R$ 42.698
+1197;Patrícia  Gomes Lima;Chef de Cozinha;173 cm;;Sim;10.01.1958;Viena;R$ 7.331
+1527;FERNANDA VIEIRA CARVALHO;Jornalista;174;preto;sim;1997-11-29;Nova York;R$10153
+465;Tatiane Araujo Costa;MÚSICO;164;CASTANHO;False;01/07/1962;Cidade do México;R$ 9.315
+1677;JULIANA MENDES DIAS;MUSICO;183;preto;no;05.02.1962;Roma;28793
+1803;Rafael Pereira Costa;Fotografo;1,87 m;castanho;sim;07-02-1971;CAIRO;R$9631
+1053;Beatriz Martins Fernandes;Jornalista;1,75 m;ruivo;True;21/08/2004;Paris;R$ 11.998
+1975;CARLOS PINTO MONTES;Contador;1,66 m;loiro;True;05.06.1980;paris;R$ 11.246
+486;Renata  Pinto Vieira;designer;1,66 m;loiro;True;1974-12-31;Roma;7.126
+916; Thiago Rodrigues Barbosa;CHEF DE COZINHA;174 cm;ruivo;N;13.12.1991;Istambul;10473
+129;Gustavo Martins Monteiro;Advogado;168 cm;castanho;Sim;26/07/2004;TOQUIO;R$31827
+679;Vanessa Araújo Mendes; Medico;173; grisalho;yes;31-07-1968;Roma;18086
+830;EDUARDO MARTINS ARAÚJO;chef de cozinha  ;173 cm;ruivo;S;10/08/1950;Madrid;8057
+923;PEDRO FERREIRA MOREIRA;CONTADOR  ;168 cm;castanho;True;15.07.1973;Viena;1778
+1113; PATRICIA DIAS NUNES;;1,66 m;CASTANHO;S;12/05/1964; Tóquio;20575
+619;Bruno Vieira Moreira;Fotografo;177 cm; PRETO;sim;19/11/1983;Madrid;R$ 68.519
+772;sônia mendes oliveira;Professor;169;grisalho;1;21-07-1961; berlim;15.569
+1287;aline lima mendes; chef de cozinha;169 cm;PRETO;NÃO;25-06-1964;Istambul;R$13001
+1545;Vanessa Ferreira Ferreira;Fotógrafo;188 cm;CASTANHO;falso;20-01-1975;Istambul;R$ 64.752
+594; marcelo santos mendes;Jornalista;176;PRETO;Não;16-08-1965; LISBOA;5.167
+116;FERNANDA DIAS OLIVEIRA;Piloto;1,68 m;RUIVO;True;29/04/1957;Tóquio;6994
+768;RAFAEL LOPES NUNES;PILOTO;172;ruivo;1;20/06/1975;Madrid;12427
+1858;André Teixeira Souza  ;Medico;180;PRETO;Não;16.08.1962;ROMA;5882
+901;diego oliveira araújo;Guia Turístico;178;preto;sim;24.11.1955;Paris;R$ 10.779
+1947;sônia lima ferreira;JORNALISTA;173 cm;castanho;SIM;06/03/1981;roma;15.577
+1441;Vanessa Mendes Costa;Professor;1,63 m;loiro;verdadeiro;07-11-1996;Istambul  ;16809
+1791;Maria Monteiro Silva;Fotografo;175;castanho;no;1995-01-21;berlim;R$ 9.435
+889; RAFAEL ROCHA TEIXEIRA;MÉDICO;1,64 m;GRISALHO;nao;23.02.1994; Roma;7555
+212;CARLOS ROCHA ALVES  ;Médico;1,70 m;preto;nao;29/03/1951;VIENA;18696
+451;aline martins vieira;Engenheiro;172;preto;falso;1963-08-12;ATENAS;R$21776
+1177;PATRICIA ALVES PEREIRA;FOTOGRAFO;1,69 m; preto;Não;03/09/1991; Madrid;R$24242
+706;Maria Vieira Ribeiro  ;jornalista;171;GRISALHO;falso;12-08-1999;Roma;12.171
+1286;LUCAS GONCALVES GONCALVES;engenheiro;177;preto;N;1953-08-25;Lisboa  ;R$7674
+1095;Andre Ribeiro Lopes;Fotografo;153;loiro;Não;1956-03-04;NOVA YORK;R$33345
+211;Fernanda Monteiro Carvalho;Chef de Cozinha;180 cm;preto;False;28-07-1972;Roma;7.588
+121;SÔNIA COSTA DIAS; Guia Turístico;154;preto;Não;1955-07-25; Buenos Aires;19433
+1376;Patrícia Monteiro Nunes;Advogado;157;preto;yes;24.02.1989;Lisboa  ;11886
+1641;CARLOS VIEIRA RODRIGUES;músico;1,61 m;grisalho;False;1973-07-31;cairo;17.928
+1714;CAMILA ARAÚJO ROCHA;PILOTO;159;loiro;1;10.01.1997; Praga;R$21124
+298;Pedro Oliveira Pereira;DESIGNER;165 cm;loiro;sim;17-10-1952;Praga;R$ 21.139
+788;Diego Lopes Alves;Piloto;164;GRISALHO;NÃO;1958-09-27;ROMA;R$ 18.796
+136;Bruno Rocha Santos;Designer;163; castanho;no;13/12/1986;BERLIM;28.458
+484;Diego Cardoso Vieira; MÉDICO;1,61 m;grisalho;no;1990-04-22;CAIRO;15.577
+1934;Eduardo Araújo Rocha;;173;castanho  ;NÃO;19/04/1967;PRAGA  ;R$ 21.994
+299;GUSTAVO LOPES COSTA;Musico;176;GRISALHO;N;31-10-1979; BOGOTA;3394
+395;RAFAEL NUNES OLIVEIRA;Designer  ;180;grisalho;falso;1960-04-06;Cidade do México;22.282
+1165;Gustavo Teixeira Nunes;Fotógrafo;171;GRISALHO;no;24.05.1980;ISTAMBUL;R$28886
+1345;Juliana Silva Souza;Fotografo;1,69 m;preto;NÃO;04/01/1999;bogotá  ;3.604
+803;Ana Araújo Ribeiro  ;Designer;154;loiro;yes;1998-01-26;Istambul;R$ 6.122
+985;Tatiane Gomes Ribeiro  ;Guia Turistico;161;grisalho;nao;08-11-1994;Cairo  ;R$49050
+110;Bruno Vieira Cardoso;Chef de Cozinha;1,76 m;;0;1979-03-26; Berlim;27.914
+991;MARCELO MONTES NUNES;JORNALISTA  ;1,68 m;ruivo;Não;1998-12-10;paris;R$3285
+620;Mônica Ferreira Gonçalves;Professor;161 cm; LOIRO;nao;21.09.1975;Paris;7.177
+555; Fernanda Mendes Pinto; jornalista;1,74 m;preto;0;06.02.1989;Buenos Aires;R$ 13.509
+423;Carlos Oliveira Silva;Engenheiro;175;GRISALHO  ;0;09-01-1952;Tóquio;15.847
+760; JOSÉ NUNES MENDES;Músico;177;preto;yes;17.03.1966; istambul;5074
+600;Sônia Lopes Lopes  ;Jornalista;172;ruivo;False;08.05.1984;Tóquio;6427
+1010;Fernanda Pinto Barbosa;Médico  ;170 cm;LOIRO;nao;16/08/2001;Atenas;17680
+234;Gustavo Ferreira Nunes;GUIA TURÍSTICO;174;GRISALHO;falso;03/06/2004;Buenos Aires;R$29864
+1489;Beatriz Pereira Vieira;CONTADOR;175;grisalho;sim;09.12.1991;Praga;967
+603;Beatriz Barbosa Santos;Professor;170;grisalho;True;1952-01-17;Istambul;R$118658
+967; BRUNO DIAS GONÇALVES;Advogado;170;grisalho;Sim;20/04/1967;Nova York;R$10050
+1176;Rodrigo Rodrigues Ferreira  ;Designer;168;grisalho;no;02-08-1993;Bogotá;R$16535
+307;Bruno Teixeira Pereira;FOTOGRAFO;171;ruivo;no;28/04/1988;Madrid;R$ 2.542
+368;Bruno Fernandes Santos;Fotógrafo;149;loiro;NÃO;30/08/1958;BERLIM;R$ 37.637
+758;Rafael Pereira Costa;Professor;175;loiro;NÃO;13-04-1991;BOGOTÁ;R$ 7.724
+1984;Larissa Nunes Gomes;Piloto;179;grisalho;sim;21-04-2002;NOVA YORK;28.145
+1583;Aline Santos Nunes;Professor;1,79 m;castanho;NÃO;04-07-1997;Lisboa;13.733
+1074;Bruno Lima Montes;engenheiro;196;ruivo;False;15/06/1951;Cidade do México;48.619
+1745;Felipe Ferreira Dias;Advogado;179 cm; preto;True;02.08.1988;LISBOA  ;26503
+621;LARISSA MONTES ARAUJO  ;Advogado  ;156;loiro;falso;04/08/1992;NOVA YORK;4713
+888;Luíza Lima Martins;Fotografo;170; grisalho;0;01/11/1964;istambul;R$8631
+539; maria souza rocha;Chef de Cozinha;1,76 m; loiro;nao;09/02/1957;Bogotá;17.569
+238;FELIPE BARBOSA MARTINS;contador;1,98 m;preto;0;25.01.1978;Buenos Aires;R$14619
+1721;CAMILA VIEIRA ARAUJO; músico;172;ruivo;True;27.11.1991; TÓQUIO;20676
+940;FERNANDA RIBEIRO GOMES;FOTÓGRAFO;160;RUIVO;N;19-09-2002;CIDADE DO MÉXICO;18.167
+221; thiago dias gonçalves;JORNALISTA;1,66 m;PRETO;falso;17.03.2002;PRAGA;R$ 21.896
+601;Maria Monteiro Lima;MÚSICO;171;grisalho;1;1950-11-05;Atenas;6157
+1931;marcelo monteiro silva;Chef de Cozinha;174;ruivo;N;02/09/1997;lisboa;13070
+695;ANA BARBOSA RODRIGUES;DESIGNER;173 cm;ruivo;False;1978-11-28;MADRID;11362
+1106;Ana Ferreira Rodrigues;ADVOGADO;173;loiro;NÃO;1959-12-11;BUENOS AIRES;2.522
+711;Luíza Cardoso Gomes; Piloto;146; castanho;no;12-04-1998; Praga;R$ 54.463
+631;Beatriz Alves Moreira;Jornalista;1,79 m;grisalho;N;10-01-1954; Atenas;R$ 11.043
+977;Ana Santos Pereira;chef de cozinha;176;grisalho;NÃO;16.10.1988; Atenas;18349
+1766;Juliana Lopes Costa;Advogado;170 cm;ruivo;falso;24-05-1991;CIDADE DO MÉXICO;7357
+998;MÔNICA MONTEIRO BARBOSA;Guia Turistico  ;181;LOIRO;SIM;04.01.1988;Atenas;9580
+50;VANESSA NUNES RODRIGUES;Advogado  ;1,72 m;castanho;SIM;1999-11-21;ROMA;R$ 6.363
+232;Renata Martins Gonçalves;piloto;162; RUIVO;0;19.03.1989;Tóquio;70061
+430;Maria Araujo Santos;PROFESSOR  ;1,82 m;PRETO;NÃO;1966-08-03;Berlim;R$5997
+276;Luíza Cardoso Nunes;DESIGNER;1,82 m;ruivo;NÃO;1960-09-24;Cidade do México  ;17239
+1608;Larissa Cardoso Ferreira;PROFESSOR;180;grisalho;0;1957-01-01;Lisboa;R$ 13.961
+1650;Patricia  Pinto Lima;Professor;1,57 m;castanho;0;21-08-1979;praga;R$ 8.810
+1134;Beatriz Teixeira Gonçalves;Advogado;1,72 m;grisalho;nao;15.05.1978;Berlim  ;19806
+1685; JOSÉ VIEIRA MOREIRA;músico;1,61 m;PRETO;NÃO;1984-10-02;Istambul;R$ 9.217
+1515;VANESSA  CARVALHO GONCALVES;Médico;174;preto  ;NÃO;1978-11-26;Paris  ;R$ 9.612
+174;juliana martins silva; CONTADOR;174;preto  ;False;15-09-1970;Paris  ;103744
+1199;LARISSA  CARDOSO SANTOS;FOTOGRAFO;168;ruivo;yes;03-04-1973;Tóquio;R$120775
+1190;Felipe Vieira Gonçalves;GUIA TURÍSTICO;161; ruivo;sim;31.08.1971;PRAGA;11052
+1844;beatriz monteiro rodrigues;Engenheiro;163 cm;RUIVO;nao;04-09-1959;Toquio;R$28565
+1687;Fernanda Vieira Araujo;Professor;164;castanho  ;N;31.10.1973;viena;13094
+866;PATRICIA GONCALVES MONTEIRO;Fotógrafo;173;grisalho;SIM;30-12-1987;Lisboa;R$ 16.040
+248;Tatiane Oliveira Pereira;;1,60 m;LOIRO;NÃO;23-10-1959;paris;R$2500
+1508;Rodrigo  Araujo Teixeira;jornalista;1,76 m;grisalho;N;07.07.1992;PRAGA;R$53029
+1454;Bruno Lopes Carvalho  ;Piloto;1,63 m; loiro;False;26/12/1987;CIDADE  DO MEXICO;8975
+24;Camila Monteiro Costa;Designer;182;preto;S;01.02.1975;Cidade do Mexico;18083
+1569;Jose Mendes Santos;Professor;1,73 m;castanho;N;14-07-1956;Cairo;R$15021
+943;Gustavo Oliveira Rodrigues  ;contador;165;castanho;0;08.05.1980;Madrid;R$ 12.577
+64;Thiago Barbosa Fernandes;Fotografo;151;GRISALHO;N;16.02.1967;ATENAS;R$ 4.958
+306;juliana souza rodrigues;PILOTO;170;castanho;SIM;03/10/2002;Berlim;R$ 29.125
+189;BRUNO MOREIRA FERREIRA;Advogado;1,62 m;GRISALHO  ;1;20/10/1952;Tóquio;22.085
+1871; Maria Araújo Rodrigues;Musico;1,67 m;ruivo;no;13.07.1974;Atenas;7499
+1319;ALINE VIEIRA SILVA;GUIA TURISTICO;185;preto;0;2002-02-02;Roma;11366
+1901; José Barbosa Rodrigues;Advogado  ;171;loiro;verdadeiro;15/11/1952;CIDADE DO MEXICO;13019
+927;Marcelo Silva Teixeira;Engenheiro;176 cm;grisalho  ;0;06.03.1962;TÓQUIO;R$ 16.685
+942;Joao Nunes Rocha;ENGENHEIRO;1,80 m;RUIVO;1;1958-07-13;istambul  ;20.185
+810;joão lima alves;Engenheiro  ;183;castanho;falso;1968-02-25;praga;16.631
+282;MARIA DIAS DIAS;guia turístico;162;loiro;yes;1986-03-02; Cairo;20.800
+531;Gustavo Mendes Vieira;piloto;1,68 m;GRISALHO;0;02.04.1959;Berlim  ;R$ 21.063
+197; Lucas Nunes Fernandes;designer;182;GRISALHO  ;no;14.01.1957;Cidade do Mexico;R$60792
+652;Tatiane Pereira Rocha;ENGENHEIRO;142;preto;NÃO;03-02-1956;Tóquio;8.737
+352; Rodrigo Carvalho Santos;Medico;1,84 m;loiro  ;SIM;20.07.1973;Paris;R$4940
+1375; Sonia Oliveira Mendes;Chef de Cozinha;1,57 m;loiro;N;1975-04-19;Toquio;13115
+1979;Gustavo Alves Barbosa;designer  ;187;ruivo;nao;03.07.1955;Nova York;52875
+908;carlos carvalho cardoso;MUSICO;165;grisalho;falso;28-10-1978; BERLIM;4494
+887;Lucas Costa Lima;Jornalista;162 cm;LOIRO;falso;26-11-1966;Cairo;R$ 3.607
+1653; andré dias martins; CHEF DE COZINHA;176 cm;loiro;True;1963-01-25;lisboa;7930
+773;MARIA ARAÚJO DIAS;Piloto;1,64 m;CASTANHO;NÃO;10.08.2004;Viena;R$ 18.444
+950;Felipe Montes Ribeiro;designer;168 cm;ruivo  ;N;26-01-1992;Bogotá;R$ 3.083
+818;Joao Moreira Teixeira;Médico  ;161;grisalho;N;11-08-1952;lisboa;R$ 34.346
+745;Bruno Ribeiro Ribeiro;;170;preto;no;07.11.1965;paris;R$ 6.729
+813;Gustavo Santos Moreira; Fotógrafo;173 cm;loiro;nao;13/02/1974;Istambul;R$10002
+1339;Luíza  Cardoso Gonçalves; Jornalista;156;CASTANHO;NÃO;1952-12-30;tóquio;31655
+1852;Gustavo Teixeira Nunes; PROFESSOR;174 cm;castanho;NÃO;19-07-1981;CAIRO;R$5900
+322;LUÍZA MONTES SANTOS;DESIGNER;159;loiro;False;1986-02-16;NOVA YORK;12394
+1830;ANA LOPES FERNANDES;Designer;1,73 m;grisalho;N;1974-10-25;VIENA;19805
+651;Juliana Rocha Cardoso;contador;168;GRISALHO;no;09-12-1970;BERLIM;R$32232
+1238; Eduardo Fernandes Cardoso;JORNALISTA;171;ruivo;NÃO;21-10-1951;berlim;5.862
+26;Gustavo Costa Santos;Médico;170;LOIRO;no;11.09.1961;Roma;R$ 2.201
+1434;Rafael Santos Araújo;Designer;165;RUIVO;Não;24/05/1988;ISTAMBUL  ;R$1840
+79; gustavo alves dias;médico;170;loiro;yes;28/11/1969;ISTAMBUL;30141
+1711;Ana Mendes Pinto;Advogado;176;castanho;Sim;07.12.1960;Atenas;R$ 5.503
+33;vanessa teixeira costa;Musico;1,82 m;castanho;nao;19.01.1954;Lisboa;4575
+1302;Luíza Gonçalves Gomes;Fotógrafo  ;184 cm;preto;SIM;15-10-1963;Praga;R$ 32.849
+383; Thiago Santos Teixeira;Professor;177;loiro;no;1990-07-16;ROMA;R$ 8.157
+1559;Renata Lima Cardoso;Professor;185;ruivo;Sim;27.12.1978; Atenas;3651
+433;MONICA ARAUJO OLIVEIRA  ;Guia  Turístico;173;LOIRO;verdadeiro;14-06-1965;Istambul;23260
+164;Juliana Lima Vieira  ;Médico;168 cm;preto;True;1981-11-24; BERLIM;R$43239
+204;Eduardo Vieira Oliveira;MUSICO  ;177;loiro;SIM;10/01/1954;viena;22726
+1008;JULIANA NUNES MONTEIRO;Professor;159 cm;LOIRO;Não;12.02.2004;Bogota;8362
+1171;ana mendes lima;Fotógrafo  ;164;GRISALHO;False;13-09-1993;Berlim;7427
+369;Gustavo Moreira Santos;JORNALISTA;193; ruivo;N;03/07/1954;Bogotá;43213
+953;ana vieira cardoso;designer;154;loiro  ;1;15/09/1978;NOVA YORK;R$29404
+1445;LUÍZA NUNES MONTEIRO;JORNALISTA;163; castanho;nao;1959-12-15;Berlim;9.178
+1354; PATRICIA BARBOSA NUNES;Designer;171;ruivo;no;27-08-1976;Atenas;13151
+1767;fernanda dias rodrigues;MÉDICO;174;PRETO;Não;23.09.1967;MADRID;11496
+1111; rodrigo costa lima;Guia Turístico;172;grisalho;False;1971-10-03;NOVA YORK;R$ 14.487
+317;Sonia Barbosa Mendes;JORNALISTA;174 cm;castanho;Sim;26-10-1991;ROMA;20705
+1281;Renata Pinto Mendes;FOTOGRAFO;179;CASTANHO;yes;18-06-1982;PRAGA;15596
+1809;Aline Silva Fernandes  ;Guia Turístico;172;ruivo;NÃO;30.01.1963;Roma;9457
+219;PEDRO PEREIRA BARBOSA;chef de cozinha;168;grisalho;True;02/10/1955;Tóquio;69818
+1971;Lucas Ferreira Carvalho;Musico;164 cm;CASTANHO;False;24/07/1954;Cairo;7585
+1854;BRUNO LIMA COSTA; Médico;167 cm; grisalho;N;08/10/1951;BOGOTA;R$ 19.894
+1693;RODRIGO OLIVEIRA SILVA;Médico;170;PRETO;nao;07-06-1951; Lisboa;35387
+317;Sonia Barbosa Mendes;JORNALISTA;174 cm;castanho;Sim;26-10-1991;ROMA;20705
+1348;Andre Montes Nunes;ADVOGADO;1,70 m;GRISALHO;Não;03.03.1962;CAIRO;4597
+60;Aline Gomes Alves  ;Guia  Turistico;161 cm;grisalho;False;14.10.1999;CAIRO;R$ 8.785
+1056;Tatiane Montes Barbosa;Guia Turístico;166;PRETO;0;04.06.1986;Viena;18965
+434; juliana mendes monteiro;Advogado;1,63 m;castanho;no;13.07.1950;Madrid;R$ 6.320
+74;Thiago Araújo Martins;Jornalista  ;162;ruivo;Não;08.02.1966;NOVA YORK;R$ 7.659
+163;Marcelo Souza Cardoso; Engenheiro;168;ruivo;no;21-11-1964;ATENAS;9716
+1320;Lucas Moreira Lopes;FOTOGRAFO;168 cm;loiro;N;11-02-1978;tóquio;13582
+1160;JULIANA MENDES CARDOSO;médico;194;loiro;NÃO;27.10.1974;ISTAMBUL;R$25337
+1630;Sonia  Barbosa Mendes;DESIGNER;153;castanho;Sim;1982-04-17;Roma;2.999
+1068;RAFAEL MONTEIRO COSTA;Professor;170;ruivo;nao;09/04/1993;Nova York;R$ 7.208
+1626;thiago vieira araújo;Advogado;169;preto;Não;19/06/1952;Madrid;R$ 11.274
+1986;Felipe Barbosa Rocha;;1,57 m;preto;NÃO;1980-01-23;Praga;R$ 8.295
+46;Bruno Cardoso Moreira;Jornalista  ;177; grisalho;verdadeiro;1984-05-25;Berlim;23154
+995;Gustavo Vieira Ribeiro;FOTÓGRAFO;172;;False;19.03.1969; LISBOA;8303
+362;Aline Silva Silva  ; Chef de Cozinha;167;castanho  ;False;1959-06-28;LISBOA;24244
+1303;Aline Rodrigues Alves;Designer;171;preto;verdadeiro;1981-02-28;Istambul;R$22062
+568;Marcelo Rodrigues Nunes;Engenheiro;1,77 m;castanho;N;12/09/1990;Nova York  ;R$8856
+77; Thiago Vieira Lima;engenheiro;163;loiro  ;NÃO;1973-12-06;Madrid;4858
+1957;Tatiane Rocha Santos;Musico;164;grisalho;nao;22/12/1961;NOVA YORK;17.216
+1443;GUSTAVO NUNES COSTA; Guia Turístico;172;preto;NÃO;13-04-2003;Paris  ;R$15428
+1866;ANDRÉ BARBOSA BARBOSA;GUIA TURISTICO;179 cm;ruivo;verdadeiro;11.08.1986;Praga  ;46550
+1343;Camila Ribeiro Monteiro  ;músico;170 cm; loiro;N;09.03.2004;praga;2850
+1629;Renata Monteiro Carvalho;Contador;175;castanho;1;11-06-1993;Nova York;R$ 25.592
+1462;Mônica Dias Fernandes;Médico;1,74 m;LOIRO;False;1972-03-29;Berlim;8.147
+850;Felipe Ferreira Santos;ENGENHEIRO;1,78 m;ruivo;S;13.01.1988;Atenas;21408
+31;Juliana Ferreira Ribeiro  ;Engenheiro;159;preto;no;20-08-1979;Berlim;R$ 4.139
+1115;Lucas Monteiro Ribeiro;advogado;176;castanho;sim;29/03/1987;Nova York;5693
+1544;PEDRO OLIVEIRA RODRIGUES;Médico;152;grisalho;no;01/02/1987; Toquio;R$ 1.877
+1661;Andre Martins Lima;Designer  ;184;grisalho;no;19-01-1952;Paris;31934
+1311;Beatriz Montes Nunes;piloto;167;ruivo;yes;12.11.1971;Praga;2390
+833;Pedro Cardoso Martins;MUSICO;179;preto;0;29.11.2000;Madrid;R$ 9.917
+694;aline carvalho silva;piloto;179;grisalho;nao;16.09.1951;BOGOTÁ;17415
+533;Marcelo Mendes Silva;professor;175; loiro;falso;1976-02-22;Roma;R$ 11.006
+1582;André  Mendes Martins;PROFESSOR;183;preto;S;01.01.1994;atenas;99.344
+1851;RENATA GONÇALVES MARTINS; fotógrafo;160 cm; ruivo;Não;15.03.2000;Cidade do México;36984
+382;CARLOS PINTO OLIVEIRA;Advogado;157;;Não;24.08.1983;Lisboa;6309
+1605;Luíza Moreira Oliveira; Médico;1,79 m;castanho;no;21/05/1960;viena;R$21556
+45;Pedro Costa Barbosa;CONTADOR;173;PRETO;Não;08.01.1974;Roma;66639
+1731;Patricia Lima Dias;;1,72 m;GRISALHO;no;1960-05-12;paris;4963
+169;Mônica Mendes Lopes  ; PROFESSOR;162;castanho;False;30.10.1958;ROMA;R$92792
+304;andré  cardoso costa;Piloto;183;castanho;Sim;22.07.1990;MADRID;R$117715
+343;Thiago Pereira Gonçalves;Fotógrafo;177;grisalho;Não;15-10-1979;Cidade do Mexico;R$ 9.056
+439;João Montes Rocha;chef de cozinha  ;1,65 m; grisalho;NÃO;15/07/1955;Cairo;R$3534
+1965;Fernanda Rocha Pereira; Piloto;165;grisalho;False;25/12/1960;atenas  ;10.595
+765;Rodrigo Santos Monteiro;Advogado;168 cm;LOIRO;SIM;1964-01-12;BOGOTÁ;20.488
+1678;Rafael Fernandes Lima;Médico;161;LOIRO;sim;1980-09-25;PARIS;26985
+1179;VANESSA MONTEIRO MOREIRA  ;FOTOGRAFO;160 cm;loiro;falso;16/08/1961;TÓQUIO;34860
+1928;Aline Souza Costa  ;Engenheiro  ;1,59 m;ruivo  ;1;22-08-1992; madrid;R$ 33.721
+421;Juliana Santos Montes;Engenheiro;173;preto;Não;03.11.1995; Lisboa;R$14459
+708;LUIZA MOREIRA PINTO;músico;171;loiro  ;nao;15.12.1998;Viena  ;R$ 18.501
+1346;Andre Cardoso Lima;Guia Turistico;188;castanho;0;1956-08-28;Madrid;18.855
+789;Pedro Barbosa Souza;Chef de Cozinha  ;165;CASTANHO;yes;1995-12-27;praga;19650
+355;RODRIGO SILVA ROCHA;músico;172 cm;ruivo;SIM;06-11-2001;Cidade do México  ;R$6921
+354;Renata Oliveira Pereira;Professor;165;LOIRO;N;26.05.1972; ROMA;8014
+528;RODRIGO RIBEIRO MONTES;Medico;165;loiro;verdadeiro;27/04/1976; LISBOA;17171
+1342;Rafael Lopes Nunes;Contador;175;loiro  ;SIM;08.09.1991;Buenos Aires;R$ 18.888
+483;eduardo montes pereira;Jornalista  ;171;grisalho;nao;1996-03-18;Lisboa;128762
+186;rafael carvalho montes;Professor;155;LOIRO;yes;06.03.1991;Atenas;40.373
+1395;pedro fernandes gomes;Piloto;171;loiro;falso;29-07-1952;Buenos Aires;10451
+1455;Beatriz Pereira Alves  ;Professor;177;castanho;no;28/07/1972;Nova York;R$ 7.143
+1426;Lucas Silva Oliveira  ;Engenheiro;162 cm;grisalho;no;30.08.1955;ISTAMBUL;R$ 36.376
+1229;Fernanda Cardoso Ferreira;Médico;175 cm;grisalho;falso;08.09.1996;Lisboa;5.980
+301;Carlos Carvalho Souza; contador;167;PRETO;N;16/02/1968;Berlim;130445
+454;Thiago Mendes Alves; Advogado;174 cm;castanho;no;1989-04-10;BERLIM;R$ 6.463
+734;Camila Lopes Lopes;;182;grisalho  ;nao;09/04/1989;praga;18351
+1782;Patricia Alves Pereira  ;Medico;155;GRISALHO;1;01.12.1993;BERLIM;4840
+1789;Renata Rodrigues Lima;Fotógrafo;1,71 m;grisalho;N;09/01/1973;cidade do méxico  ;12211
+1911;SONIA RIBEIRO MARTINS;fotógrafo;174;loiro;NÃO;18.08.1992;Cairo;R$ 3.611
+1973;Tatiane Santos Lopes;Designer;171;loiro  ;no;24-04-1994;MADRID;6.546
+1393;RENATA CARDOSO GOMES;Fotógrafo;1,62 m;preto;no;27.11.1979;Bogota;R$ 31.998
+1233;Rafael Lima Martins; GUIA TURÍSTICO;172;castanho  ;falso;02/10/1998;PARIS;35538
+176;Thiago Lopes Santos; Professor;177;castanho;Sim;02/10/1990;CIDADE DO MÉXICO;47428
+964;JULIANA MENDES FERREIRA;Professor  ;180;RUIVO;S;23.12.1985;Nova York;R$48795
+1028;DIEGO COSTA LIMA;Contador;1,80 m;ruivo;nao;1975-07-14;Istambul;2121
+1642;Joao Vieira Araujo  ; JORNALISTA;183;loiro;NÃO;14-10-1993;Toquio;R$ 20.324
+124;Camila Ribeiro Alves;Professor  ;162 cm;loiro;nao;2003-06-30;Istambul  ;R$ 10.549
+384; SÔNIA VIEIRA PINTO; Guia Turístico;165;preto;NÃO;15.11.1983;Cidade  do México;R$17617
+1597;MONICA MARTINS MARTINS;Contador;183;preto  ;False;23.07.1980;Madrid;R$49490
+585;MARIA RODRIGUES BARBOSA;Jornalista;163;LOIRO  ;no;12/02/1996;Cidade do México  ;18217
+40;Bruno Pinto Oliveira;Piloto;166;ruivo;nao;05.03.1979;Istambul;36734
+487;André Rocha Montes;Guia Turistico;168 cm; preto;Não;1994-09-06; Viena;40.488
+515;LUÍZA TEIXEIRA LOPES;Jornalista;188 cm;;falso;1994-03-25;Cidade  do México;13411
+332;Eduardo Ribeiro Araújo;Contador;182;castanho;yes;01.05.1985; Istambul;13113
+428;Felipe Gomes Alves;professor  ;181 cm;castanho;NÃO;27/02/2001;Cidade do México  ;R$ 5.936
+195;José Costa Rocha;Jornalista;177;RUIVO;no;09.04.1959;Bogotá;R$13336
+545;Larissa Fernandes Souza;;1,69 m;loiro;True;02.04.1979;cairo;32854
+592;EDUARDO  GONÇALVES RODRIGUES;Designer;1,62 m;castanho;1;10-01-1956;Buenos Aires;30777
+1748;Gustavo Silva Gomes;Chef de Cozinha;179;ruivo;SIM;28-12-1980;Nova York;14982
+323;Aline Vieira Araújo;Chef de Cozinha  ;180 cm;loiro;sim;1974-08-31;Paris;5696
+1222;vanessa montes lima  ;PILOTO;172;ruivo  ;NÃO;1970-04-02;ISTAMBUL;6.737
+267;ALINE BARBOSA DIAS;Contador;166;castanho;NÃO;23-02-2003;CAIRO;R$15311
+1356; Luiza Rocha Souza;médico;1,76 m;LOIRO;nao;2002-09-26;Bogota;4968
+1481;JULIANA ARAÚJO NUNES;Designer;1,70 m;castanho;NÃO;10.09.1962;Berlim;R$ 13.744
+68;LARISSA MONTES VIEIRA; Fotógrafo;187;RUIVO;no;27-09-2001;Berlim;2987
+988;ana araújo souza;fotógrafo;160;castanho;True;11.11.1978;lisboa;R$ 38.852
+1839;LARISSA  GOMES GOMES;ENGENHEIRO;179; castanho;1;1950-08-26; Lisboa;R$ 6.145
+1991;Aline Montes Ribeiro;Advogado;177;GRISALHO;NÃO;04.11.1953;Roma;R$ 8.025
+1788;pedro lopes alves;Engenheiro;168;castanho;falso;28-05-1964;Istambul;3.362
+1613;TATIANE MONTEIRO MONTES;Piloto;147;grisalho;nao;24-05-1990;Cairo;3863
+671;rafael ferreira gonçalves;Engenheiro;157;loiro  ;Sim;05-02-1973;Nova  York;16912
+1754;Lucas Ribeiro Lima  ;JORNALISTA;173;castanho;N;09.01.1965;nova york;30135
+479;vanessa silva gonçalves;;169;CASTANHO;Não;26.11.1979; Madrid;R$64990
+1767;fernanda dias rodrigues;MÉDICO;174;PRETO;Não;23.09.1967;MADRID;11496
+1570;BEATRIZ CARDOSO NUNES;GUIA TURÍSTICO;1,76 m;ruivo;verdadeiro;25/11/1982;Roma;3156
+472;pedro fernandes rocha;designer;1,91 m;ruivo;NÃO;05/08/1983;Lisboa;10138
+1666;Larissa Moreira Monteiro;Piloto;169;ruivo;False;21/11/1966;BOGOTÁ  ;8220
+721;Tatiane Martins Moreira;Professor  ;1,69 m;GRISALHO;sim;31.08.1987;LISBOA;R$ 35.550
+1299;André Moreira Barbosa;Advogado;169; castanho;nao;06.07.1996;roma;10661
+1306; RODRIGO LOPES GOMES;CONTADOR;1,64 m;grisalho;Não;16.08.1953;Paris;16160
+1849; RAFAEL FERREIRA SILVA; CONTADOR;170;castanho;True;1962-08-01;BERLIM;53.733
+1703;larissa ferreira gonçalves;Fotógrafo;188;PRETO;0;16/07/1956;cairo;R$ 40.739
+1562;Sonia Araujo Monteiro;Contador;174;grisalho;NÃO;03.03.1981;Paris;28896
+1611;Pedro Mendes Vieira  ;MÚSICO  ;164;grisalho;N;24.08.1979;Roma;10060
+1692;Larissa Cardoso Martins; PILOTO;160 cm;RUIVO  ;falso;2000-03-26;Buenos Aires;27.931
+480;Pedro Montes Dias  ;MÉDICO;163;RUIVO;yes;16.02.1986;viena;17355
+863;Joao Dias Barbosa;JORNALISTA;167 cm;PRETO;falso;17-11-1995;BOGOTÁ  ;R$ 9.508
+1245;sônia santos nunes;Advogado;175;castanho;no;10/06/1986;lisboa;19.322
+1532;Patrícia Souza Teixeira  ;fotógrafo;167 cm;castanho;sim;12.12.1992;Cairo;R$21076
+1263;João Mendes Lopes;Musico;159;GRISALHO;no;25/08/1985;Berlim  ;5351
+1848;Carlos  Mendes Vieira;Engenheiro;170; castanho;NÃO;19/06/1965;Paris;12521
+262;Fernanda Cardoso Pereira;MÉDICO;154 cm;castanho;NÃO;24/01/1991;TÓQUIO;4996
+1118; Renata Nunes Monteiro; Jornalista;180;PRETO;0;05.06.1967;Atenas;R$ 18.268
+1005;tatiane mendes oliveira;Guia Turistico;182;LOIRO;S;20-03-1965;VIENA;R$ 11.041
+241;Juliana Rocha Ferreira;Advogado;1,70 m;grisalho;True;22-09-1981;Viena;10.641
+1059;THIAGO MOREIRA ALVES;Fotógrafo;178;loiro;no;06/05/1955;Paris;3.270
+810;joão lima alves;Engenheiro  ;183;castanho;falso;1968-02-25;praga;16.631
+1575;Carlos Dias Ribeiro;Médico;178;preto;False;1966-02-28;Praga;24.429
+1620;ANDRÉ CARDOSO PINTO;FOTÓGRAFO;169;castanho;Não;30.05.1962;Roma;11292
+1318;josé ribeiro pereira;piloto;156;loiro;1;28-10-2002;buenos aires;26051
+571; Eduardo Araujo Nunes;chef de cozinha;168 cm; ruivo;True;03.07.1955;Berlim;R$8810
+366;ANDRÉ PINTO LIMA;fotógrafo;176 cm;grisalho;yes;1976-12-17;Viena;25.121
+572; LUÍZA LOPES NUNES;chef de cozinha;175 cm;RUIVO;N;31/03/1984;Roma;27379
+1266;THIAGO CARVALHO SILVA;Fotografo;1,68 m;;0;1969-10-27;Bogota;7.391
+1261;Bruno Rodrigues Dias;Médico;1,60 m;preto;False;07/07/1965;bogotá;16.923
+1961;Jose Souza Ferreira;ENGENHEIRO;164 cm;grisalho  ;Não;10.04.1966;Bogota;10054
+951;Lucas Dias Lopes;PILOTO;1,81 m;castanho;N;11-06-1955;TÓQUIO;18481
+1224;FELIPE SOUZA BARBOSA  ;Musico;160;PRETO;False;17.07.1995;Buenos Aires  ;R$12025
+72;Thiago Carvalho Teixeira;CONTADOR;183;GRISALHO  ;NÃO;21-02-1968;Berlim  ;48.000
+922;carlos ferreira monteiro  ;PILOTO;1,82 m;ruivo  ;0;1958-07-20; Toquio;16781
+260; patrícia nunes moreira;Músico;1,67 m;castanho;1;23/03/1984; Viena;R$14292
+52;Maria Nunes Ferreira;Músico  ;165;LOIRO;verdadeiro;20-04-1988;BUENOS AIRES;12.798
+199;Ana Pereira Gomes;guia turístico;171;preto;Não;1958-04-02;PRAGA;18.577
+1646;Larissa Lima Teixeira;Designer  ;187 cm;loiro;yes;26-07-1981;Cidade do México;18466
+1191;EDUARDO MONTES OLIVEIRA;GUIA TURÍSTICO  ;160 cm;ruivo;sim;01.04.1987;Cidade do México;R$ 5.802
+333; Jose Goncalves Montes;CONTADOR;171; castanho;verdadeiro;27-12-1953; Cairo;61352
+1387;Larissa Dias Pereira;Guia Turístico;1,75 m;loiro;True;09.07.1965;Istambul;R$ 2.346
+615;Pedro Cardoso Martins;Advogado;175;preto;N;26/03/1954;Buenos Aires;R$ 22.515
+1764;André Moreira Fernandes;Professor;1,65 m; grisalho;1;12.09.1974;CAIRO;R$ 5.431
+999;vanessa pinto monteiro;advogado;173;ruivo;False;1979-08-28;Viena  ;12352
+1183; Luíza Vieira Nunes;Advogado;1,55 m;castanho;NÃO;28/05/1989;MADRID;R$ 3.607
+1340;gustavo montes santos;Jornalista;167;preto;falso;1989-07-21;Tóquio;12.054
+933;Luíza Mendes Souza;Contador;183 cm;preto;Sim;1966-05-09;Berlim;50538
+1668;ANA COSTA CARVALHO;Professor;1,63 m;loiro;False;06-12-1979;Praga;R$ 21.771
+949; pedro fernandes oliveira;Advogado;157;preto;True;27-01-1991;Buenos Aires;62.023
+427;Beatriz Teixeira Silva;Guia  Turístico;182 cm;CASTANHO  ;falso;12.01.1992;Buenos Aires;39.536
+1680;MÔNICA FERNANDES CARDOSO;Chef de Cozinha;157;grisalho;False;14-06-1954;Lisboa;6690
+680;Eduardo Nunes Pinto;Fotógrafo;160 cm;RUIVO;N;1990-02-10;Cairo;5.348
+612;Beatriz Mendes Rodrigues;Designer;168; grisalho;Não;27-09-1983;Paris;4992
+1019;Juliana Costa Costa;Designer;156; castanho;falso;08-02-1965;Cidade do México;9741
+1231;Renata Ribeiro Montes;advogado  ;167;grisalho;SIM;18.03.1996;VIENA;R$ 8.617
+746;João Carvalho Souza;Professor;177;GRISALHO  ;1;1976-11-28;Paris;14121
+556;Carlos Cardoso Martins;contador;182 cm;ruivo;0;22.09.1963;Bogotá;14282
+1610; Fernanda Gomes Moreira;médico;166;PRETO;N;04-07-1963;BOGOTA;1647
+399;Beatriz Montes Oliveira;contador;170 cm;castanho;falso;18.11.1980;Cidade  do México;R$ 11.707
+591;felipe pinto oliveira;músico;183;preto;falso;1976-03-23;Nova York;13702
+463;PATRICIA SOUZA SOUZA;Engenheiro;172 cm;grisalho;False;01/06/1961;Roma;R$20778
+437;Diego Oliveira Nunes;DESIGNER;167 cm;preto;falso;23-05-1953;Lisboa;R$ 2.704
+193;Tatiane Ribeiro Pinto; Fotografo;165; grisalho;yes;27/01/1986;istambul;R$ 12.591
+1464;Thiago Nunes Oliveira  ;Musico;164;loiro;True;30-12-1951;Lisboa;R$ 10.386
+638;tatiane barbosa alves;Contador;174 cm;ruivo;falso;15-09-1951;BERLIM;R$ 10.133
+293;Monica Lopes Souza;Chef de Cozinha;175;loiro  ;True;2001-10-27;CAIRO;25.671
+757;Marcelo Rodrigues Vieira;CHEF DE COZINHA;169;CASTANHO;0;1996-01-17;Buenos Aires;R$3510
+1456;JOSE GOMES ALVES;CONTADOR;183;loiro;SIM;09.08.1991;Paris;R$45736
+890;sônia dias moreira  ;Piloto;186;;yes;28/08/1987;Viena;R$18802
+1135;THIAGO  TEIXEIRA MARTINS;Jornalista;1,67 m;castanho;falso;11.02.1951;praga;13.446
+1418;Beatriz  Alves Santos;Engenheiro;169;castanho  ;N;22.12.1994;PRAGA;R$ 3.756
+142;Marcelo  Costa Cardoso;Chef de Cozinha;163 cm;RUIVO  ;falso;13/04/1970;ROMA;R$ 3.963
+747;thiago nunes lopes;MUSICO;176;ruivo;1;08-05-1965;Roma;12786
+3;Juliana Dias Carvalho;CHEF DE COZINHA;174;ruivo;NÃO;23.05.2003;Atenas;R$3469
+986;André Santos Souza;fotógrafo;1,52 m;castanho;no;22.10.1951;CIDADE DO MÉXICO  ;R$9323
+577;Carlos Araújo Rocha;ADVOGADO;147 cm;ruivo;False;17-06-1986;Roma;15416
+1910;FELIPE NUNES ROCHA  ;Chef de Cozinha;173 cm;preto  ;falso;1985-01-29;cidade do méxico;17.218
+1694;Patrícia Moreira Monteiro;Designer;163;preto;no;03/11/1970;Nova York;28983
+340;LUÍZA FERREIRA TEIXEIRA; PILOTO;165; castanho;no;13-10-1997;Toquio;R$17869
+1321;Rodrigo Monteiro Barbosa;Chef de Cozinha;170;loiro;nao;11/08/1988;istambul;R$ 24.994
+409;Camila Martins Ferreira;Contador;1,81 m;loiro;NÃO;15.07.1980;Nova York;R$ 22.650
+837;Thiago  Nunes Santos;fotógrafo;175; castanho;N;02.01.1975;VIENA;25175
+266;tatiane lima lima;Médico;151;castanho;0;10-10-1959;Bogotá;3525
+377;Vanessa Oliveira Ribeiro;MEDICO;176;preto;falso;1967-04-15;Bogotá;41.047
+713; RAFAEL MONTES SILVA;Contador;1,83 m;CASTANHO  ;0;1999-06-09;BOGOTA;7563
+495;Maria Martins Barbosa;professor;1,56 m;preto;SIM;1987-12-07; Viena;31911
+440;José  Lima Cardoso;Jornalista;174 cm;CASTANHO  ;falso;13-07-1954;ATENAS;R$ 5.611
+272;JOSÉ LIMA RIBEIRO;CONTADOR;177;RUIVO  ;N;22/08/1998; praga;R$ 10.757
+185;ANA FERNANDES FERNANDES; Advogado;174;castanho;0;11.12.1963;Cairo;R$ 35.953
+974;Aline Lopes Dias;Engenheiro;1,82 m;castanho;1;28.12.1993;Tóquio;R$ 4.088
+245;SONIA TEIXEIRA MENDES;contador;169; PRETO;nao;24.03.1963;ATENAS;R$ 37.113
+809;Eduardo Gonçalves Monteiro;Piloto;161;CASTANHO  ;Sim;26/02/1983; Nova York;46.378
+1044;pedro martins martins;Contador;160 cm;GRISALHO;verdadeiro;29-06-1958;MADRID;5.645
+536;THIAGO RODRIGUES SILVA;engenheiro;1,47 m;grisalho;0;31.01.1957;Atenas;R$ 8.688
+446;Aline Santos Silva;Professor;173;loiro;falso;1976-05-27;praga;R$ 13.821
+618;Tatiane Santos Gomes;designer;183;preto;falso;1966-06-23;MADRID;R$ 18.454
+1133; José Araújo Ribeiro;Jornalista;174;loiro;N;25.09.1970;TOQUIO;24.340
+1129;GUSTAVO OLIVEIRA DIAS;MÚSICO;1,56 m;grisalho  ;0;1990-04-17;Istambul;23579
+527;Rafael Goncalves Silva;Guia Turistico;1,61 m;loiro;nao;1955-03-16;BUENOS AIRES;R$ 16.284
+945;eduardo montes lima;Fotógrafo;176 cm; PRETO;Sim;1979-09-09;ATENAS;33206
+611;Thiago Martins Gonçalves;MEDICO  ;1,71 m;PRETO;falso;12-03-1977;Cairo;R$7785
+705;RODRIGO GOMES MONTES;advogado;1,64 m;;nao;1959-08-29;Nova York;R$ 8.507
+416;Ana  Ferreira Moreira;Músico;171;grisalho;nao;1968-09-01; lisboa;R$17643
+274; camila gomes cardoso;PROFESSOR;193;preto;0;21.07.1958;CIDADE DO MEXICO;8226
+756;BEATRIZ COSTA MONTEIRO;JORNALISTA;187;PRETO;1;1970-12-24;istambul;R$ 33.685
+1517; PEDRO CARDOSO MONTEIRO;FOTÓGRAFO;175 cm;grisalho;falso;1987-02-24;Istambul;4.043
+1484;ANA FERREIRA COSTA;fotógrafo;176;CASTANHO;verdadeiro;22-11-1970;Nova York;R$12865
+251; Tatiane Rodrigues Oliveira;DESIGNER;202;ruivo;False;26/06/1992;Berlim;9484
+414;Sonia Rocha Monteiro  ;Guia Turistico;172 cm;preto;Sim;29.12.1951;Paris  ;15693
+1334;Diego Santos Vieira;ENGENHEIRO;168;ruivo;S;31-03-1966;praga;17897
+311;Diego Araujo Pinto;contador;185;LOIRO;True;29/03/1957;Tóquio;22.710
+1832;Eduardo Silva Costa;Chef de Cozinha;1,84 m;loiro;N;2004-08-07;cairo;12507
+580;Camila Fernandes Teixeira;Chef de Cozinha  ;181;castanho;Sim;19.02.1986;Berlim;R$12654
+426;MARIA CARDOSO PINTO;Jornalista  ;166;loiro;False;21/11/1995;Bogota;2.940
+1915;MÔNICA SOUZA ROCHA  ; Designer;171;loiro;N;1976-01-06;lisboa;R$ 10.697
+1625;ana martins silva;Professor;1,65 m; PRETO;Não;03-12-1996;Nova York;R$ 14.758
+778;MARCELO OLIVEIRA FERNANDES;Fotógrafo;183;castanho;yes;1977-12-10;ISTAMBUL;7.141
+1802;RODRIGO SILVA LOPES;engenheiro;162 cm;loiro;SIM;29-10-1966;Lisboa;7.168
+1101;Sônia Santos Araújo;Médico  ;181;LOIRO;falso;25/02/1969;Cidade do México;6033
+1051;LUIZA SILVA SANTOS;ADVOGADO;177 cm; loiro;Sim;09/12/1963;Istambul;R$ 13.839
+1543;Fernanda Gonçalves Silva  ;Jornalista;169;grisalho  ;no;22/10/1998;Praga;R$ 10.839
+584;Bruno Lopes Lopes;DESIGNER  ;1,57 m;ruivo;False;05-05-1986;Praga;R$ 1.095
+1084;Vanessa Costa Costa;Jornalista;165;ruivo;N;01.06.1985;Nova York;4.619
+183;Fernanda Pereira Rodrigues;ADVOGADO;1,79 m;preto;0;08-04-1991;ATENAS;10564
+171;ANDRE PINTO SANTOS;Músico;151;ruivo;Sim;23.03.1955;VIENA;R$ 2.637
+583;felipe teixeira santos  ;Fotógrafo  ;169 cm;preto;True;1966-06-07;Nova York;R$22507
+1394;Rodrigo Monteiro Monteiro;Professor;175;castanho;N;16/03/1963; viena;49446
+1917;ANA ROCHA FERNANDES;Chef  de Cozinha;158;CASTANHO;False;28/05/1964; Madrid;86161
+1684;Juliana Pinto Vieira; Professor;1,84 m;ruivo;False;1977-06-23;buenos aires  ;15224
+882;sônia carvalho silva;Medico  ;169 cm;ruivo;yes;03/10/1954;VIENA;8.686
+807; maria teixeira alves;MÚSICO;196;LOIRO;N;08/01/1968; Viena;R$ 2.980
+273;Rafael  Ferreira Santos;médico;149 cm;RUIVO;N;23/01/1972;madrid;132507
+1581;camila fernandes moreira;Piloto;1,76 m;LOIRO;N;25/06/1953;Berlim;21202
+716;Rafael Martins Rocha;CONTADOR;187;grisalho;False;12.11.1971;istambul;1333
+1519;THIAGO MONTES FERREIRA  ;ADVOGADO;184 cm; castanho;True;21/01/1957;Roma;79015
+372;Tatiane Monteiro Vieira; Piloto;158;ruivo;0;19/07/1995;Cairo;17438
+223;Bruno Gonçalves Dias;Advogado;178;castanho;Sim;10.04.2001; Paris;1.767
+746;João Carvalho Souza;Professor;177;GRISALHO  ;1;1976-11-28;Paris;14121
+582;Fernanda Santos Souza;Chef de Cozinha  ;158;loiro;True;12.09.1978;Bogota;R$ 6.388
+1104;TATIANE MONTES OLIVEIRA;Designer;178;preto;SIM;16/01/1972; Praga;45.793
+519;MÔNICA OLIVEIRA SOUZA;Engenheiro  ;172;loiro;S;1952-06-19;ROMA;95.537
+335;Lucas Vieira Barbosa; Engenheiro;1,79 m;;yes;31-10-1981;Bogota  ;18175
+1925;André Pereira Pinto;Jornalista;158;castanho;yes;1959-09-05;ROMA;R$ 7.515
+1335;Diego Rodrigues Moreira  ;Contador;176 cm;ruivo;False;05.04.1972; atenas;R$ 11.021
+1158; Fernanda Montes Pinto;DESIGNER;169 cm;LOIRO;NÃO;1967-08-06;Buenos Aires;2.789
+1955;Pedro Monteiro Fernandes;designer;1,72 m;ruivo;Não;16.07.1986;Lisboa;R$2682
+16;Juliana  Ferreira Cardoso;Professor;162 cm;grisalho;1;14.02.1984;Roma;56.611
+702;Marcelo Rocha Barbosa;Professor;174;ruivo  ;falso;23.10.1957;Buenos Aires;R$ 20.572
+1860;FELIPE LOPES SOUZA;contador;1,64 m;preto;nao;31/12/1970;NOVA YORK;R$ 7.885
+1872;Camila Barbosa Barbosa;Medico  ;1,85 m;preto  ;0;1951-08-29;Berlim;85.328
+1720;Andre Martins Silva;Contador;169;castanho;SIM;12/07/1997;BERLIM;R$40635
+1681;VANESSA LIMA COSTA  ;Fotografo;163; PRETO;falso;1982-08-28; Roma;2008
+937;Tatiane Carvalho Alves;Musico;178 cm;preto;no;1951-04-03;bogotá;183960
+466;josé mendes silva;músico;169;castanho;False;1950-07-07;cidade do méxico;11756
+1823;FELIPE GONÇALVES MONTES;;1,83 m;RUIVO;N;20-09-1977;Lisboa;R$ 57.795
+200;sônia ribeiro souza;Fotógrafo;1,77 m;grisalho;False;02.11.1989;Viena;48184
+1232;Juliana Cardoso Lima;ADVOGADO;158;loiro;Não;21-12-1989;PARIS;R$ 14.408
+1079;Aline Pereira Alves;Guia Turistico;1,69 m;grisalho;0;08/12/1983;Madrid  ;25437
+1351; Tatiane Oliveira Carvalho;Designer;187;grisalho;nao;27/10/1955;Istambul;10.315
+1327;Luiza  Monteiro Oliveira;Fotografo;170; castanho;NÃO;10.10.1998;viena;9817
+1667;Diego Vieira Monteiro;JORNALISTA;167 cm;castanho  ;S;1952-12-27;Lisboa;61010
+1353;JOSÉ PINTO LOPES;Advogado;1,76 m;loiro;S;14-01-1956; Roma;40751
+1429;Diego Nunes Montes;Médico;164;LOIRO;False;1973-09-06; Cidade do Mexico;4358
+1442;RAFAEL MENDES MOREIRA;Jornalista;171;preto;True;20.12.2001; istambul;57415
+1360; ANA MONTES MOREIRA;Guia Turistico;169 cm;loiro;False;1976-10-25;Cidade do Mexico  ;R$ 4.067
+693;Fernanda Silva Lima;Chef de Cozinha;168; preto;yes;29/12/1988;Atenas;R$ 8.045
+589;JOÃO RODRIGUES MONTES;Contador;1,71 m;PRETO;N;22.10.1956; Nova York;2382
+44;GUSTAVO LIMA OLIVEIRA;Chef de Cozinha;161;GRISALHO;sim;20-05-1985;viena;R$ 10.014
+275;Monica Araujo Ribeiro;Medico;181 cm;preto;S;23.05.1990;paris;68.774
+1122; Diego Lopes Pinto;CONTADOR;176 cm; castanho;Não;1962-03-14;nova  york;R$ 11.528
+102;Diego Pereira Araujo;Professor;1,62 m;CASTANHO;False;1977-09-29;PRAGA;53.069
+1006;Camila Teixeira Souza;;1,61 m; grisalho;0;1991-08-23;paris;11.751
+1310;LUIZA MOREIRA BARBOSA;Fotógrafo;164 cm;RUIVO;falso;21.05.1953; Roma;172951
+1211; aline cardoso mendes;Jornalista  ;161;loiro;SIM;27-01-1977;paris;12032
+108; Felipe Ribeiro Costa;FOTÓGRAFO;1,65 m;castanho;sim;04/09/2003;Cidade do Mexico;R$ 9.679
+1805;ANDRE DIAS LIMA; Contador;1,60 m;PRETO;N;23.01.1984;Lisboa;R$27674
+498;Luiza Dias Monteiro  ;Contador;160;castanho;falso;06/06/1952;Cairo;15.936
+1801;Juliana Lopes Martins;GUIA TURÍSTICO;1,82 m;ruivo;verdadeiro;10.08.1979;ISTAMBUL;6125
+915;Tatiane Lima Barbosa;Piloto;169;CASTANHO;1;08-07-2004;cidade do méxico;3296
+782;MONICA TEIXEIRA GOMES;chef de cozinha;161;loiro;False;19-02-1970;MADRID;R$ 33.441
+728;DIEGO  SOUZA RIBEIRO;MÚSICO;176 cm;grisalho;True;1975-07-21;Lisboa;R$36291
+1132;Patrícia Vieira Silva;Professor;175;LOIRO;0;19.09.1971;tóquio;10798
+1324; FERNANDA DIAS SILVA; Fotógrafo;172;castanho;NÃO;09.12.1973; Berlim;R$ 20.389
+1778;Pedro Fernandes Cardoso;FOTOGRAFO;170; PRETO;False;25.05.1987;Berlim;R$ 7.909
+839;Juliana Rodrigues Oliveira;FOTOGRAFO;162;ruivo  ;no;11.07.1958;Cidade do México;R$3667
+73;patrícia lima ferreira;contador;182;ruivo  ;no;1970-07-24;viena;10723
+820;RENATA GOMES TEIXEIRA; Advogado;171;preto;0;1967-06-11;Cairo;R$ 25.462
+1240;Carlos Costa Dias;guia turístico;171;ruivo;S;26/10/1972;Cidade do Mexico;2700
+1193;MÔNICA OLIVEIRA FERNANDES;Professor;175;grisalho;yes;12-11-2002;Viena;33427
+655;Marcelo Carvalho Souza;PILOTO;170;castanho;falso;08/12/1978;Praga;152296
+482;Juliana Montes Lopes;Professor;178; GRISALHO;Sim;24/11/1959; bogotá;3.750
+1092; felipe rodrigues gomes;DESIGNER;168 cm;LOIRO;no;1987-03-05;LISBOA;R$ 16.541
+507;ALINE VIEIRA TEIXEIRA;Professor;1,71 m;castanho;falso;1961-01-27;viena  ;R$ 1.656
+1602;Felipe Mendes Oliveira  ;contador;1,65 m;loiro;NÃO;2000-09-21;Atenas;32157
+1514;maria costa oliveira;Fotógrafo;162;grisalho;verdadeiro;31.05.1997;buenos aires  ;R$ 11.272
+30;Ana Silva Gonçalves;Contador;164 cm;ruivo  ;yes;27/05/1980;Roma;R$ 11.516
+766;SÔNIA OLIVEIRA GOMES;Jornalista;167;grisalho;0;26/08/1997;Viena  ;4477
+1587;Camila Goncalves Monteiro;ENGENHEIRO;175;castanho;nao;24.07.1965;Atenas;R$23071
+1011;GUSTAVO RODRIGUES FERREIRA;FOTOGRAFO;169;GRISALHO;falso;16-03-2000;Nova York;1893
+312;RAFAEL LOPES CARVALHO  ;Guia Turístico  ;185;castanho;verdadeiro;21-04-1999;Madrid;5221
+858;ANDRÉ OLIVEIRA RIBEIRO;Designer;175;GRISALHO;no;23/01/1991;viena  ;R$ 10.135
+406; Rafael Monteiro Carvalho;Advogado;143 cm;preto;yes;07-02-1966;Nova York;R$ 72.952
+753;Lucas Araujo Lima;Designer  ;167;CASTANHO;N;17.06.1983;BUENOS AIRES;30.264
+1207;LUCAS COSTA ROCHA  ;contador;1,65 m;RUIVO;no;11-07-1973;TÓQUIO;9.304
+310;Renata Lopes Montes; Chef de Cozinha;158;castanho;True;1987-02-21;Nova York;R$ 22.716
+227;Diego Martins Ribeiro;Designer;173;castanho;0;1974-06-22; Istambul;R$ 12.764
+1733;LARISSA FERNANDES FERNANDES;Músico;170 cm;preto;Sim;28/02/2000;bogotá;17440
+1815;JULIANA GONÇALVES MONTEIRO;;149; ruivo;Não;05/02/1984;Tóquio;R$ 10.255
+1560;Tatiane Fernandes Vieira;contador;175;ruivo;no;26-11-1951;ROMA;R$ 41.580
+856;Aline Gonçalves Ferreira;Engenheiro;170;loiro  ;falso;08.03.1996;Cidade do México;R$ 13.739
+1048;Beatriz Oliveira Fernandes; Engenheiro;173; castanho;Não;15-03-1992; Viena;R$ 16.265
+149;SÔNIA MARTINS ROCHA;Designer  ;170;preto;N;10-04-1951;Atenas;R$ 18.563
+1798;Vanessa Gonçalves Costa;Médico;168;GRISALHO;nao;1951-02-28;ROMA;26191
+1081;andré pereira moreira;ADVOGADO;164;grisalho;falso;1984-07-27;Istambul;25990
+862;Bruno Martins Ribeiro;Designer  ;171;ruivo;0;01.11.1985;VIENA;14818
+846;sônia nunes pereira; Contador;169;GRISALHO;sim;06-06-1955;Berlim  ;R$6406
+1390;Camila Barbosa Pereira;guia turístico;170;PRETO;nao;17-04-1976;NOVA  YORK;R$ 5.092
+576;Eduardo  Gomes Nunes;;181; RUIVO;falso;05-08-1961;Viena;R$9563
+558;ALINE MOREIRA VIEIRA;Jornalista;173 cm;grisalho;verdadeiro;1973-03-28;Toquio;19.718
+722;Fernanda Gomes Cardoso;Medico;1,66 m;ruivo;NÃO;19.12.1998;Madrid;R$27074
+1913;MARIA VIEIRA VIEIRA;MÉDICO  ;176 cm;grisalho;S;21.05.1983;Berlim;R$29191
+1988;Larissa Alves Souza;ENGENHEIRO;1,78 m;RUIVO;0;31.03.1986;PRAGA;R$ 8.691
+1732;LUÍZA ARAÚJO SANTOS;MÉDICO;164 cm;ruivo;N;02.03.1980;Atenas;R$ 27.464
+1980;Thiago Dias Cardoso;músico;163;RUIVO;NÃO;24/12/1979;Paris;5.636
+994;Felipe  Silva Fernandes;designer;176; castanho;False;17.11.1969;viena;12598
+287;Rodrigo Pereira Teixeira;professor;171;grisalho;NÃO;29.08.1972;CAIRO;R$ 2.447
+1636;SONIA TEIXEIRA BARBOSA;CONTADOR;176;grisalho;NÃO;12.08.1985;bogotá;R$7284
+1722;ANDRE LIMA RIBEIRO; Fotografo;171;PRETO;Não;19.12.1954;Cairo;R$ 3.687
+629;rodrigo rocha oliveira;Piloto;161;preto;falso;08/04/1970;Roma  ;3943
+599;Renata Barbosa Alves;Chef de Cozinha;1,75 m;ruivo;N;1955-10-29;atenas;R$40854
+966;Beatriz Ribeiro Carvalho;Médico;164;preto  ;falso;1951-07-04;BERLIM;8.435
+1594;Rodrigo Ribeiro Ribeiro;MEDICO;170 cm;preto;falso;1978-05-22;Istambul;114173
+1669;Ana Lopes Cardoso;Guia Turistico  ;170;grisalho;NÃO;22-08-1979;BOGOTA;8086
+1619;Andre Oliveira Cardoso;piloto;172;preto;Não;24/08/1959;Atenas;4759
+1076;felipe lima lopes;advogado;1,79 m;ruivo;S;20-05-1955;Paris;R$ 20.752
+1256; Rodrigo Teixeira Martins;Guia Turistico;177 cm;grisalho;0;13/05/1973;Berlim;13.902
+835;Patrícia Teixeira Monteiro  ; designer;173;grisalho;S;24/06/1964;Istambul;R$ 5.599
+938;sônia dias montes; Jornalista;186 cm;grisalho;1;08-11-1951;Madrid;R$ 17.042
+783;Vanessa Ferreira Mendes;JORNALISTA;172;preto;False;07/08/1976; Bogotá;R$72604
+1230;Rafael Silva Fernandes;Chef de Cozinha;173;RUIVO;False;14-03-1996;Madrid;10635
+1853;JOÃO VIEIRA FERREIRA;Engenheiro;157;loiro;sim;13-07-1953;Cidade do México;12850
+610;André  Lima Fernandes;JORNALISTA  ;1,49 m;grisalho;verdadeiro;1985-07-18;Roma;13823
+1432;Thiago Vieira Barbosa;Musico;168; GRISALHO;0;03-01-1979;bogotá  ;R$ 18.169
+825;Felipe  Monteiro Lima;Fotógrafo;1,60 m;LOIRO;SIM;1977-03-03;ISTAMBUL;R$5633
+1451;RODRIGO NUNES PINTO;Advogado;168;loiro;sim;06-10-1988;Bogotá;8.456
+1037; André Oliveira Gonçalves;Engenheiro;177 cm; grisalho;no;1980-11-18;Viena;R$ 29.297
+494;LUÍZA GONÇALVES PINTO;CONTADOR;169; preto;0;14/02/2003; lisboa;621
+1588;Bruno Cardoso Rodrigues;fotógrafo  ;162;ruivo;True;1957-04-12;Cairo;R$ 5.581
+278;rodrigo monteiro rodrigues;;184;loiro;0;1972-09-04;cidade do méxico;7874
+1886;Felipe Martins Ribeiro;Médico;1,76 m; castanho;False;22/09/2000;Praga  ;17363
+359;CARLOS GONÇALVES RIBEIRO;Advogado;171;;nao;1974-09-14;Cairo;10.800
+1673;patrícia montes martins;Músico;171;grisalho;falso;2004-03-26;Buenos Aires;12231
+237;Andre Barbosa Cardoso;Professor;171;CASTANHO;0;24/12/1981;Buenos Aires;R$19402
+552;GUSTAVO LIMA VIEIRA;CHEF DE COZINHA  ;162; LOIRO;Não;09.09.1975;Madrid;R$ 13.809
+1907; Pedro Lima Souza;Guia Turístico;158;grisalho;True;14.08.2000;Roma  ;10511
+931;luíza pereira rocha;MEDICO;177;PRETO;Sim;07/01/1964;MADRID;R$ 18.272
+209;mônica araújo silva  ; Contador;159 cm;preto  ;no;17/09/1964;Viena;16.244
+1415;José Pinto Vieira;Engenheiro;169 cm;loiro;falso;10/10/1999;Paris;R$ 4.049
+1592;vanessa pinto fernandes  ;DESIGNER;159 cm;grisalho;verdadeiro;08/09/1986;Berlim;R$ 8.512
+59;tatiane santos moreira  ;Fotografo;1,68 m;ruivo;False;27-05-1960;ATENAS;24.324
+632;CAMILA MONTEIRO GONÇALVES  ;jornalista;1,58 m;grisalho;falso;11/07/1957;Tóquio;R$85605
+1616;SONIA MENDES FERREIRA;professor;1,49 m;GRISALHO;sim;06/08/1968;BOGOTÁ;5505
+1899;camila alves teixeira;Medico;173;CASTANHO;falso;1994-03-29;Istambul;3599
+1609;Pedro Goncalves Silva;Músico;169;castanho;falso;02-03-1971; Cairo;5538
+364;Felipe Rodrigues Cardoso;FOTOGRAFO;169;preto;falso;26/08/1979;ROMA;R$22693
+506;JOSE MARTINS DIAS;ENGENHEIRO;168;preto;Não;12-04-1992; NOVA YORK;R$ 26.841
+1493;Gustavo Carvalho Rocha  ;contador;168;preto;Não;01/07/1983;Berlim;79541
+1147;Diego Montes Pinto;MEDICO;167;ruivo  ;SIM;04-02-1974; Madrid;R$ 27.220
+1709;Patricia Gomes Silva;Chef de Cozinha;1,92 m;loiro  ;SIM;21-11-1965;ISTAMBUL  ;18.880
+1885;Marcelo Mendes Rodrigues;advogado;1,73 m;ruivo;NÃO;16/06/1972;MADRID;R$ 11.980
+1647;Diego Ferreira Monteiro;Medico;162 cm;loiro;Não;14.03.1960;MADRID;30608
+1406;ANA NUNES SANTOS;Professor;1,84 m;loiro;S;26/06/1977;tóquio;9280
+1007;THIAGO ALVES CARVALHO;músico;174 cm;grisalho;0;09.12.1962;Buenos Aires;10.378
+119; José Monteiro Fernandes;ADVOGADO  ;176;castanho  ;N;23.08.1963;CAIRO;16711
+1275;Felipe Ferreira Monteiro;CONTADOR  ;168;preto;nao;28-05-1950;Roma;R$7517
+793;aline mendes fernandes;CHEF DE COZINHA;157;grisalho;False;06/09/1957;Bogotá  ;9940
+523;rafael pinto oliveira;Piloto;185;castanho  ;False;14-09-1968;viena;1230
+514;Maria Teixeira Nunes;CHEF DE COZINHA;1,78 m;RUIVO  ;yes;1996-08-24;Nova York;21191
+82;Thiago Ribeiro Gonçalves;Guia Turistico  ;171;ruivo  ;0;1995-06-08; BOGOTA;82481
+939;GUSTAVO VIEIRA SILVA;Guia Turístico;1,60 m; preto;Sim;1950-12-25;Viena;R$5199
+1042;André Moreira Ribeiro;Musico;176;grisalho  ;True;1973-01-17;madrid;R$ 18.145
+381;Fernanda Santos Teixeira  ;GUIA TURÍSTICO;1,75 m; ruivo;False;06.04.1985;Berlim;13845
+1822;felipe vieira carvalho  ;Piloto;166 cm;;no;1958-07-20;LISBOA;53.844
+1833;Pedro Ferreira Montes;MÉDICO;174 cm;castanho;False;05/11/1963; PRAGA;3.339
+85;Ana Ribeiro Gomes;Professor;164;LOIRO;nao;2000-08-24; Berlim;4398
+1712;Bruno Dias Rodrigues;Guia Turistico  ;160; LOIRO;Não;18/05/1999;Atenas;R$65010
+1531;João Teixeira Alves;CHEF DE COZINHA;156 cm;loiro;SIM;03/12/1981;BERLIM;R$4652
+330; MARCELO MARTINS GONCALVES; Contador;178 cm;CASTANHO;Não;18.03.1957;atenas;24601
+7;Tatiane Goncalves Alves;professor;171;castanho;nao;24.01.1993;Roma;R$39678
+1188;Thiago Moreira Gonçalves;ADVOGADO  ;164; ruivo;sim;14-02-1958;Viena;R$ 23.332
+1271;rodrigo souza pinto;ADVOGADO;169;preto;NÃO;08-03-2001; Praga;R$ 22.524
+1819;Beatriz Vieira Dias;Jornalista;169 cm;loiro;0;25.09.1993;Istambul;6361
+907;Camila Teixeira Nunes;ENGENHEIRO;159 cm;ruivo  ;N;1981-03-17;Istambul;81.077
+452;Felipe Oliveira Cardoso;Guia Turístico;1,65 m;castanho;yes;1998-05-25; Paris;R$ 2.380
+491;André Gomes Teixeira  ;DESIGNER  ;1,58 m; RUIVO;False;09-07-2001;Atenas  ;1135
+1512;Patricia Fernandes Ferreira;Guia Turístico;172;ruivo;falso;1997-04-23;PRAGA;R$ 5.852
+288;Maria Barbosa Costa;advogado;1,68 m;PRETO;Sim;02.02.1988;Toquio;15.952
+944;Vanessa Barbosa Araujo;ADVOGADO  ;153;castanho;False;10/06/1979;Berlim;15794
+100;pedro lima oliveira;Médico;1,75 m;castanho;falso;13/03/2000;Cairo;10011
+1396;Carlos Pereira Santos;CHEF DE COZINHA;1,62 m;castanho  ;1;19-11-1977;Buenos Aires;19617
+1868;André Moreira Monteiro;Medico;171;grisalho;falso;04-09-1954;Toquio;R$38482
+1757;Juliana Gomes Montes;piloto  ;170;grisalho;Não;29/12/1959;Madrid;49854
+1305;Luiza Nunes Barbosa;MEDICO  ;178 cm;GRISALHO;0;17/09/1968;Buenos Aires;37502
+1736;Gustavo Araújo Nunes; CHEF DE COZINHA;167 cm; PRETO;S;07/01/1998;buenos aires;R$ 3.562
+1953;LARISSA CARDOSO CARDOSO;Professor;1,74 m;castanho;no;03/01/1967; Cairo;R$3809
+1467;renata alves costa;Guia Turístico;165 cm;grisalho;True;2004-03-02;nova york;7594
+1341;Rodrigo Lima Pinto;GUIA  TURISTICO;170;CASTANHO  ;nao;23/06/1958;Madrid;11763
+1112;Andre Santos Pinto;Engenheiro;155;preto  ;falso;25.08.2000;tóquio;27086
+1689;Tatiane Silva Barbosa;Fotógrafo;173 cm;loiro;falso;30.05.1966;LISBOA;R$ 45.359
+328;BRUNO FERREIRA MONTEIRO;músico;173;CASTANHO;no;19/09/1959;Istambul;56477
+443;LUCAS NUNES GONCALVES;Engenheiro;165;preto;nao;1959-04-19; cidade do méxico;R$ 36.850
+1660;JOAO COSTA PEREIRA;Engenheiro;173 cm; ruivo;False;10-05-1970;Berlim;19628
+1103;Patricia Barbosa Ribeiro;JORNALISTA;166;preto  ;nao;15-07-2002;Roma;2.593
+1488;gustavo  barbosa moreira;guia turístico  ;161;castanho;1;05.11.1971;Berlim  ;R$11713
+1461;Sônia Teixeira Mendes  ;médico;181 cm;PRETO  ;False;1997-12-23;CAIRO;R$ 52.550
+178;larissa souza cardoso;piloto;176;ruivo;False;1979-01-14;Nova York;R$1408
+786;Aline Montes Teixeira;Piloto;180;preto;NÃO;07-12-1954;Buenos Aires;12.261
+1385;Thiago Pereira Rocha;fotógrafo;1,77 m; castanho;falso;23-08-1989;Praga;35.927
+87;ANA MOREIRA LIMA;advogado;176 cm;castanho;True;25/10/1957;istambul;R$ 75.707
+1437;Juliana Teixeira Ribeiro  ;Guia Turístico;149;grisalho  ;1;19.10.1962;Toquio;2.928
+1940;Beatriz  Rocha Rocha;Guia Turístico;158;castanho;N;04.10.1989;Tóquio;12574
+458;Sonia Alves Carvalho;ADVOGADO;1,78 m;preto;0;28/12/1971;Viena;5657
+1867;Juliana Rocha Lima; fotógrafo;177;castanho;0;23/09/1971;Praga;7.987
+55; Camila Silva Oliveira; Fotografo;165;LOIRO;nao;01.07.1980;istambul;10.314
+1533;renata santos pereira;Jornalista;1,80 m;preto;no;1970-02-08;Cidade do México;R$10801
+644;marcelo gomes araújo; Músico;172 cm;grisalho;no;09-01-1964;Viena;20.674
+678;Bruno Montes Ferreira;Chef de Cozinha;171;CASTANHO;SIM;27.11.1964;Paris;R$ 9.781
+222; Beatriz Carvalho Teixeira;MÚSICO;159;loiro;falso;13.04.1972; PARIS;17.344
+114;FELIPE CARDOSO BARBOSA;chef de cozinha;1,72 m;ruivo;NÃO;15/02/1959;Bogotá;R$34237
+1161;Maria Araujo Ribeiro;Fotógrafo;156; preto;False;07/06/1967;Berlim;18.772
+1337;Tatiane Montes Dias;Piloto;169;loiro;N;1996-04-29;Madrid;32358
+1030;lucas santos moreira;DESIGNER;165;preto;nao;2001-04-11;Berlim;16.819
+175;Vanessa Lima Teixeira; Músico;168 cm;preto;S;18/07/1951;TOQUIO;R$ 3.617
+808;Luíza Lopes Lopes; DESIGNER;169;grisalho;False;06/01/1959;BUENOS AIRES;27.048
+590;Marcelo Pereira Vieira  ;ENGENHEIRO;178;grisalho;NÃO;07/09/1986;ISTAMBUL;9211
+1987;Felipe Goncalves Carvalho; DESIGNER;180 cm;ruivo;yes;25/10/1964;viena;50590
+19; Felipe Araújo Rocha; Advogado;173;loiro;Não;03/06/1980;BOGOTÁ;11.851
+424; José Barbosa Dias;Medico;162 cm;PRETO;falso;1950-06-11;roma;20.209
+1982;felipe teixeira pereira;Chef de Cozinha;177;preto;NÃO;28-04-1966;Istambul;9665
+286;MARIA ROCHA DIAS;ENGENHEIRO;1,83 m; grisalho;yes;1988-04-01;CAIRO;5964
+1615;Felipe Barbosa Oliveira;Medico  ;179;RUIVO;yes;1950-12-16;viena;27044
+429;Tatiane Lopes Mendes;Advogado;170;CASTANHO;falso;29/08/1996;Madrid;R$ 7.065
+1541;MONICA SANTOS BARBOSA;GUIA TURÍSTICO;178;GRISALHO;Sim;26/02/2004;VIENA;R$9999
+1420; ANDRÉ FERNANDES MONTEIRO;Guia Turistico;174;preto;Não;14-11-1988;Bogota;3437
+670; Juliana Fernandes Souza;;160 cm;ruivo;False;24.12.1974;Istambul;R$10623
+32; juliana santos alves;Músico;1,69 m;loiro;nao;1975-04-29;Istambul;R$15402
+1995;Felipe Santos Pinto;GUIA TURISTICO;164;grisalho;NÃO;1954-04-10;Paris;7.400
+723;ALINE MARTINS NUNES;piloto;162;grisalho;0;27/01/1965;Viena;R$ 57.108
+1166;SÔNIA FERNANDES RODRIGUES;FOTÓGRAFO;157 cm;preto;S;29/07/1976;praga  ;R$ 12.753
+215;PEDRO PINTO PINTO;Engenheiro;161;preto  ;Sim;06.11.1973;Nova York;43046
+1924;GUSTAVO MONTES VIEIRA;engenheiro;174; ruivo;SIM;25/01/2001;Cairo;3.773
+1272;Andre Carvalho Santos;Engenheiro;171;ruivo;sim;10-12-1977;viena;R$ 35.193
+327;SÔNIA MENDES COSTA;ADVOGADO;155;ruivo;NÃO;10.02.1987;Lisboa;3659
+561;Beatriz Ribeiro Carvalho  ;Engenheiro;1,78 m;ruivo;falso;1996-02-27;Tóquio;R$6910
+1138;marcelo lopes costa;DESIGNER;158;loiro;1;21-07-1995;Tóquio;6759
+701;EDUARDO  CARDOSO COSTA;Músico;186;CASTANHO;Não;22/02/1971;Berlim;18101
+775;JULIANA  TEIXEIRA MONTEIRO;FOTÓGRAFO;1,64 m;ruivo;0;20/04/1999;praga;26739
+1976;Gustavo Oliveira Martins;;161;PRETO;NÃO;03/01/1956;paris;35431
+342;ana  alves monteiro;Professor  ;1,73 m;grisalho;0;11/08/1956;Praga;25.076
+630;PATRICIA DIAS TEIXEIRA;Piloto;178; CASTANHO;True;28.12.2003;PARIS;12.740
+148;patrícia cardoso ribeiro;Médico;1,54 m;CASTANHO;sim;10-09-1962;Tóquio;4.530
+1223;Rodrigo Rocha Carvalho  ;Guia Turistico;146;RUIVO  ;0;30.04.1976;Nova York;R$ 12.783
+361;Felipe Monteiro Lopes  ;jornalista  ;173;loiro;SIM;01-02-1955;Istambul  ;5.750
+84;Felipe  Lima Rocha;Designer;1,67 m;castanho;S;24-07-1963;Praga;25717
+49;Luiza Gomes Silva;Contador  ;159 cm;GRISALHO;no;12/02/1987;ROMA;16.605
+469;Larissa Santos Souza; Chef de Cozinha;181;castanho;falso;25/08/1969;Madrid  ;R$ 12.460
+156;Beatriz Moreira Nunes;Advogado;1,78 m;preto;1;1993-03-27;cairo;R$ 8.998
+1125;Juliana Gonçalves Mendes;Chef de Cozinha;176;LOIRO;falso;1958-11-07; Cairo;R$ 209.730
+1054;Monica Costa Gomes  ;advogado;162;grisalho;falso;30/09/2004; CAIRO;8899
+1226;PATRÍCIA MENDES TEIXEIRA;médico;187;castanho;1;1983-09-23;Toquio  ;R$30361
+1842;Felipe Costa Rocha  ;chef de cozinha;168;grisalho;True;25-08-1953;Viena;5996
+1468;Gustavo Rocha Dias;MUSICO;165;loiro;Sim;1960-02-14;BOGOTÁ;19065
+1761; Eduardo Ferreira Nunes;Advogado;161 cm;ruivo;1;1977-12-29;berlim;11872
+501;LUCAS FERNANDES MONTEIRO;Chef de Cozinha  ;174 cm;grisalho;False;10-03-1988;praga;R$17811
+1801;Juliana Lopes Martins;GUIA TURÍSTICO;1,82 m;ruivo;verdadeiro;10.08.1979;ISTAMBUL;6125
+180; Lucas Gomes Rocha;Engenheiro;166; loiro;False;16.09.1960;Paris;33237
+1671; Vanessa Nunes Pinto;Contador;1,64 m; grisalho;no;20-12-2000;MADRID;9.764
+1792;andré fernandes nunes;Piloto;175;;S;28-12-1965;Lisboa;4.433
+860;Marcelo Santos Martins;Guia Turístico;155;ruivo;no;16-04-1994;cidade do méxico;R$ 7.764
+910;maria oliveira ribeiro; Professor;166;ruivo;NÃO;24.11.1960;ATENAS;8039
+1182;DIEGO  VIEIRA GOMES;Piloto;172;loiro;SIM;01/01/1965; Bogotá;48.452
+1651;Patrícia Teixeira Pereira;MÉDICO;170;PRETO;0;19-02-2004;Praga;44.069
+529;Luiza  Montes Montes;Designer;171;PRETO  ;nao;14/10/1984;bogotá;8.610
+347;BEATRIZ ARAÚJO DIAS;Fotografo;187 cm;preto;verdadeiro;19-12-1986;TOQUIO;26.854
+1655;GUSTAVO PEREIRA RODRIGUES;Designer;168;castanho;SIM;1992-09-10;Buenos Aires;R$ 28.185
+257;Ana Carvalho Pereira;GUIA  TURÍSTICO;166;loiro;no;16-02-1955;Istambul;5205
+1978;bruno teixeira pereira;PILOTO;166;loiro;0;03.11.1965;PRAGA;R$ 2.824
+1119;Juliana  Gonçalves Araújo; Engenheiro;1,65 m;loiro;nao;05/02/1973;Istambul;R$ 15.457
+1038; camila oliveira rocha;piloto;150;ruivo;SIM;25.02.1981; BUENOS AIRES;10049
+602;JULIANA GOMES LOPES;Advogado;164;loiro;0;1950-12-25;Atenas;R$ 38.033
+1909;Renata Alves Gomes;ADVOGADO;168;preto  ;True;09/10/1954;Tóquio;R$ 12.656
+244;Eduardo Gomes Fernandes;Guia Turístico;175;loiro;no;05-10-1975;PARIS;R$ 32.316
+924;LUÍZA CARVALHO ROCHA;Piloto;163;grisalho;False;11.01.1998; Atenas;34.136
+1091;Ana Carvalho Montes;Médico;174;CASTANHO;Não;1993-10-16;Istambul;R$ 26.281
+1506;Tatiane Pereira Silva; Médico;156;CASTANHO  ;Não;15.04.1998;nova york;29738
+313;Fernanda Rocha Nunes;Guia Turístico;180;grisalho;Sim;20/04/1971;MADRID;R$ 6.102
+436;Bruno Pinto Monteiro;Advogado;171;grisalho;0;27/01/1978;Madrid;R$ 9.076
+1939;Rafael Carvalho Alves  ;Contador;182 cm; loiro;Não;31-07-1981;Paris;30010
+1270;André Monteiro Gomes;Musico;164;ruivo  ;Não;02.07.1992;Paris;13483
+309;Monica Ribeiro Santos;MEDICO;186;loiro;no;02-10-1997;CAIRO;5.878
+431;josé barbosa gomes;Professor;163 cm;CASTANHO;0;09-06-1989; Nova York;44633
+661;Larissa  Ribeiro Fernandes;Professor;174;RUIVO  ;NÃO;2003-08-30;Atenas;7.210
+371;diego cardoso oliveira;Médico;164;CASTANHO  ;1;11/11/1962;Viena;R$ 38.584
+567;Ana Barbosa Souza;Designer;156 cm;ruivo;nao;02-04-1966;Praga;84148
+1704;Bruno Rodrigues Santos;MEDICO;176;ruivo;Sim;28/06/1951;madrid;16374
+182;Rafael Fernandes Martins;Advogado;166;ruivo  ;Não;10.06.1997;Lisboa;R$ 6.799
+1777;thiago rocha dias;CHEF DE COZINHA;1,75 m;PRETO;NÃO;24-01-1992;istambul;R$ 13.882
+622; Pedro Martins Monteiro;Contador;182 cm;preto;S;16/08/1979; Cairo;R$ 13.814
+1294; Lucas Rocha Alves;Engenheiro;180;castanho;False;19.12.1999;Buenos Aires;4346
+1330;carlos ferreira pinto;Chef de Cozinha;170 cm;castanho;NÃO;01/02/1996;Paris;5309
+989;Monica  Lopes Fernandes;PILOTO;168;loiro;0;19/06/1979;PARIS;R$ 17.437
+814;MARIA DIAS ROCHA;Advogado;175 cm;loiro;0;13/05/1952;Bogotá;R$ 50.866
+1450;JOSÉ ARAÚJO VIEIRA  ;Contador;1,77 m;ruivo;0;13.03.1960;Atenas;12685
+1879;FERNANDA  MOREIRA MONTES;FOTÓGRAFO  ;1,58 m;castanho;N;14/05/1992; Cairo;6011
+975;Luíza Lima Cardoso;MÉDICO;157;loiro;sim;15/11/1964;Praga;10414
+1117;PATRICIA ARAUJO SOUZA; Contador;168 cm;RUIVO  ;no;14-04-1961;Nova York;R$6697
+297;Renata Lima Montes;;166;GRISALHO  ;0;1997-05-21;Roma;11727
+1818;Rodrigo Rodrigues Montes;ENGENHEIRO;166; ruivo;False;28.03.1965;cairo;12116
+462;Maria Silva Gomes;JORNALISTA;161;GRISALHO;no;1988-02-13;Madrid;R$4469
+1329;Rodrigo Teixeira Cardoso;MÚSICO;174;grisalho;falso;09-02-1977; ATENAS;32132
+1260;Bruno Barbosa Martins;Advogado;155;ruivo;0;1956-07-23;Berlim;R$9401
+378; PATRICIA RIBEIRO BARBOSA;Músico;162;LOIRO;nao;11.02.1982;Roma;R$ 19.842
+799;Vanessa Ribeiro Cardoso;Músico;1,71 m;grisalho;0;05.10.1989;tóquio;R$ 4.965
+1855; Beatriz Oliveira Alves;Musico;160 cm;CASTANHO;Sim;28.02.1956;Madrid;R$29380
+106;Gustavo Fernandes Vieira; JORNALISTA;187 cm; ruivo;sim;1995-06-11;praga  ;R$ 21.788
+127;VANESSA GONÇALVES MENDES;Musico  ;163;preto;NÃO;25/03/1979;Paris;R$ 23.229
+1470;ANDRÉ MOREIRA TEIXEIRA;Contador;181;preto  ;N;23/04/1988; Bogotá;22957
+1323;Camila Gomes Ferreira;ENGENHEIRO;171;loiro;verdadeiro;23.10.1970;Nova York;R$ 8.933
+870;Aline Monteiro Martins;Guia Turistico;1,80 m;loiro  ;0;23-02-1961;paris;22283
+356;PATRICIA MONTEIRO CARVALHO;CHEF  DE COZINHA;159;castanho;NÃO;26.12.1952;PARIS;8648
+1648;Bruno Teixeira Araújo  ;Contador;1,64 m;ruivo;Não;1989-10-26;tóquio;8198
+683;bruno fernandes moreira;Guia  Turístico;159;RUIVO;1;1995-01-26;Paris;1635
+1774;Pedro Barbosa Alves  ;músico;165;;NÃO;12/04/1983;Tóquio;R$8229
+1550;Rafael Souza Cardoso;Músico  ;1,65 m;loiro;Sim;1965-12-15;Cidade do Mexico;26423
+905;ana pereira gonçalves;Designer;1,72 m;grisalho;False;08/04/1952;MADRID;R$ 13.492
+210;Aline  Lopes Monteiro;Advogado;173 cm;PRETO;Sim;05-06-2002;Praga;6767
+917;carlos gomes alves;Piloto;163 cm;;0;31.03.1957;BOGOTA;6061
+141;rodrigo santos dias  ;Contador;164;grisalho;falso;28-08-1956;Berlim;9167
+1466;Maria Cardoso Ribeiro;;164 cm;ruivo;NÃO;07-10-1975;ATENAS;R$ 8.641
+1384;Thiago  Cardoso Rocha;Guia Turístico;167;RUIVO;True;10.05.1978;TÓQUIO;10370
+2000;Maria Pinto Mendes  ;guia turístico;183 cm;ruivo  ;NÃO;17/07/1958;Lisboa;17342
+1606;PEDRO ALVES RODRIGUES;GUIA TURISTICO;1,68 m;ruivo;nao;1962-02-24;Bogotá;20.573
+1121;FELIPE OLIVEIRA ARAÚJO;Advogado;1,79 m;grisalho;Não;02/04/1967;PRAGA;2939
+1034;Jose Costa Costa  ;Chef de Cozinha;169;PRETO;falso;01-06-1970;Viena;2.619
+1246;Rafael Ribeiro Ferreira;ADVOGADO;165 cm;ruivo;yes;19/11/1984;Paris;R$ 14.113
+712;Lucas Araújo Pereira;Fotógrafo  ;1,74 m; castanho;Sim;24/12/1969;LISBOA;11640
+1293;gustavo alves gonçalves  ;Professor;165; grisalho;Não;05/03/1984;Istambul;10396
+1938;SÔNIA LIMA DIAS;Designer;1,70 m;ruivo;no;24/04/1995;Bogotá;39474
+1285;bruno rodrigues moreira  ;MEDICO;168 cm;loiro;falso;01.12.1951;PRAGA;5974
+893;Maria Costa Araújo;Músico;171;ruivo;N;03/04/2004;MADRID;R$ 2.877
+11;CAMILA ARAÚJO LIMA;ENGENHEIRO;173;ruivo  ;S;13-06-1969;Berlim;8745
+1729;Bruno Rodrigues Barbosa  ;Designer;1,84 m; RUIVO;nao;06.11.1982;nova york  ;34388
+1546;Carlos Teixeira Vieira;Contador;158 cm; ruivo;nao;1974-02-05;BERLIM  ;25344
+283;Maria Rodrigues Cardoso  ;professor;180; ruivo;False;10.09.1956;Cairo;32094
+811;Ana Dias Vieira;Fotógrafo;187;ruivo  ;nao;23.12.1963;buenos aires;5.832
+1554;Monica Carvalho Silva;Engenheiro;162 cm;grisalho;nao;15/02/1963;Praga;13.423
+292;JOSÉ RODRIGUES SILVA;ADVOGADO;1,64 m;PRETO;falso;21-04-1995;Praga;19101
+755;Juliana Ribeiro Fernandes;Piloto;1,71 m;GRISALHO;False;1983-04-30;VIENA;12276
+627;José Dias Silva  ;Fotógrafo;171;ruivo;SIM;1959-06-19;TÓQUIO;R$ 25.317
+979;pedro dias fernandes;ADVOGADO;173 cm;castanho;False;22/11/1962;cidade do méxico;R$ 20.414
+1304;Lucas Nunes Montes;Chef de Cozinha;176;grisalho;N;04/10/1977;VIENA;20152
+130; Luiza Souza Teixeira;PILOTO;1,66 m;preto;False;19/03/1952;Lisboa;50581
+1201;MONICA MARTINS MONTES  ;Jornalista;171;CASTANHO;0;29/05/1984;MADRID;12694
+844;RODRIGO PEREIRA MONTEIRO; piloto;167;ruivo;N;27/08/1982;Cidade do México;R$ 58.594
+324;Fernanda Moreira Costa;ADVOGADO;156;ruivo;NÃO;06.09.1974;Buenos Aires;16500
+1114;RAFAEL TEIXEIRA TEIXEIRA;chef de cozinha;167;preto;N;01/08/1988;Cidade do México;4780
+875;rodrigo gonçalves oliveira  ;Músico;1,52 m;ruivo;0;28-02-2004;Nova York;R$ 4.883
+1000;Maria Vieira Moreira;ENGENHEIRO;169;preto;no;15-10-1977; Paris;1017
+1904;Patrícia Araújo Mendes;CHEF DE COZINHA;170 cm;ruivo;yes;21-11-1968;Berlim;R$23784
+1821;thiago mendes ribeiro;;160;preto;True;13/08/1968;madrid;R$34637
+906;marcelo  rodrigues ribeiro;piloto;164 cm;RUIVO  ;SIM;01-01-1954; Madrid;38143
+696;Eduardo Pereira Goncalves;médico;1,73 m;castanho;NÃO;1954-05-16;Viena;R$ 19.540
+216;andré cardoso rocha;advogado  ;1,70 m; loiro;True;21/09/2002;Lisboa;3120
+1055;Rafael Araujo Araujo;Advogado  ;182;preto;NÃO;1979-12-06;CAIRO;R$ 4.330
+1914;Lucas Gomes Lima; Advogado;177;PRETO;N;18-08-1956;Madrid;R$ 8.354
+1288; SONIA LOPES LOPES;Chef de Cozinha  ;168;ruivo;N;08-08-1964;ROMA;19.808
+159;EDUARDO FERREIRA GOMES;Guia Turístico  ;176; castanho;False;06.12.1999;Roma;12.342
+1308;Thiago Teixeira Dias;piloto;175; loiro;0;16-12-1982;Viena;R$ 26.033
+1035;Camila Gomes Costa;Engenheiro  ;176;GRISALHO;1;08-10-1972;Madrid;8610
+926;Camila Rodrigues Nunes;MÉDICO;154;castanho;yes;20.03.2001;Nova York;103.330
+842;JULIANA ROCHA TEIXEIRA;Advogado;183;preto;True;1950-09-06;Madrid;16429
+635;FELIPE GONCALVES FERNANDES;Professor  ;162;GRISALHO;False;1985-01-26;Buenos Aires;1.096
+517;Camila Ribeiro Ferreira;Músico;182;grisalho;False;07/08/1958;PARIS;82127
+1457;MÔNICA MONTES GONÇALVES;JORNALISTA;167;ruivo;falso;22-11-1980;Roma;R$ 23.929
+1552;THIAGO MONTEIRO RODRIGUES;Chef  de Cozinha;1,71 m; ruivo;no;2001-09-12;Praga;R$ 8.596
+598;Larissa Montes Alves;Jornalista;163;castanho;nao;16.09.1966;Cairo;R$ 70.389
+196;RAFAEL DIAS CARDOSO;Advogado;183;grisalho;NÃO;02/08/1964;Lisboa;17789
+1675;LUÍZA DIAS SANTOS;Médico;188;castanho;False;1984-06-01;Atenas;17370
+1565;José  Costa Silva;Jornalista;180 cm;GRISALHO;no;22-08-1965;PARIS;R$ 11.582
+411;Felipe Carvalho Vieira;CONTADOR;184;loiro;False;22-04-1975;ISTAMBUL;R$ 41.899
+97;Tatiane Rocha Mendes;Professor;1,75 m;grisalho;N;2000-05-14;BUENOS AIRES;14620
+441;Rodrigo Carvalho Santos;Piloto  ;1,70 m;castanho;nao;08-06-1989;Paris;29479
+1740;rafael carvalho ribeiro;Músico;1,73 m;grisalho;N;1971-08-05;Lisboa;9683
+157; diego araújo lima;Piloto;161 cm; RUIVO;nao;26.02.1973;BOGOTÁ;14281
+420;JOAO CARDOSO MONTES;Chef de Cozinha;162 cm;grisalho;N;25/03/2004;Lisboa;R$12127
+1841;João Pereira Lima  ;Jornalista;163; loiro;SIM;1985-02-23;BOGOTÁ;2827
+478;ALINE  NUNES NUNES;Piloto;180 cm;preto  ;falso;18/02/2004; Viena;R$ 62.252
+1895;Felipe Gonçalves Dias;professor;178;preto;verdadeiro;1958-11-24;bogotá;17483
+669;VANESSA NUNES MONTES;piloto;156;loiro;nao;1996-05-14;viena;R$ 26.555
+1062;Gustavo Oliveira Ribeiro;Chef de Cozinha;171;ruivo;NÃO;1987-04-16;Istambul;R$ 8.573
+1912;Juliana Pinto Monteiro;jornalista;1,67 m;loiro;N;13/01/1955;LISBOA;23.107
+1428;bruno gonçalves pinto;Engenheiro;168 cm;grisalho;True;10-10-1979;Bogota;61508
+448;CARLOS GONCALVES MARTINS;designer;168;loiro;SIM;23.07.1978;Buenos Aires;R$ 20.622
+554;Carlos Pinto Ribeiro;Fotógrafo;183 cm; loiro;NÃO;1963-04-05;Bogota;7067
+179;Patricia Lopes Fernandes;Fotógrafo;160 cm; grisalho;sim;05-12-1965; paris;12474
+391;ALINE  VIEIRA FERREIRA;Jornalista  ;160; grisalho;verdadeiro;1950-05-19;VIENA;R$ 8.956
+579;Larissa Martins Costa;piloto;169 cm; ruivo;no;02.09.1984;CIDADE DO MÉXICO;21885
+1273;Felipe Ferreira Costa;Designer;160 cm;castanho;N;28-03-1993;Lisboa;24828
+1741;VANESSA ALVES RODRIGUES;Piloto;172; castanho;True;17/05/1952;Paris;R$ 16.420
+1314;Pedro Santos Cardoso  ;jornalista;166;castanho  ;NÃO;21.12.1988;Berlim  ;R$ 47.822
+1697;Pedro Oliveira Pinto;médico;164;;nao;12-11-1955;BOGOTA;R$ 20.557
+932;Bruno Vieira Dias;Fotografo;1,77 m;grisalho;falso;03/10/1973; TÓQUIO;10217
+821;Aline Teixeira Lopes;Engenheiro;172;preto;NÃO;29.03.1960;Berlim  ;R$42931
+1908;rodrigo ferreira ribeiro;fotógrafo;1,70 m; loiro;False;03-07-1961;Nova  York;20.215
+1503;ALINE DIAS GOMES;Advogado;161;grisalho;yes;25/03/1985;cidade do méxico;29826
+1474;Diego Carvalho Nunes;Advogado;1,69 m; grisalho;verdadeiro;26-07-1964;cidade  do méxico;8182
+665;Marcelo Montes Oliveira;Guia Turístico;193;grisalho;True;1971-04-02;NOVA YORK;R$ 13.632
+143; JOSÉ COSTA LIMA;PROFESSOR;173;castanho;falso;30.04.1963;NOVA YORK  ;R$ 4.787
+1548;Larissa Barbosa Vieira;jornalista;1,60 m;ruivo;Não;09-08-1975;Istambul;15.346
+1458;Juliana Rodrigues Santos;Médico;172;loiro;N;28/05/1995; Buenos Aires;R$ 1.326
+865; CARLOS OLIVEIRA SOUZA;JORNALISTA  ;175;castanho;yes;01-07-1963;Atenas;5073
+422;JULIANA FERREIRA ALVES;fotógrafo;157;grisalho;N;1996-10-28;BUENOS AIRES;14651
+637;rodrigo cardoso montes;Engenheiro;182 cm;ruivo;False;1965-02-13;PRAGA;3811
+1799;Maria Pinto Moreira; PROFESSOR;165;loiro;S;31.07.1985;Buenos Aires;7957
+800;patrícia rodrigues souza;CONTADOR;1,55 m;LOIRO;sim;13.06.1981;Praga;25841
+1090;felipe oliveira alves  ;Designer;189 cm;preto  ;falso;1961-08-11;Cidade do México  ;16040
+616;Fernanda Ferreira Rocha  ;Contador;182;castanho;falso;22-01-1950;istambul  ;30776
+295;Marcelo Silva Souza;CONTADOR;179;ruivo;N;13/05/1970;Roma;R$ 26.376
+1436;José Pinto Carvalho;GUIA TURÍSTICO;174 cm;RUIVO;yes;21.04.1969; Istambul;2.019
+963;MARIA MENDES CARVALHO;;163; loiro;yes;19/08/1990;Istambul;R$5612
+1943;GUSTAVO MONTES DIAS;Designer  ;189;castanho;1;08/02/1975;berlim;20948
+89;Diego Dias Souza  ; advogado;1,71 m;loiro;Não;1980-08-07;Berlim;R$ 33.643
+42;Tatiane Cardoso Montes;Medico;160 cm;castanho  ;S;13-02-1968;PRAGA;3.575
+1840;Gustavo Lima Gonçalves;Jornalista;158;RUIVO  ;NÃO;28/05/1960;ISTAMBUL;R$ 12.733
+1974;Bruno Gomes Costa;professor;173;RUIVO;no;07-11-1998;Cidade do México;3291
+132;Thiago Carvalho Silva;MUSICO;184 cm;GRISALHO;Não;1982-12-15;Tóquio;R$ 28.621
+1902;Ana Teixeira Vieira;jornalista;169;ruivo;no;1995-11-22;PRAGA;2446
+410;Lucas Nunes Mendes  ;;164;CASTANHO;S;2000-12-30;Bogota;R$ 21.378
+1906;juliana gomes rodrigues;Engenheiro;190;LOIRO;yes;1964-10-24;Paris  ;R$7337
+1894;Fernanda Montes Martins;Engenheiro;169;ruivo  ;S;27.04.1999;lisboa;R$4336
+1371;Diego Nunes Costa;Professor;167; ruivo;N;26-03-1959;Berlim  ;13122
+1566;João Ferreira Martins  ;Jornalista;178;loiro;0;1979-07-19;Roma  ;40.842
+165;Luiza Santos Lima;;160;ruivo;falso;29-09-1993;Tóquio;12703
+725;Rodrigo Souza Santos  ;Músico;176 cm; grisalho;NÃO;19.11.1993;Paris;R$ 16.278
+291;andré ferreira gomes;Chef de Cozinha;167;castanho;N;19/09/1967;istambul;R$ 11.983
+1361;Tatiane Mendes Vieira;DESIGNER;1,58 m;ruivo;1;1990-02-11; Berlim;45.356
+1567;EDUARDO CARVALHO RODRIGUES; ENGENHEIRO;166; GRISALHO;0;01-12-1965;atenas  ;R$ 9.434
+1937;rodrigo dias vieira;Contador;151;ruivo;NÃO;07/02/2004; Istambul;R$ 5.921
+1381;Larissa Rocha Pereira;CHEF DE COZINHA;164 cm;PRETO  ;0;21/07/2000;Madrid;11016
+1640;Patrícia Pereira Alves;Jornalista;161 cm;RUIVO;SIM;02.12.1964; Atenas;R$29136
+779;Vanessa Silva Rodrigues;MEDICO;174;loiro;NÃO;03/10/2002;tóquio;36511
+840;Juliana  Costa Lima;FOTOGRAFO;182 cm;preto;nao;1988-07-02;NOVA YORK;9086
+349;JULIANA BARBOSA SOUZA;Contador;170;;falso;29-02-1968;ATENAS;R$ 9.200
+1985;Luíza Dias Gonçalves;ADVOGADO;165; ruivo;falso;12/02/1967;Cidade do Mexico;13.023
+572; LUÍZA LOPES NUNES;chef de cozinha;175 cm;RUIVO;N;31/03/1984;Roma;27379
+918;Marcelo Montes Silva  ;Jornalista;163;preto;no;18-02-1985;Atenas;12935
+1014;aline souza ferreira;DESIGNER;163;grisalho  ;yes;31.08.1991;MADRID;11509
+1927;josé montes nunes;Médico;1,62 m;ruivo;no;1980-05-19;LISBOA;R$17476
+1499;Aline Vieira Nunes;Músico;167;castanho;N;01-02-1986;Tóquio;7621
+1623;ALINE LIMA GONÇALVES;Contador;161;preto;NÃO;1975-11-27;Paris;8.636
+1344; Joao Rocha Fernandes;PROFESSOR;172;GRISALHO  ;yes;1979-11-14;Paris;R$ 8.971
+1883;vanessa carvalho gonçalves  ;MUSICO;165; castanho;falso;1978-08-29;Cairo;11475
+137;diego costa ferreira;GUIA TURISTICO;176;RUIVO;True;06/01/1979;VIENA;R$ 12.646
+459;Lucas Moreira Carvalho; CONTADOR;157;loiro;falso;25-05-2002; Berlim;21394
+376;Gustavo  Gomes Dias;Contador;1,71 m; loiro;N;11-06-1996;Buenos Aires;2328
+1369;Gustavo Fernandes Pinto;Guia Turístico;176;castanho;yes;2000-04-29;ROMA;R$ 7.491
+334;Sonia Nunes Moreira;GUIA TURÍSTICO;164;grisalho  ;falso;1957-04-16;paris;R$ 32.514
+1444;ANDRÉ SANTOS FERREIRA  ;JORNALISTA;1,55 m;ruivo;no;05/06/1956; Cidade do México;7888
+1595;Rodrigo Goncalves Barbosa;músico;166;preto;no;13/03/1994;LISBOA;32941
+1963;JOÃO BARBOSA ALVES;Guia Turístico;1,82 m;preto;nao;1994-02-14;Bogotá;18529
+1893;MÔNICA  LOPES TEIXEIRA;Engenheiro;164;loiro;falso;1981-10-29;CAIRO  ;1.278
+1487;Lucas Lopes Souza;contador;1,63 m;castanho;nao;1958-07-09;Lisboa;12.645
+817;Gustavo Dias Martins;PROFESSOR;159;grisalho;no;29/04/1985;Tóquio;2675
+1600;Lucas Araújo Dias;Professor;178;preto;1;29-09-1995;Praga;R$ 24.612
+606;Camila Araújo Monteiro;Fotógrafo;153 cm;grisalho;Não;16/08/1968;Berlim;R$ 13.448
+1954;José Mendes Vieira;Advogado;1,69 m;LOIRO;False;11.01.1970;Roma;17722
+1502;Eduardo Alves Teixeira;PROFESSOR;1,64 m;LOIRO;S;1955-11-06;Praga;R$ 33.874
+1041;Vanessa Ferreira Vieira; Chef de Cozinha;171;CASTANHO;NÃO;29.01.1961;Madrid;24476
+911;Ana Rodrigues Cardoso; CHEF DE COZINHA;180;ruivo;NÃO;08.06.1967;madrid;5412
+1274;Andre Dias Silva;Piloto;161;ruivo;no;26/08/2001;Cidade do Mexico;14002
+1970;JOSE ALVES FERNANDES;MEDICO;189;PRETO;nao;10.11.1959;Cidade do México;R$54198
+1504;JOSÉ SANTOS CARVALHO;fotógrafo;1,84 m;ruivo;N;1973-12-28;Paris;50.625
+329;LUÍZA MONTEIRO COSTA;Professor  ;191 cm;LOIRO;NÃO;11.12.1996;BERLIM;R$6647
+1058;Mônica Fernandes Ferreira;ADVOGADO;169;ruivo;False;1994-02-13;Lisboa;22338
+319;André Montes Lima;Piloto;178;preto;falso;16/05/1974;Bogota;11312
+1561; Carlos Oliveira Ferreira;Advogado;171;grisalho;verdadeiro;1985-05-27;Atenas;5707
+1386;Aline Pinto Ribeiro;Professor;168;loiro;0;31/07/1994;Viena  ;25381
+1804;mônica gomes barbosa  ;Chef de Cozinha  ;181;grisalho;sim;08/01/1962;Atenas;11.118
+168;Carlos Gonçalves Martins;DESIGNER;173;GRISALHO;falso;04-10-2003;Paris  ;8.684
+13;lucas moreira vieira;Guia Turistico;176; castanho;yes;21/11/2004;roma;26304
+1967;LUCAS RODRIGUES VIEIRA;PILOTO;1,66 m;LOIRO;SIM;23/03/1984;Paris;32121
+172;gustavo mendes montes;Engenheiro;1,65 m;loiro;S;15-12-1962;Lisboa;3218
+650;Ana Dias Fernandes;Contador;1,74 m;ruivo;False;1953-03-26;VIENA;R$ 1.617
+1085; RAFAEL ARAUJO MENDES;CONTADOR;182;preto;False;05.10.1955;PRAGA;10399
+261;João Gomes Araújo;Designer;171 cm;grisalho;N;03-05-1962;Viena;16984
+1448;Beatriz Moreira Fernandes;MEDICO;154;loiro;N;04.09.1965;madrid;R$ 13.269
+1234;lucas pereira vieira;Médico;158 cm;GRISALHO;Não;27/08/1997;Lisboa;R$ 6.826
+902;camila  nunes alves; DESIGNER;169;preto;0;17-02-1968;Buenos Aires;R$28657
+673; Sônia Silva Oliveira;PILOTO;163;grisalho;S;1964-09-25;Berlim;19.071
+259;Diego Lima Mendes  ;músico;188;GRISALHO;N;28/03/1999;Buenos Aires  ;R$ 11.806
+1537;BEATRIZ LIMA FERNANDES; professor;1,58 m;ruivo;False;19/07/1973;Bogota;R$ 14.867
+845;VANESSA LIMA PEREIRA;Advogado;184 cm;loiro;no;1975-11-01;Berlim;R$ 31.076
+868;Larissa Araujo Silva  ;PILOTO;164;LOIRO;yes;25-02-1951; cidade do méxico;R$ 8.987
+1413;Marcelo Gomes Montes;Contador;168;loiro;yes;25-07-1975;CAIRO;22.828
+139; Fernanda Lopes Nunes;jornalista;1,84 m;grisalho;nao;15-03-1974;bogotá;7889
+894;Ana  Montes Silva;MÉDICO  ;163 cm;GRISALHO;nao;28/08/2002;Toquio;R$ 11.246
+1876;FERNANDA LOPES SILVA;MUSICO;167;LOIRO;SIM;27/04/2001;Paris;R$ 90.174
+550;LARISSA RIBEIRO LOPES;músico;146;RUIVO;NÃO;09/03/1985;NOVA YORK;R$ 48.024
+320;Bruno Pinto Pinto;advogado;160;ruivo  ;no;27/07/1956;Madrid;8048
+1558;Pedro Pereira Lopes;advogado;161;castanho;0;1958-03-12;PRAGA;R$ 4.745
+1262;Bruno Nunes Araújo;Guia Turístico;169;ruivo;yes;10.10.1989;istambul  ;15.581
+1203;DIEGO CARDOSO MONTEIRO;PROFESSOR;170 cm;grisalho;False;22/08/1976;Tóquio;25179
+559;JULIANA GONÇALVES GONÇALVES;Engenheiro;167;ruivo;N;31-03-1963;BUENOS AIRES;4.932
+140;Fernanda Monteiro Carvalho;MÚSICO;161;ruivo;S;18.09.1963;Lisboa;5114
+1771;joão ferreira lopes;MÉDICO;174;GRISALHO;sim;05.05.1989;Madrid;11319
+532;Andre Santos Santos;PROFESSOR;174;LOIRO;verdadeiro;02.10.1955;MADRID;7439
+225;Juliana Ribeiro Dias;Advogado;169;preto;S;14/05/1996;Viena;R$ 5.390
+724;Bruno Lima Cardoso;ADVOGADO;171;preto;sim;1990-06-26;istambul;R$ 13.199
+787;Tatiane Carvalho Oliveira;Guia Turistico;183;loiro;yes;1968-09-01;PARIS;8706
+1877;Eduardo Moreira Montes;Chef de Cozinha;163;ruivo;yes;09.07.1973;Lisboa;2067
+326; Fernanda Lima Teixeira;Advogado;179; PRETO;0;16-06-1965;Cairo;R$ 4.598
+1289;Luíza Carvalho Silva;Musico;143 cm;loiro;Não;1951-07-02;viena;40426
+715;Pedro  Nunes Pinto;JORNALISTA;1,64 m;GRISALHO  ;Não;30-12-1962;atenas;6378
+847;Gustavo Pereira Teixeira;ADVOGADO;164;preto;yes;02-02-1955;paris;R$12653
+194;Sônia Santos Teixeira  ;Jornalista  ;162;grisalho;no;16-07-1969;BERLIM;3469
+574;Fernanda Nunes Dias; Músico;162; ruivo;0;24-10-1962;PARIS  ;16602
+947;Carlos Barbosa Pereira;Chef de Cozinha;162;ruivo;falso;1951-05-13;Lisboa;R$49136
+504;Bruno Lopes Souza;Chef de Cozinha  ;167;ruivo;nao;24.08.1973;BUENOS AIRES;15.239
+1336;Joao Martins Lopes;contador;174;LOIRO;sim;1960-02-07;Atenas;3111
+1897;Thiago Gomes Silva  ;Contador;169;castanho;False;15.02.1984;Paris;R$ 30.752
+1824;Camila Gomes Lima  ;PROFESSOR;165; grisalho;Não;04-10-1950;BUENOS AIRES;R$10648
+4;Fernanda Pereira Rodrigues;Jornalista;165;loiro;N;30/03/1951;BUENOS AIRES;22.147
+1362;aline souza dias; advogado;181;grisalho;Não;1992-09-07;Cidade do México;R$ 19.239
+468;Beatriz Gomes Nunes;Advogado;167;loiro;SIM;1957-07-05;Tóquio  ;6.614
+6;THIAGO CARVALHO NUNES;Engenheiro;170;castanho;N;1952-11-03;Paris;2045
+1402;LUCAS SOUZA OLIVEIRA;professor;1,50 m;preto;sim;1967-09-04; BUENOS AIRES;R$ 8.238
+548;Felipe Pinto Ferreira;Músico;157;ruivo;falso;1965-07-28;CIDADE DO MÉXICO  ;R$ 16.830
+229;Rafael Mendes Martins;jornalista  ;1,92 m;CASTANHO;NÃO;1975-01-24;Cairo;49794
+543;Gustavo Dias Ferreira;Fotógrafo  ;1,66 m; RUIVO;N;10-06-1964;VIENA;R$ 40.608
+243;ANDRÉ SANTOS RODRIGUES;piloto;174 cm; ruivo;nao;15-04-1952;Buenos Aires;28560
+899;Thiago Martins Ferreira;Professor;160;ruivo;False;16/08/1987;Bogota;18655
+1654;Monica Monteiro Costa;Musico;156 cm; loiro;NÃO;01/09/1997;Tóquio;8.277
+1217; Eduardo Oliveira Pereira;JORNALISTA;164;castanho;0;17-05-2001; Nova York;42547
+1962;tatiane ribeiro lopes;Designer;173;castanho;False;1967-02-04;PARIS;R$ 7.012
+843;José Lopes Monteiro;Jornalista  ;163;LOIRO;nao;1954-01-17;Viena;12661
+1447;JOSÉ LOPES CARDOSO;Professor;172;grisalho;False;13-02-1958;paris;R$ 11.630
+1180;Marcelo  Moreira Dias; Piloto;165;PRETO;Sim;01.09.1980;Berlim  ;R$ 7.448
+1613;TATIANE MONTEIRO MONTES;Piloto;147;grisalho;nao;24-05-1990;Cairo;3863
+662;Maria Martins Araújo;Engenheiro;176; grisalho;nao;17.11.2000; PARIS;R$ 13.754
+1236;Eduardo Rocha Costa;jornalista;183; castanho;NÃO;1991-03-03;cidade do méxico;R$ 2.690
+315;Maria Pinto Oliveira;Designer;1,74 m;loiro;sim;21.12.1967;BUENOS AIRES;R$ 15.407
+692;Bruno Fernandes Monteiro;Piloto;1,77 m;ruivo;NÃO;13.02.1987;PRAGA;R$ 15.581
+1724; Lucas Araújo Mendes;fotógrafo;166;castanho;nao;01-06-1994;istambul;R$9297
+425;Gustavo Ribeiro Carvalho;Professor;1,64 m;preto;nao;17-08-1970;Paris;97692
+595;Thiago Teixeira Carvalho;Fotógrafo;1,58 m;castanho;nao;10/07/1969;Buenos Aires;R$24207
+583;felipe teixeira santos  ;Fotógrafo  ;169 cm;preto;True;1966-06-07;Nova York;R$22507
+623;Carlos Rodrigues Santos;Engenheiro;175;castanho;N;1999-03-04;Bogotá;R$18936
+1618;Rafael Souza Oliveira;CHEF DE COZINHA;167;CASTANHO;Não;1969-06-27;Praga;R$ 18.562
+1357;SÔNIA PINTO BARBOSA;DESIGNER;1,78 m;ruivo;no;28/03/1971;Cidade do Mexico;16510
+228;Mônica Souza Fernandes;Designer;155;loiro;nao;18-12-1964;Cidade do Mexico;R$ 16.547
+1234;lucas pereira vieira;Médico;158 cm;GRISALHO;Não;27/08/1997;Lisboa;R$ 6.826
+1358;Vanessa Fernandes Santos;Médico;1,61 m;castanho  ;SIM;21-07-1990;Praga;R$ 14.842
+1221;Maria Ferreira Lopes;Médico;184;grisalho;0;1970-05-09;Madrid;R$ 27.597
+67;renata vieira gomes;Jornalista  ;1,71 m;loiro;no;05-02-1995;cairo;R$ 38.276
+25;Maria Teixeira Martins; Medico;186;PRETO;yes;1992-07-31;Bogotá;R$ 5.956
+145;Rafael Alves Moreira;Fotógrafo;166;ruivo;False;23-01-1991;cairo;3755
+537;patrícia barbosa martins;PROFESSOR;173;PRETO;nao;29.03.1977;ATENAS;R$ 29.311
+812;Maria Vieira Fernandes;guia turístico;171;castanho;False;1950-06-18;Nova York;15016
+1145;Fernanda Nunes Gomes;Medico;165;PRETO;NÃO;2001-01-08;LISBOA  ;R$ 6.037
+86;EDUARDO BARBOSA ARAÚJO;Guia Turistico  ;163;preto;no;18/07/2001;Paris;7701
+1359;camila vieira santos;MÚSICO;177;preto;sim;05-08-1954;Madrid;R$ 6.267
+1209;Thiago Ferreira Goncalves;chef  de cozinha;176 cm;PRETO;NÃO;1967-06-21;berlim;R$ 8.662
+1710;Eduardo Silva Lima;;1,72 m;grisalho;True;05/04/1974;Tóquio;5.284
+1981;Rafael Monteiro Oliveira;Médico;170;ruivo;NÃO;16.07.1998;buenos aires;R$ 61.034
+1856;Pedro Montes Montes;Fotógrafo;167 cm; preto;falso;18-05-2002;Toquio;R$ 3.535
+1810;Ana Oliveira Fernandes;Jornalista;172 cm;preto;no;16-04-1951;Viena;10856
+1170;Eduardo Moreira Montes;contador;171 cm;loiro;0;23.11.1974;Roma;30995
+363;Diego Montes Rocha;Guia  Turistico;171;preto;no;1995-02-11;PARIS;15309
+1643;Felipe Carvalho Rodrigues;Advogado;163;preto;no;1990-04-23;LISBOA;R$ 6.208
+1178; Rafael Barbosa Montes;Engenheiro;176;loiro;NÃO;20.02.1996;Atenas;66610
+1027;Felipe Lopes Costa; Fotógrafo;164;grisalho;nao;16.10.1974;Madrid;R$ 26.823
+1031;PATRICIA RODRIGUES FERNANDES  ;Professor;176;ruivo;yes;09.08.1981;Toquio;R$17216
+1243; Luíza Montes Monteiro;Engenheiro;174;castanho;True;12-10-1983;viena;22719
+1382;Eduardo Rocha Santos;Contador;173;castanho;1;01-02-1991;BOGOTÁ;18146
+1194;Diego Costa Pinto;Engenheiro;163; loiro;verdadeiro;15-08-1982;Praga;R$ 18.989
+666;camila cardoso souza; Piloto;1,62 m;preto;N;21-02-1974;Atenas;R$2508
+365;SONIA DIAS RODRIGUES;GUIA TURÍSTICO;169;ruivo;NÃO;08.09.1991;Nova York;R$16774
+78;Larissa Silva Vieira;GUIA TURISTICO;168 cm;CASTANHO;NÃO;1986-08-13;viena;R$ 10.091
+28;BEATRIZ BARBOSA COSTA;Designer;179;preto;N;24-04-1976;lisboa;63673
+1465;André Lima Gomes;MEDICO;173; preto;NÃO;03-02-1998;madrid;21244
+526;Vanessa  Araújo Teixeira;Músico;183;GRISALHO;NÃO;09.06.1992;Istambul;6287
+1873;joão alves gonçalves;DESIGNER;177 cm;PRETO;False;1950-08-11;TÓQUIO;R$ 32.092
+56;Rodrigo Ribeiro Santos;Piloto;170;loiro;verdadeiro;30.07.2004;Atenas;R$41692
+639;Bruno Rocha Rocha;Chef de Cozinha;172; loiro;N;1969-02-16;Lisboa;R$20883
+303;renata monteiro santos; PROFESSOR;183 cm;preto;1;24-10-1988; TÓQUIO;R$ 6.991
+719;SÔNIA NUNES SANTOS;Chef de Cozinha;152;CASTANHO;verdadeiro;1977-09-17;Atenas;13.535
+625;lucas rodrigues moreira;Advogado;180 cm;castanho;0;30.07.1987; Madrid;1.726
+8; GUSTAVO BARBOSA MONTES;Médico;169;PRETO;NÃO;09-03-1967;MADRID;R$ 9.168
+804;Maria Teixeira Pereira;Engenheiro;1,57 m;preto;no;27/04/1950;tóquio;11514
+1050;Beatriz Carvalho Teixeira;fotógrafo;185;castanho;Sim;11.02.1983;Istambul;20546
+337;Beatriz Nunes Nunes;PROFESSOR;175 cm;LOIRO;0;01-01-1999;Lisboa  ;3036
+48;FERNANDA CARVALHO SOUZA;Professor  ;1,88 m;castanho;NÃO;1952-08-31;Atenas;13672
+1511;Camila Oliveira Barbosa;CONTADOR;167;RUIVO;yes;1959-09-08;Bogota;15356
+107;pedro martins cardoso;Designer;190 cm; preto;NÃO;17.12.1972;BOGOTA;R$19536
+350;Rodrigo Alves Barbosa;Piloto;163;castanho;Não;09/08/1961;Buenos Aires;R$40674
+1080;Rafael Moreira Mendes;Advogado;157;grisalho;SIM;1974-09-01;cidade do méxico;R$ 9.679
+239;Marcelo Dias Dias;;160 cm;loiro  ;False;25.11.1973;Buenos Aires;R$ 12.274
+214; SÔNIA TEIXEIRA SOUZA;Contador;1,61 m;preto;S;29.06.1950;ATENAS;3.169
+1279;EDUARDO DIAS ALVES;Professor;176 cm;grisalho;True;24.02.1953;MADRID;23873
+1164;ANDRE MONTEIRO SOUZA;CHEF DE COZINHA;1,66 m;castanho;Não;25-06-1958;Cairo;23257
+794; Rafael Vieira Araujo;Chef de Cozinha;1,77 m;RUIVO  ;N;30-01-1997;BOGOTÁ;6.727
+1097; Patrícia Souza Martins;médico;169; RUIVO;no;29-05-1973;Istambul;62.710
+1205;Camila Rodrigues Moreira;Contador;161 cm;CASTANHO;sim;1999-06-12;MADRID;11800
+1755;LARISSA NUNES ROCHA; Contador;164;RUIVO;0;1957-04-28;Berlim;R$ 9.156
+1614; ANDRE RODRIGUES ROCHA; Musico;171;PRETO;False;01.12.1992;PRAGA;R$ 3.554
+1998; Diego Rodrigues Mendes;JORNALISTA;180;castanho;falso;19.01.1976;Nova York;R$ 25.380
+524;ANA LOPES RIBEIRO;Chef de Cozinha;191;RUIVO;False;22-11-1977;Bogotá;41557
+233;Marcelo Carvalho Barbosa;Engenheiro;1,81 m;PRETO;N;04-03-1952;Istambul;18309
+645;Vanessa Nunes Montes;Contador;185;loiro;NÃO;15.04.1991;Cidade do México;R$ 1.487
+1539; Thiago Pereira Ribeiro;CHEF DE COZINHA;1,61 m;grisalho;no;09-04-1979;Lisboa  ;9612
+534;ALINE PEREIRA PINTO;GUIA TURÍSTICO;1,80 m; ruivo;Não;1956-08-10;Roma;12553
+1624;THIAGO GONCALVES SOUZA; PILOTO;1,71 m;GRISALHO;Não;1987-10-14;NOVA YORK;67.361
+604;Pedro Barbosa Moreira;Engenheiro;180;castanho;yes;2004-02-12;nova york;R$ 13.907
+1235;Rodrigo Monteiro Nunes;jornalista;165;PRETO;N;25/10/1975;Nova York;R$ 18.417
+1075;Ana  Cardoso Barbosa; Advogado;1,76 m;loiro;False;31.03.1952;BOGOTA  ;15.452
+1331;GUSTAVO LIMA ARAÚJO;Fotógrafo;176;GRISALHO;falso;07/06/1955;ROMA;R$ 29.121
+61;Ana Lopes Montes;PILOTO;176;LOIRO;NÃO;28-09-1984;Cairo;37535
+1290; Gustavo Vieira Dias;PROFESSOR  ;165;CASTANHO;N;31/01/1954;Toquio;R$72689
+93;RENATA CARVALHO ALVES;Fotógrafo;158; loiro;False;1958-09-24;Berlim;16240
+667;Aline Gonçalves Ribeiro  ;professor;187;grisalho;NÃO;18.11.1977; NOVA YORK;R$ 13.498
+281;Diego Carvalho Carvalho;Guia Turístico;1,72 m;preto;nao;03-06-2004;Bogotá;R$ 12.733
+1139;carlos araújo souza; Medico;194;ruivo;False;01.02.1950;CAIRO  ;R$8461
+360;José  Ferreira Ferreira;Contador;176;GRISALHO;0;26-03-1950;MADRID;R$13853
+1765; LUIZA GONCALVES LOPES;Guia Turistico;1,78 m;preto;Sim;09.09.1956;istambul;R$ 23.491
+1838;juliana souza araújo;;170;GRISALHO;N;30.08.1968; Cidade do Mexico;R$15004
+848;Luiza Oliveira Gomes;Jornalista;164;loiro;nao;09.04.1959;Cairo;R$ 73.162
+1405;FERNANDA SOUZA SANTOS;Professor;1,53 m;grisalho;nao;1989-10-15; Roma;R$ 6.239
+111;André Barbosa Teixeira; Designer;1,68 m;CASTANHO  ;NÃO;1965-06-24; Madrid;153198
+43;aline rocha lopes;jornalista  ;157;ruivo;no;1972-12-13;Bogotá;9.329
+126;André Barbosa Mendes  ;advogado;1,68 m;grisalho;SIM;10/05/1969; Bogota;20235
+205;José Nunes Rocha;MÉDICO;166;castanho;sim;1961-04-30;Viena;R$11005
+53;mônica vieira souza;FOTOGRAFO;170;loiro;Não;25.07.2000;Cairo;47.557
+546;FELIPE  COSTA SOUZA;Guia Turistico;166;GRISALHO;no;17/02/1975; tóquio;10669
+69;Ana Montes Souza;médico;1,51 m;grisalho;N;18/07/1993;Cidade do México;R$ 17.882
+1162;Fernanda Oliveira Gonçalves;Jornalista;1,84 m;RUIVO;nao;28.10.1984; Lisboa;30703
+1579;Rafael  Souza Monteiro; Designer;176;RUIVO;verdadeiro;04-11-1975;Berlim;53997
+184;FELIPE MONTEIRO SILVA; Jornalista;1,71 m;loiro;Não;17.09.1963; lisboa;3795
+138;VANESSA RIBEIRO FERREIRA;FOTOGRAFO  ;170 cm;GRISALHO;0;31.12.1965;Atenas;15419
+900;Carlos  Moreira Gonçalves;Musico;172;CASTANHO  ;no;30.05.1960; Madrid;R$ 4.796
+797;Tatiane Lima Costa  ;Contador;183;castanho;N;01/06/1993;Madrid;83138
+133;JOÃO MARTINS LIMA;Piloto;164 cm; preto;SIM;18/01/1986;ISTAMBUL;R$34179
+81;THIAGO DIAS LIMA;CHEF DE COZINHA;180;RUIVO  ;Sim;14/07/1966;Cidade do México;4924
+1892; BRUNO GOMES MARTINS;Advogado;1,85 m;grisalho;no;19-09-1972;Tóquio;15577
+1572;Felipe Alves Montes;Musico;177;loiro;False;28/05/1956;Lisboa;3081
+542;FELIPE OLIVEIRA ALVES;Advogado  ;159 cm;preto  ;0;1974-12-07;Buenos Aires;19182
+1627;Pedro Montes Montes;Jornalista;1,65 m;castanho  ;True;13-03-1991;Buenos Aires;12323
+984;Vanessa Dias Santos;PROFESSOR;174;grisalho;S;18/10/1972;Bogotá;R$ 7.810
+166;Camila Ferreira Martins;CHEF  DE COZINHA;159 cm;GRISALHO;N;25-06-1975;PARIS;8286
+249;mônica rocha pereira;DESIGNER;1,71 m; castanho;nao;11-11-1969;Tóquio;R$38130
+447;Ana Barbosa Rodrigues;Engenheiro;171;preto;Não;11.08.1964;Istambul  ;26640
+1174;Carlos Lopes Dias;DESIGNER;1,64 m; grisalho;False;09.10.1957;ATENAS;48562
+859;RENATA MONTES GONCALVES;Professor;161;loiro;N;31.08.1954;Roma;R$ 15.111
+1284;Carlos Silva Cardoso;Chef de Cozinha  ;1,75 m;LOIRO;NÃO;14.04.1974;Bogota  ;7379
+98;eduardo dias montes;engenheiro;178;ruivo;0;1996-12-16;Atenas;21.355
+584;Bruno Lopes Lopes;DESIGNER  ;1,57 m;ruivo;False;05-05-1986;Praga;R$ 1.095
+738;GUSTAVO MARTINS ROCHA;Advogado  ;167 cm;grisalho;no;19/02/1959;Berlim;2.926
+1282;Felipe Gomes Pereira;MEDICO;1,76 m;preto;falso;08-02-2003;Bogota;27210
+103;EDUARDO MONTEIRO MOREIRA;engenheiro;1,63 m;PRETO;verdadeiro;17/10/1969;Lisboa;R$ 14.488
+435;Carlos Alves Alves;Jornalista;188;loiro;Não;05/09/1952;Toquio;49792
+75; mônica montes moreira; chef de cozinha;158; castanho;False;1985-07-04; Lisboa;13753
+1829;Vanessa Ferreira Mendes;CHEF  DE COZINHA;176;castanho;nao;09.11.1970;Roma;R$ 38.548
+1227;andré silva ferreira;Advogado;173 cm;grisalho;NÃO;1969-09-08;Buenos Aires;22422
+919;Rodrigo Lopes Alves;DESIGNER;1,65 m;castanho;0;05.09.1991;Istambul;15.486
+1746;Sonia Oliveira Vieira;Advogado;162;ruivo;falso;26/07/1998;Bogota;15108
+1705;Luíza Lopes Teixeira  ;CHEF DE COZINHA;175 cm;GRISALHO;Não;14/09/1989;madrid;24314
+1652;PATRICIA MONTES SILVA;PROFESSOR;1,68 m;ruivo;nao;05/11/1988;ISTAMBUL;10.171
+763;patrícia moreira carvalho;PILOTO;176;preto  ;NÃO;23/06/1995;MADRID;R$33130
+990; Bruno Fernandes Martins;guia turístico;162;castanho;0;29/06/1956;Cidade do México;R$ 3.852
+389;MARIA LOPES COSTA;CHEF DE COZINHA;177;;N;27.01.1981;Madrid;R$ 9.760
+236; Ana Mendes Dias;DESIGNER;155; castanho;Não;15.05.1973;Berlim;8.087
+1538;Aline Souza Gomes;piloto;166;ruivo;N;20-05-1989;Istambul;R$9492
+268;Diego Goncalves Goncalves; Engenheiro;176;ruivo;0;02/07/1967;CAIRO;23699
+1490;Tatiane Rocha Dias;Médico;1,57 m;grisalho  ;False;24.07.2001;cairo;R$ 13.260
+118;aline silva alves;JORNALISTA  ;175;loiro;no;15/12/1993;Nova York;14441
+1638;Lucas Rodrigues Cardoso;MEDICO;174 cm; grisalho;False;13-09-1980;PARIS;10530
+674;Beatriz Martins Monteiro;Piloto;175;loiro;NÃO;08.07.1996;Berlim;11107
+250;Patrícia Pereira Oliveira;Musico  ;176;CASTANHO;NÃO;15-06-1974;Bogota;28680
+1482;Beatriz Cardoso Pinto  ;ADVOGADO;169;preto;True;1956-03-26;Madrid;R$ 88.115
+1427;renata araújo moreira;Designer  ;173;ruivo;1;13/06/1964;Istambul;R$ 5.413
+95;PEDRO SANTOS DIAS;professor;173;castanho  ;False;13.03.1962;Roma;39541
+34;Lucas Oliveira Souza;Guia Turístico;1,68 m;GRISALHO;falso;13-09-1982;ROMA;13150
+1494;Vanessa Araujo Silva;Piloto;173;LOIRO;N;01.09.1987;Lisboa;R$ 15.823
+1702;Andre Pinto Rodrigues;JORNALISTA;194;grisalho;no;10.02.1979;Lisboa;R$ 48.527
+449; LARISSA MONTES MOREIRA;Engenheiro;179; grisalho;False;29/04/1952;Praga;R$45181
+717;Renata Rodrigues Ribeiro;Médico;180;LOIRO  ;falso;1963-03-14; atenas;18012
+1291;Marcelo Martins Pinto;músico;158 cm;CASTANHO;True;05/07/1952;Berlim;R$2722
+1549;camila mendes montes;Engenheiro;178;PRETO  ;yes;1955-07-02;Berlim;27896
+1;CARLOS ARAUJO PINTO;Chef de Cozinha;170;grisalho;sim;1991-06-01;Lisboa;13675
+1403;Ana Fernandes Carvalho; Contador;182;preto;nao;1962-06-17;ATENAS;13.555
+1102;GUSTAVO ARAÚJO RIBEIRO;Designer;173;grisalho;nao;1953-12-11;Viena;18074
+1109;Vanessa Moreira Teixeira;Professor;170;preto  ;yes;18/08/1952;ISTAMBUL  ;8.264
+1252;Carlos Lopes Souza;PROFESSOR;173;preto;no;18-07-1954;bogotá;R$16148
+83;José Ribeiro Carvalho;JORNALISTA;164;GRISALHO;S;02/08/1978; Bogota;7637
+1315;Eduardo Lopes Barbosa;Engenheiro;166;grisalho;1;27.10.1993;Nova York;R$ 26.233
+677;Larissa Gomes Lima;Fotógrafo  ;183;castanho;N;1996-01-10;Viena;20863
+1800;Rafael Costa Mendes; Musico;167;castanho;Não;1963-08-25;Roma;R$34909
+1047;JOÃO ROCHA OLIVEIRA;Piloto;1,64 m;GRISALHO;0;14-08-1996;TOQUIO;R$28680
+771;Gustavo  Montes Monteiro;Advogado;165;preto;N;08-08-1968;Lisboa;33.493
+1241;MARCELO TEIXEIRA GOMES;piloto;171; preto;NÃO;1958-06-10; viena;10.804
+1776;Diego Lima Fernandes;Fotógrafo;159; grisalho;sim;28.10.1987;Paris;5.988
+1612;THIAGO MARTINS GONÇALVES;Guia Turístico  ;166;;True;1966-02-23;Tóquio;R$ 30.638
+1520;lucas monteiro pinto;JORNALISTA;174;grisalho;0;18-10-2001;Bogotá;12303
+405;Eduardo Fernandes Cardoso;Piloto;181; grisalho;True;01/03/1998;Istambul;26354
+1870;Rodrigo Teixeira Pereira;Guia Turistico  ;177;LOIRO;N;12/12/1987;Nova York;R$ 12.227
+1325;LUCAS MONTEIRO RODRIGUES;MÉDICO;180;ruivo;NÃO;08/05/1960;Buenos Aires;R$5331
+1367;Diego Rocha Martins;professor;160;ruivo;falso;19.04.1967;PRAGA;R$13996
+105;GUSTAVO BARBOSA BARBOSA  ;Chef  de Cozinha;171;preto;N;2001-03-05;cidade do méxico  ;1350
+689;Ana Rodrigues Carvalho;Designer;166;GRISALHO;N;1957-02-11;Berlim;4226
+1332; André Ferreira Rocha;FOTÓGRAFO;174 cm;GRISALHO;falso;20-02-1998;Berlim;R$ 9.223
+827;MÔNICA ROCHA SANTOS  ;ENGENHEIRO;167 cm;preto;0;07-01-1950; Lisboa;R$8506
+63;PEDRO  RODRIGUES BARBOSA;;1,69 m;castanho;0;08.07.1995;Lisboa;9355
+853;Lucas Monteiro Gomes;Piloto;176;grisalho;no;03-11-1977;Cidade do México;6.720
+1380;Camila Araujo Rodrigues;Engenheiro  ;180;;nao;29.09.1959;Bogotá  ;R$ 6.257
+224;LUCAS  LOPES SANTOS;DESIGNER  ;167;LOIRO;nao;03.12.1975;BUENOS AIRES  ;R$ 15.273
+146;JOSÉ GONÇALVES SOUZA;Professor;174;ruivo;1;03/04/1951; atenas;R$ 17.121
+1089;aline fernandes silva  ;Designer;157; castanho;sim;11/12/1970;Tóquio  ;R$ 5.445
+374;VANESSA PEREIRA CARDOSO;GUIA TURÍSTICO;171;castanho;NÃO;09-11-1952;BERLIM;15896
+1449; Joao Alves Ferreira;Designer;166 cm;loiro;False;2001-02-23; MADRID;13.346
+1143;VANESSA ALVES RODRIGUES;Piloto;188 cm;ruivo;NÃO;1981-05-15;MADRID;R$13033
+1865; RODRIGO NUNES VIEIRA;Professor;174;castanho;yes;26-01-1952;Tóquio;16.417
+1526;luíza montes pereira;Jornalista;1,78 m;ruivo;False;11/09/1956;Toquio;R$6476
+1633; Camila Monteiro Vieira;PILOTO;185;ruivo;NÃO;18-12-1997;Cairo  ;R$ 5.441
+1388;Gustavo Montes Carvalho  ;Engenheiro  ;1,62 m;grisalho;nao;22.01.1983;Paris;10203
+10;DIEGO TEIXEIRA SILVA;Advogado;176;preto;no;1999-05-07;Cairo;R$ 39.008
+450;Mônica Dias Monteiro;Jornalista;187 cm;ruivo;NÃO;09/05/1969;BUENOS AIRES;R$ 16.267
+709;Eduardo Fernandes Vieira;Professor;161; castanho;Não;26/02/1976;lisboa;R$ 42.656
+256;RENATA BARBOSA SOUZA;FOTÓGRAFO  ;177 cm;grisalho;True;21.04.1971;Buenos Aires;35.284
+883;sônia costa oliveira;Advogado  ;1,70 m;loiro;no;24/10/1991;TÓQUIO;R$ 26.453
+390;Fernanda Teixeira Moreira;JORNALISTA;185;castanho;no;19/01/1979; CAIRO;R$ 10.896
+909;Diego Lopes Gomes;Engenheiro;183;castanho;NÃO;1985-09-19;PARIS;R$ 18.419
+925;renata carvalho fernandes;Engenheiro;162;RUIVO  ;False;1963-04-22;BUENOS AIRES;R$ 27.614
+1738;Eduardo Monteiro Costa;Chef de Cozinha;154 cm;preto;0;25/02/1992;Nova York;R$ 16.831
+1794;Monica  Rodrigues Dias;Fotógrafo;156;grisalho;Não;21-04-1972; Nova York;41808
+461;MARCELO SOUZA FERREIRA;;180;;nao;29.11.1983;CIDADE DO MÉXICO  ;R$ 11.775
+1491;Gustavo Santos Carvalho; Medico;1,68 m;grisalho;S;19/07/1977;BERLIM  ;R$5834
+1735;Maria Ferreira Lopes;médico;176 cm;GRISALHO;falso;23/11/1984;Bogotá;8.356
+1169;João Teixeira Gonçalves;DESIGNER;1,71 m;CASTANHO;False;07/02/1952;Viena;R$ 20.064
+959;Carlos Ferreira Martins;CHEF DE COZINHA  ;178;loiro;no;15/05/1991;Toquio;R$ 10.677
+502;DIEGO LOPES GOMES; MÉDICO;153;loiro;0;1989-10-08; Cidade do México;10.473
+740;José Costa Teixeira;MEDICO;176; loiro;1;25/11/1985;Atenas  ;R$ 10.468
+1889;Tatiane Rocha Lopes;Guia Turistico  ;176;GRISALHO;0;22-11-1981;LISBOA;12.975
+869;Luiza Dias Goncalves;Guia  Turístico;165 cm;PRETO;1;25/06/1966;Cairo;7368
+732;Marcelo Mendes Rodrigues;Advogado;158 cm; preto;S;17-03-1994;Paris;R$ 21.839
+540;TATIANE RIBEIRO RODRIGUES;GUIA TURISTICO;168;castanho  ;S;1968-05-13;Buenos Aires;20388
+1202; Ana Nunes Gonçalves;PILOTO;1,74 m; preto;NÃO;29-11-1977;Tóquio;28701
+698;Lucas Vieira Silva; Professor;160 cm;ruivo  ;no;1974-12-14; Tóquio;3957
+1421;Aline  Monteiro Gonçalves; Médico;162 cm;LOIRO;False;14/11/1985;Istambul;10552
+1404;Felipe Nunes Gonçalves;Advogado  ;176 cm;PRETO;nao;2004-04-14;bogotá;R$66135
+1146;SONIA DIAS COSTA;Fotografo;180;ruivo;NÃO;10-07-1985;Madrid;R$ 26.241
+1032;Rodrigo Ribeiro Vieira;fotógrafo;181 cm;castanho  ;S;1962-07-18;Roma;R$ 9.513
+373;patrícia monteiro ferreira;Medico;1,57 m;GRISALHO;nao;1966-03-15;CIDADE DO MEXICO;17714
+668;Juliana Cardoso Montes;Chef de Cozinha;1,74 m;LOIRO;no;21.01.1990;Bogotá;29.786
+1557;Ana Rodrigues Gomes; Piloto;163 cm;RUIVO;0;04/12/1968;Praga;10201
+358;CAMILA SILVA GOMES;Professor;172;loiro;Não;17-04-1968;Berlim  ;R$ 29.157
+968;Aline Cardoso Gomes  ;Jornalista;186;grisalho;nao;1955-10-15;lisboa;10713
+784;Luíza Monteiro Rocha  ;Advogado;171;loiro;falso;28.04.1976; Buenos Aires;5.363
+736;Bruno Pereira Vieira;designer;1,54 m; loiro;sim;1952-12-30;NOVA YORK;R$ 7.750
+1036;patrícia fernandes fernandes;contador;157 cm;;no;30.04.1983;Bogota;R$ 8.233
+971;JULIANA MARTINS MENDES;DESIGNER;178;grisalho;0;1964-02-25;cidade do méxico;5885
+1556; Renata Rocha Souza;Médico;1,63 m;castanho  ;nao;30-10-1993;Nova York;29293
+1518;Renata Rocha Oliveira;contador  ;178;GRISALHO;0;26.10.1954;lisboa;R$ 7.106
+1555;Mônica Pinto Lopes;CONTADOR;180;loiro;False;1979-03-22;Berlim;7.919
+1377;lucas barbosa araújo;piloto;165;grisalho;falso;11-04-1950;istambul;17786
+1522;carlos carvalho lopes;JORNALISTA;1,52 m;grisalho;False;13/04/2002;tóquio;R$8849
+1674;André Rodrigues Moreira  ;Piloto;1,61 m;GRISALHO;Sim;15.10.1956;Madrid;R$46046
+1253;Ana Moreira Araújo;Fotógrafo;175;preto;1;12/03/1956;Paris  ;15771
+1728;SÔNIA GONÇALVES NUNES;jornalista;168;grisalho;True;13-04-1977;Bogotá;54954
+1750;beatriz araújo fernandes  ;Guia Turístico;167; ruivo;S;1991-02-09;LISBOA;R$ 28.340
+1237; Fernanda Lima Carvalho;Advogado;168 cm;CASTANHO;Não;31.05.1982; VIENA;R$23324
+886;Aline Fernandes Monteiro;Fotógrafo  ;158; castanho;sim;10-10-1996;Lisboa;59772
+80; RENATA ROCHA SILVA;Medico  ;171; ruivo;nao;1998-02-08;Madrid;R$ 24.229
+1173;Aline Oliveira Barbosa;designer;155 cm; PRETO;Não;25.10.1960; Istambul;52298
+815;Juliana Barbosa Costa;Guia Turístico;180;RUIVO;sim;16.05.1982;TÓQUIO;R$13265
+353;Tatiane Santos Silva;Engenheiro;168 cm;loiro;0;1955-06-08;PARIS;12.226
+672;Lucas Alves Pereira;Engenheiro;179;preto;falso;14.01.1992;Cidade do México;R$ 100.202
+1563;bruno lopes souza;Guia  Turístico;177;castanho;falso;1963-11-05;Nova York;R$49094
+58;Larissa Moreira Mendes  ;DESIGNER;180;grisalho;0;1967-05-09; Nova York;R$ 6.073
+134;bruno costa rodrigues;Guia Turistico;171;grisalho;no;10/01/1983;Tóquio;R$ 15.750
+1141;Vanessa Teixeira Souza;Musico;1,67 m;preto;NÃO;07.01.1991;Cidade do México;R$ 3.618
+934; Luíza Pinto Mendes;Músico;170; castanho;verdadeiro;07-02-1976;cairo;22.553
+1719;Larissa Mendes Oliveira;CHEF DE COZINHA;161 cm;preto;falso;06-10-1954;PARIS;11815
+824;Thiago Ferreira Alves;ENGENHEIRO  ;175 cm;RUIVO;no;14.09.1979;Berlim;19.996
+1215;Lucas Carvalho Pereira;CONTADOR;172;preto;sim;08-06-1952;nova york;6119
+505;Camila Monteiro Gomes;GUIA TURISTICO;155;ruivo;False;1957-06-03;Cairo;6740
+1812;Luíza Vieira Martins;Médico;1,77 m;grisalho;N;01.01.1980;Atenas;R$ 22.587
+348;Eduardo Lima Nunes;Professor;173;ruivo;1;28.11.1965;praga;R$ 12.857
+387;José Vieira Lopes;Contador;168 cm;RUIVO;no;1991-03-01;Madrid;11381
+1025;carlos araújo carvalho;Piloto;166;preto;nao;12/06/1960;cidade do méxico  ;14326
+895;MARIA SOUZA MONTES  ;CONTADOR;178 cm;grisalho;N;17-04-1971;madrid;9104
+829;THIAGO ARAÚJO OLIVEIRA;designer;176 cm; LOIRO;nao;20.09.1971;TÓQUIO;R$17978
+1933;FELIPE VIEIRA CARDOSO;Piloto;181;loiro  ;True;1962-12-04;Lisboa;11.019
+476;CAMILA DIAS RODRIGUES;CONTADOR;167;grisalho;N;03.12.1975;Nova York;R$ 7.025
+1573;José Monteiro Gomes;Contador;170;GRISALHO  ;Não;07-01-1980;BUENOS AIRES;R$2268
+1476;Felipe Silva Goncalves;designer;158;grisalho;N;23/09/1960;Berlim;6934
+1425;Mônica Pinto Ferreira;Guia Turístico;188;preto;Não;29/07/1979;Roma;22362
+653;Ana Pinto Alves;Músico;167 cm;ruivo;sim;02.04.1995;Praga  ;12659
+173;Jose Moreira Dias;Piloto;1,57 m;CASTANHO;no;29.01.1997; Paris;R$ 8.191
+1150;Fernanda Montes Carvalho;Fotografo;174;CASTANHO;Não;21.06.1953; Cairo;44.168
+39;Tatiane Nunes Rocha;MEDICO;175 cm;castanho;SIM;20-05-1985;Cidade do Mexico;33.116
+714;Tatiane Araujo Vieira;CONTADOR;171;loiro;falso;17-07-1957;MADRID;R$1471
+91;Beatriz Fernandes Teixeira  ;Fotógrafo;164;preto  ;NÃO;1988-02-11;Lisboa;7519
+1977; Sônia Ribeiro Rocha;Médico  ;174;CASTANHO;0;16/01/1980;Bogota;9267
+1206;Carlos Dias Dias;JORNALISTA  ;179 cm; CASTANHO;yes;16/02/1950;Lisboa;R$ 10.357
+876;Ana Oliveira Mendes; Contador;161;preto;no;03/01/1994;Cairo;16938
+1553;Fernanda Mendes Fernandes;Músico;192;ruivo;SIM;1980-09-10;Bogota;2421
+1930;juliana montes mendes  ;advogado;175 cm;preto;Não;27/08/1974;PRAGA;7477
+1094; Luíza Lima Ferreira;Músico  ;167;ruivo;falso;13/01/1993; Buenos Aires;3.632
+1156;sônia montes carvalho;Médico;187 cm;grisalho;verdadeiro;06.08.1981;Istambul;59939
+1964;Pedro Rocha Souza;Fotografo;162;ruivo;False;22/11/1976;Buenos Aires  ;R$11383
+1999;Rodrigo Pereira Pinto; Guia Turístico;179;CASTANHO;no;15.07.1987;Bogotá;R$ 11.163
+500; Gustavo Carvalho Teixeira;GUIA TURISTICO;168;RUIVO;yes;21.04.1997;Bogotá;R$23335
+339;bruno  monteiro santos;PROFESSOR;178;ruivo;False;25.08.1967;MADRID;25838
+1189;Camila Gomes Gomes;DESIGNER  ;1,69 m;grisalho;falso;07.10.1995;TÓQUIO;2.823
+29;ALINE RODRIGUES ROCHA;MÉDICO;180 cm;loiro;True;12-06-1970;VIENA  ;6.188
+1218;Mônica Moreira Moreira;Advogado;165;grisalho  ;nao;14-12-1981;Roma;9241
+1352;ana costa ribeiro;JORNALISTA;171;loiro;yes;11-10-1957;roma;R$ 12.987
+1859;Fernanda Lopes Goncalves;CHEF DE COZINHA;178;preto;falso;22.01.1952;madrid;30.897
+946;Gustavo Nunes Ferreira;Piloto;174;loiro;False;1952-07-23;Tóquio;R$18514
+170;Joao Cardoso Ferreira; GUIA TURÍSTICO;175;ruivo;SIM;09-02-1969;Cidade do Mexico;9818
+1433; Renata Gomes Silva;Músico;178;loiro;yes;21.07.1961;cairo  ;R$ 12.516
+1198;Aline Lima Pinto;Músico;162;loiro;0;1951-08-28;ROMA;14270
+1254;PEDRO  COSTA OLIVEIRA;JORNALISTA;180;PRETO;no;1986-08-24;buenos aires  ;9219
+1762;Renata Montes Moreira;Músico;1,55 m;grisalho;S;31-01-1994;berlim  ;R$ 5.266
+913;ALINE ARAUJO SILVA;PROFESSOR;179 cm;preto  ;no;1971-11-29;Berlim;R$ 59.375
+492;renata gonçalves ribeiro  ;Piloto;184;PRETO;0;28.03.1992;nova york;8.719
+954;André Barbosa Ribeiro;Piloto;183;ruivo;sim;24/10/1983;Cidade do México;R$31926
+1098;Renata Vieira Rodrigues;Guia Turístico;183 cm;RUIVO;falso;14/04/1965;Toquio;14712
+1033;Jose Lima Dias;Professor  ;178;castanho;nao;13.04.1976;bogotá;17249
+588;maria dias rodrigues;Advogado;171;preto;yes;16.12.1983;Toquio;R$ 11.147
+751;Carlos Vieira Fernandes;PROFESSOR;168;preto;1;1993-01-08;madrid;R$ 2.395
+658;PEDRO MOREIRA MOREIRA;DESIGNER;178;castanho;N;07.12.1958;ROMA;23.613
+235;Eduardo Dias Ribeiro; Piloto;172;ruivo;NÃO;23/03/1984;Berlim  ;R$12103
+733;EDUARDO SOUZA RODRIGUES;Guia Turístico;178;GRISALHO;1;08.10.1998; bogotá;R$ 26.618
+308;Gustavo Souza Costa;Fotografo;168; ruivo;NÃO;1964-05-15;buenos aires;7.886
+1718;Luíza Costa Carvalho;Contador;161;ruivo;Sim;26-11-1976;BERLIM;36.872
+1157;josé nunes carvalho;Guia Turistico;169;ruivo;SIM;24/01/1974;istambul;47148
+1997;Eduardo Dias Lima;Músico;171;grisalho;no;1981-10-28;LISBOA;R$ 2.540
+1453;Beatriz Cardoso Barbosa;Chef de Cozinha;1,70 m;preto;falso;1988-10-23;nova york;R$4418
+1659;joão silva barbosa;fotógrafo;174 cm;loiro;NÃO;09-08-1991;Berlim;2.018
+935; BEATRIZ MOREIRA PINTO; Advogado;189;ruivo  ;False;1974-02-17;Viena;R$ 5.805
+1210;Larissa Dias Fernandes;MÉDICO  ;172;grisalho;N;07/08/1959;Atenas;R$ 14.014
+1066;RAFAEL SANTOS RODRIGUES;Advogado;166;loiro;0;14-04-1973;BOGOTÁ;32185
+109;ANA GONÇALVES OLIVEIRA;professor;182; LOIRO;N;16/04/1955;TOQUIO;R$ 81.790
+1574;Ana Nunes Santos; Guia Turístico;169;ruivo;Sim;1953-01-06;Tóquio;R$ 5.881
+569;Sônia Gonçalves Araújo;professor;1,50 m; castanho;S;19-11-1980;Atenas;R$ 5.793
+1168;DIEGO FERNANDES FERREIRA;Fotógrafo  ;175;preto;falso;1964-11-12;Istambul;R$51743
+1175;rodrigo souza oliveira  ;Musico;1,55 m;PRETO;Não;02.04.1956;Cairo;90.791
+891;Aline Oliveira Rocha;JORNALISTA;164;loiro;True;1969-06-01;cidade do méxico;5719
+948;Mônica  Alves Nunes;GUIA TURÍSTICO;170;LOIRO  ;falso;1988-10-02;NOVA YORK;R$14635
+1049;rodrigo teixeira dias;advogado;151;castanho  ;falso;16-06-1963;Lisboa;135.230
+1379;Pedro Rodrigues Santos;médico;174;ruivo;Não;1960-12-03;BOGOTÁ;20367
+1645;TATIANE CARDOSO CARVALHO;Fotógrafo;163;RUIVO;NÃO;09-12-1991;Praga  ;R$ 16.535
+1475;Juliana Vieira Vieira  ; DESIGNER;175;grisalho  ;sim;02.04.1976;Roma  ;9546
+885;Luiza Lopes Cardoso;MÚSICO;164; ruivo;NÃO;21/04/1983;LISBOA;R$ 10.338
+1707;EDUARDO RODRIGUES FERNANDES;Guia Turistico;159;;nao;22.08.1951;NOVA YORK;R$ 63.328
+851;Luiza Rocha Costa;Jornalista;173; PRETO;nao;17-01-1974;TOQUIO;R$ 14.297
+735;Aline Dias Oliveira;MEDICO;167;grisalho;True;25.11.1959; ATENAS;R$ 13.971
+718; Maria Lima Carvalho;GUIA TURÍSTICO;166;ruivo;no;24/11/1975;Buenos Aires;R$ 7.589
+455;Andre  Ribeiro Ribeiro; ADVOGADO;191;castanho;falso;17/08/1985;Istambul;66621
+265; Felipe Fernandes Fernandes;guia turístico;1,64 m;grisalho;falso;27-03-1973;Istambul;6053
+76;diego teixeira dias;Contador;159;loiro  ;falso;03-10-1993;NOVA YORK;41228
+1691; Monica Carvalho Vieira;Jornalista;196 cm;ruivo;falso;13.01.1950;Buenos Aires;18.821
+445;Luiza Ferreira Ribeiro;Jornalista;170;;nao;21.11.1968;Tóquio;18724
+396; MARCELO MOREIRA PINTO;FOTÓGRAFO;1,87 m;grisalho  ;NÃO;1975-07-05;Roma;R$3150
+177;Thiago Costa Pereira; Médico;1,64 m;RUIVO;0;09/09/1975;Roma;R$1934
+1043;marcelo mendes carvalho;MÉDICO;185;CASTANHO;no;09.12.1978;Bogotá;R$ 18.974
+1772;RODRIGO  MENDES SILVA;Chef de Cozinha;182;castanho  ;nao;16-09-1964;Lisboa  ;7646
+1430; Camila Ribeiro Dias;Médico;149 cm;;False;1950-04-15;CAIRO;26498
+1542;Juliana  Souza Moreira;Médico;1,79 m;preto;no;08.03.1961;Berlim;R$ 10.640
+1408;Marcelo Souza Barbosa;Piloto;161;ruivo;falso;22.07.1952;TÓQUIO;59743
+596;Vanessa Costa Pereira; Fotógrafo;173;grisalho;no;16/04/1993;PARIS;5433
+62;Joao Alves Pinto;Engenheiro;170;castanho;NÃO;24-05-1958;Bogotá  ;27361
+1297;Jose  Lopes Martins; Piloto;162;loiro;False;26-07-1981;CAIRO;45573
+873;THIAGO NUNES GONÇALVES  ;Músico;175;ruivo;True;27/03/1963;NOVA YORK;12851
+1784;PEDRO MARTINS ALVES;jornalista;154;GRISALHO;1;16/05/1997;Bogota;8.098
+1919;pedro gomes carvalho;PILOTO  ;155 cm;GRISALHO;falso;2004-05-14;Praga;9.492
+279;Carlos Lima Teixeira;GUIA TURÍSTICO;172;preto;no;10.09.1953;paris;9982
+37;Aline Mendes Ribeiro;Chef de Cozinha;166;LOIRO;SIM;13/05/1955;Viena;R$ 55.681
+1547;ALINE SANTOS SILVA;Contador;171;grisalho  ;SIM;06-07-1974;Cidade do Mexico;5200
+663; Aline Dias Martins;CHEF DE COZINHA;167 cm;preto;falso;14-04-1998;MADRID;7.636
+1845;Rafael Mendes Carvalho;chef de cozinha;171;LOIRO;sim;1990-12-31; Atenas;69951
+1473; Larissa Moreira Gomes;CHEF DE COZINHA;1,70 m;ruivo;NÃO;21-06-1969;Praga;7060
+978;Larissa Nunes Teixeira;CHEF DE COZINHA;165;grisalho  ;nao;11/07/1996;Praga;R$37864
+1603;Pedro Barbosa Ribeiro;Chef de Cozinha  ;1,79 m;LOIRO;falso;1973-11-28;Tóquio;R$ 6.195
+739; marcelo araújo monteiro;CONTADOR;1,76 m;castanho;N;13/04/1986;Lisboa  ;R$5952
+192; Thiago Gomes Barbosa;Contador;176;LOIRO;Não;1958-02-28;Viena;R$ 41.138
+920;Gustavo Dias Gomes;contador;163;preto;False;29/07/1995;Viena;14.481
+457;TATIANE FERNANDES TEIXEIRA;CONTADOR;1,73 m;grisalho;Não;22-08-1994;Cidade do México;10790
+676;João Lopes Oliveira;Fotografo;161;;False;23.06.1989;Buenos Aires;3473
+761;MARIA RIBEIRO BARBOSA;guia turístico;184;LOIRO;yes;29.10.1961;Atenas;4063
+1946;JULIANA SOUZA MONTEIRO;PROFESSOR  ;175 cm;preto;S;1964-02-14;Atenas;20102
+1742;Beatriz Alves Silva;GUIA TURISTICO;169; castanho;SIM;06/09/1984;ATENAS;3864
+729;Carlos  Araújo Lopes;Médico;169;castanho;NÃO;17-06-1984;cidade do méxico;23024
+1400;RENATA PEREIRA TEIXEIRA;Medico;168; castanho;verdadeiro;16/08/1987;Paris;R$5544
+413;THIAGO MOREIRA GOMES;Designer;162;GRISALHO;False;1991-07-08;Nova York;R$ 20.072
+1099;Rodrigo Pereira Goncalves;Chef de Cozinha;174;castanho;S;06/08/1959;nova york;R$61011
+826;LARISSA MENDES SANTOS  ;Fotografo;1,69 m;PRETO;Sim;11/12/1980;Nova York;4032
+1656; rodrigo monteiro cardoso;Professor;170;RUIVO;nao;23-12-1990;Istambul  ;38.904
+617;josé barbosa mendes;Jornalista;1,58 m;castanho  ;NÃO;08.08.1999; PARIS;12399
+115;FELIPE FERNANDES ROCHA; Piloto;165; ruivo;falso;23.08.1961;Lisboa  ;R$21690
+418;Patricia Mendes Alves;músico;162 cm;castanho;SIM;1991-10-08;Cidade do México;11.841
+1951;Sônia Cardoso Ferreira;GUIA TURÍSTICO;174;ruivo;N;10/06/2002;Praga;7648
+970; PATRÍCIA SOUZA GONÇALVES;Jornalista;145;loiro;False;12.02.1967;Atenas;13426
+605;Rafael Teixeira Rodrigues;Contador;173;castanho;yes;02-07-2001;Tóquio;57204
+1959;Bruno Alves Souza;Fotógrafo;161 cm;preto;Não;1992-10-28;Lisboa;R$ 3.266
+90;Pedro Carvalho Gomes;Jornalista;181;loiro  ;no;1974-03-04;Atenas;R$ 26.064
+849;Beatriz  Teixeira Teixeira;Guia Turistico  ;176;ruivo;yes;21-07-1977;Praga;8907
+1551;carlos  costa rocha;Advogado;154;grisalho;False;25/05/1991;roma;R$ 4.555
+1958;luíza nunes barbosa;Designer;176 cm;loiro;nao;16-11-1990;Istambul;22.045
+754; JULIANA SOUZA GOMES;Designer;174;grisalho;True;30.11.1967;ATENAS;R$20035
+499;Gustavo Barbosa Cardoso;guia turístico;164;LOIRO;Sim;14/06/1972;ATENAS;10886
+1277;Patrícia Alves Fernandes;PROFESSOR  ;164; LOIRO;1;18/11/1964;BUENOS AIRES;16556
+1326;Maria Araújo Souza;Professor;182 cm;CASTANHO;no;27.11.1955;Cairo;R$ 42.680
+12;Fernanda Fernandes Ribeiro;Guia Turistico;170;loiro;Não;1986-02-21;CAIRO;R$ 57.250
+397;Renata Monteiro Barbosa;;173;loiro;False;1971-10-10;Atenas;R$ 7.464
+285;juliana vieira lima;Piloto;189;castanho  ;False;03-02-1998;Praga  ;18906
+1067;Ana Vieira Gonçalves;Jornalista  ;175; RUIVO;NÃO;21.05.1970;berlim;4692
+1192;Maria Martins Moreira;piloto;1,88 m;PRETO;no;1980-09-08;Buenos Aires;1169
+1781; DIEGO ALVES GONÇALVES;Medico;181;LOIRO;falso;1978-07-27;cidade do méxico;7.949
+691; Marcelo Fernandes Rocha;Advogado;170;LOIRO;N;25-10-1972;Roma;R$6299
+1663;Ana Mendes Barbosa;PILOTO;165;PRETO;yes;27/04/1995;paris;R$12951
+1916;Eduardo Carvalho Vieira; professor;1,79 m;castanho;N;2004-11-30; CIDADE DO MÉXICO;11.370
+690;Tatiane Pereira Santos;DESIGNER;183 cm;loiro;no;05-11-1952;Viena;R$25479
+852;Vanessa Rocha Teixeira;Jornalista;180;ruivo;N;29-06-1951;Viena  ;R$ 26.906
+160;Renata Dias Silva  ;Guia Turistico;159;ruivo;NÃO;1952-08-02; viena;10354
+896;Carlos Cardoso Gomes;MÉDICO;153;castanho;N;13/01/1986;berlim;R$6435
+1607;Bruno Souza Costa;ENGENHEIRO;176; CASTANHO;SIM;27-11-1976;PARIS;5131
+258;BEATRIZ CARVALHO CARDOSO;Advogado;173;preto;nao;08.07.1978;PARIS;3207
+336;Joao Silva Teixeira;Engenheiro;190;ruivo;N;07.07.1978;ISTAMBUL;7.159
+1920;Mônica Alves Lopes;Fotógrafo;170;GRISALHO;True;17.09.1978;Praga;10.089
+1040;Vanessa Araújo Santos;JORNALISTA;167;LOIRO;sim;01.05.1955;bogotá;R$10091
+516; PATRICIA PINTO ARAUJO;piloto;1,64 m;castanho;0;10.09.1965; Toquio;10364
+1349;João Ferreira Fernandes;Fotografo;171 cm;grisalho;nao;01/11/1977;Tóquio  ;15714
+1016;ana pinto silva;Chef  de Cozinha;1,72 m;ruivo  ;Não;12.04.1957;Nova York;16644
+769;Fernanda Ribeiro Araujo;MÉDICO;1,74 m;preto;N;04/08/2001;CAIRO;R$ 16.374
+1783;Maria Monteiro Monteiro;piloto  ;173;castanho;0;22.03.1952;NOVA YORK;10618
+762;mônica pereira barbosa;CHEF DE COZINHA;170; loiro;0;28/07/1965;Cidade do México;R$ 30.706
+1247;Carlos Lopes Rocha;FOTÓGRAFO;176;loiro;False;31.08.1982;LISBOA;R$ 10.657
+1204;MÔNICA MONTEIRO DIAS;Professor;157;RUIVO;True;2000-08-19;Istambul;9372
+1507;thiago fernandes oliveira;Professor;174;GRISALHO;0;01/06/1963;Madrid;R$17951
+1960;Luiza Costa Oliveira;Músico;185;grisalho;Sim;06/04/1983;bogotá;5.418
+522; Patrícia Fernandes Cardoso;Designer;192;castanho  ;nao;14.02.1963;Cidade do Mexico;R$9144
+23;MARCELO BARBOSA ROCHA;Fotografo  ;177 cm;loiro;0;30-11-1978;PRAGA;22105
+357;Vanessa Teixeira Carvalho;Jornalista;168 cm;castanho;True;11/03/1988;Paris;3307
+1278;JOÃO SILVA TEIXEIRA;GUIA TURISTICO;185 cm;CASTANHO;NÃO;1978-11-02;cidade do méxico;R$ 19.065
+1313;LUCAS PEREIRA SOUZA;PILOTO;1,75 m; preto;False;01/06/1986;atenas;13.852
+1717;andré dias teixeira;Contador;176;loiro;False;24/06/1995;Cidade do México;R$ 2.502
+341;Fernanda Vieira Pinto;GUIA TURISTICO;163;loiro;falso;29/12/1999;BUENOS AIRES;18049
+432; Beatriz Teixeira Carvalho;;1,61 m;ruivo;0;14-04-1967;Bogotá;R$ 50.681
+474;Larissa Carvalho Vieira;Guia Turistico;166;preto;False;12.01.1952; Cairo;44917
+218;Pedro Vieira Cardoso; Contador;174;RUIVO;NÃO;01-08-1973;Madrid;7032
+912;JULIANA VIEIRA FERREIRA;Fotografo;175;grisalho  ;False;1968-09-22;roma  ;4.499
+1228;Diego Cardoso Mendes  ; Contador;187;ruivo;True;03/01/1969;Toquio;R$ 9.519
+1628;Beatriz Araújo Ribeiro;Medico  ;173;CASTANHO;falso;15.04.1995;roma;R$ 9.736
+1012;ALINE CARDOSO DIAS;PROFESSOR  ;177 cm; CASTANHO;falso;19/07/1982; nova york;3.746
+1990;MARCELO OLIVEIRA NUNES;CONTADOR;180 cm;castanho;nao;09.09.1955;Buenos Aires;R$ 11.387
+94;Rafael Pereira Carvalho  ;Contador;166;loiro;N;15/07/1979; BERLIM;12344
+1009;Tatiane Silva Mendes;GUIA TURÍSTICO;1,74 m;CASTANHO;SIM;11.10.1969;berlim;8316
+1071;felipe nunes monteiro;Médico;183;ruivo  ;SIM;26.10.1987;Paris;13.466
+1093;fernanda ferreira teixeira;;186;CASTANHO  ;S;21-06-1966;Bogotá;R$ 9.160
+1617;RODRIGO MENDES TEIXEIRA;MÚSICO;171 cm;castanho;1;1980-04-03;Berlim;10163
+1309;diego carvalho lima;Guia Turístico;1,54 m;ruivo;verdadeiro;1965-06-04;LISBOA;R$2226
+697; MARCELO MONTEIRO GONCALVES;Advogado;168 cm;castanho;S;08/08/1955;Istambul;R$1760
+1831;Rodrigo Montes Ribeiro;Professor;176 cm;ruivo;NÃO;1953-03-18;Roma;8924
+997;DIEGO DIAS LOPES;Médico;161 cm;grisalho;N;03.11.1994;Cairo;22.947
+1459;TATIANE ALVES MONTES;Engenheiro;161;preto;1;01/12/1981;Tóquio;8772
+154;Maria Ferreira Fernandes;Jornalista;172;preto;no;12.07.1999;cidade do méxico;15575
+1100;Fernanda Carvalho Vieira;DESIGNER;165;grisalho;S;14/03/1970;PARIS;R$ 7.458
+1753;Monica Vieira Goncalves  ;Medico;168;LOIRO;1;1992-06-13; NOVA YORK;14227
+1291;Marcelo Martins Pinto;músico;158 cm;CASTANHO;True;05/07/1952;Berlim;R$2722
+790;Pedro Lopes Mendes  ;Jornalista;173;castanho;falso;17-12-1982;Berlim;R$ 18.712
+581;Renata Santos Pinto  ;músico  ;156;preto  ;False;02-12-1967;Roma;R$ 42.888
+1471;JULIANA LIMA ALVES;Músico;171 cm;castanho;0;27/02/1991;PRAGA;37060
+704;ana barbosa rodrigues;MÉDICO;169 cm;PRETO;falso;30.03.1974;ROMA;35277
+1213;bruno barbosa moreira; Advogado;1,88 m;ruivo;N;12.08.1973;Paris;6.513
+1296;marcelo lima ferreira;Contador;170;LOIRO;NÃO;1955-04-28;Buenos  Aires;R$ 54.410
+1700;Sônia Alves Barbosa;DESIGNER;175;castanho;verdadeiro;1966-11-15;BERLIM;7.165
+1261;Bruno Rodrigues Dias;Médico;1,60 m;preto;False;07/07/1965;bogotá;16.923
+488;Fernanda Pereira Nunes;Médico;154;ruivo;False;2003-12-22;Tóquio;80417
+560;RODRIGO MARTINS CARDOSO  ;Designer;1,80 m;ruivo;Não;15-07-1956;Berlim;R$31773
+1142; Ana Monteiro Pereira;advogado;169;LOIRO;N;27/06/1982;Praga  ;R$ 41.745
+1120;ALINE TEIXEIRA VIEIRA;Musico;172;loiro;no;08.10.1953;Atenas;R$ 19.031
+802;Renata Pereira Goncalves;PROFESSOR;175;RUIVO;True;05/08/1979;Roma;3.086
+513;CARLOS CARDOSO OLIVEIRA;piloto  ;176;preto;NÃO;31/05/1960;NOVA YORK;R$21781
+634;Renata Alves Pereira; Contador;165 cm;;True;26/12/1990;Cidade do Mexico;R$ 16.779
+1510;Renata Pereira Monteiro;CHEF DE COZINHA;1,51 m;preto;no;23.12.1985;paris  ;11.859
+1825;MARCELO MARTINS TEIXEIRA;Músico;161;loiro;verdadeiro;11-10-2004;Lisboa;R$ 4.469
+1577;BEATRIZ CARVALHO FERREIRA;fotógrafo;169;RUIVO;nao;07/12/1956;Praga  ;9569
+1151;thiago costa vieira  ;Engenheiro;179;ruivo;N;23.12.1968;atenas;7.130
+791;Ana Gonçalves Alves;Jornalista;1,72 m;preto;Não;1988-11-23;Nova York;12832
+117;Andre Lima Alves;fotógrafo;179 cm;grisalho;0;26.06.1966;Nova York;26879
+1498;Vanessa Fernandes Monteiro;Fotografo;181;;yes;16/03/1981; Praga;38118
+741;Lucas Alves Silva;Contador;177;castanho;False;1998-02-18;Istambul;R$ 58.598
+907;Camila Teixeira Nunes;ENGENHEIRO;159 cm;ruivo  ;N;1981-03-17;Istambul;81.077
+1082;Maria Teixeira Mendes;músico;158;preto;0;08/03/1974;Tóquio;30429
+831;Camila Cardoso Oliveira;Musico;177;grisalho;sim;05/01/1966;Berlim  ;R$29444
+120;EDUARDO FERNANDES CARVALHO;Piloto;157 cm;grisalho;NÃO;19-07-1985;MADRID;35809
+657; LARISSA LOPES VIEIRA;DESIGNER  ;179;preto  ;verdadeiro;15.03.1966;ATENAS;33632
+1948; Felipe Santos Lopes;;186;ruivo;falso;10-03-1976; Viena;R$ 27.567
+636;Larissa Carvalho Alves;Designer;1,64 m;preto;sim;1975-10-14;Cidade do México;3165
+370;Tatiane Ferreira Vieira;jornalista;188;castanho;NÃO;1972-08-26;Cidade do México;R$ 68.405
+269;LUCAS MARTINS COSTA;engenheiro;176; RUIVO;NÃO;06/08/1978;Praga  ;18.580
+656;Camila Rocha Ferreira; Chef de Cozinha;179 cm;ruivo;falso;01-12-1990;Madrid;40860
+936;Andre Oliveira Cardoso;Médico;1,69 m;preto;NÃO;1960-02-02;Berlim;R$ 18.503
+823;João Montes Gomes;Advogado  ;167;ruivo;N;02-10-1991;atenas;5.236
+867;Ana Ribeiro Fernandes;músico;1,56 m;LOIRO;True;08-08-1957;Madrid;16.384
+47;Sônia Oliveira Alves; Jornalista;172 cm;grisalho;no;15-07-1974;Paris;R$10469
+1374;DIEGO SANTOS GOMES  ;MÉDICO;165;ruivo;False;09/09/1982;Bogota;R$ 10.141
+1743;Larissa Martins Vieira;Músico;157;CASTANHO;falso;1982-11-03;Atenas;R$ 49.764
+992;rafael pinto gonçalves;Contador;173 cm;grisalho;NÃO;1976-12-10;Berlim;R$ 2.050
+877;SÔNIA  COSTA SILVA;Engenheiro;1,65 m;grisalho;nao;27-11-1993; Roma;15924
+774;Beatriz Fernandes Ferreira  ;Designer;164 cm;grisalho;Não;1967-01-09;Roma;R$ 24.381
+1220;LUIZA LOPES CARDOSO;Guia Turistico;1,68 m;RUIVO  ;N;06-06-1979; Cidade do Mexico;7.131
+1567;EDUARDO CARVALHO RODRIGUES; ENGENHEIRO;166; GRISALHO;0;01-12-1965;atenas  ;R$ 9.434
+5;Lucas Pereira Barbosa;Contador;170 cm;grisalho;no;19.08.1968; Cairo;5929
+1004;andré nunes moreira; Guia Turistico;175;grisalho;True;03-01-1990;TÓQUIO;49965
+1759;Vanessa Teixeira Gomes;Contador;157;grisalho;verdadeiro;17/01/1976; Lisboa;2749
+264;André Gonçalves Mendes;Medico  ;1,64 m;ruivo;Não;08.12.1978;lisboa  ;20.076
+1601;ana cardoso fernandes  ;MÚSICO;1,67 m;CASTANHO;True;25/12/2003;Berlim;R$ 27.559
+1869;Larissa Moreira Monteiro;FOTÓGRAFO;189;castanho  ;no;10.07.1958;Tóquio;6430
+444;Tatiane Cardoso Rodrigues;Chef de Cozinha;173;castanho;True;08-07-1953;Cairo;R$20673
+1003;João Ferreira Pinto; guia turístico;177;grisalho;False;05.10.1994;Buenos Aires;13.419
+1078;Diego Vieira Martins  ;PILOTO  ;172;LOIRO;N;1992-07-01;lisboa;R$ 30.560
+838;CAMILA SILVA CARVALHO  ;Guia Turistico;166;LOIRO;no;1967-08-13;Cidade do México;R$13864
+1828;Luiza Carvalho Lopes;FOTÓGRAFO;175; castanho;0;28-05-1967;Berlim;11.963
+305; LUCAS SANTOS SANTOS;Músico;184;LOIRO;nao;24-11-1999;Bogota;13751
+1366;Camila Mendes Lopes;Designer;155;ruivo;yes;15/02/1968;NOVA YORK;5.025
+1589;maria costa pinto;Engenheiro;165;ruivo;nao;28.02.1974;buenos aires;2478
+314;FERNANDA  OLIVEIRA ALVES;Fotógrafo  ;177;grisalho;False;21.11.1988;MADRID;8796
+150; ana fernandes barbosa;PROFESSOR;158;CASTANHO;SIM;05/12/1950;praga;9623
+1149;pedro pereira martins;CONTADOR;1,68 m;preto;Não;30.12.2001;bogotá;18864
+1214;Sônia Pinto Mendes;Medico;167;castanho;nao;09.05.1980;TOQUIO;26690
+575;Juliana  Gomes Fernandes;Chef de Cozinha;183 cm;preto  ;yes;18.08.1964;Cidade do Mexico  ;16043
+51; pedro costa cardoso;;178;LOIRO;falso;1995-11-21;Lisboa;6185
+1584;CARLOS RODRIGUES SANTOS;Engenheiro;154;preto;NÃO;1960-02-03;LISBOA  ;R$ 3.920
+727;JOSÉ TEIXEIRA TEIXEIRA;ADVOGADO;163; GRISALHO;falso;30.09.1987;Lisboa;18498
+834;Lucas Rodrigues Pinto; Professor;159;castanho  ;Não;31/10/1985;Buenos Aires;69788
+1378;Patricia Rocha Araujo;fotógrafo;162;ruivo;falso;08/06/1953;Istambul;R$12479
+1116;vanessa cardoso gonçalves;Contador;1,74 m;grisalho;False;26-05-1973;roma;26623
+1167;mônica montes alves  ;JORNALISTA  ;172;grisalho;1;26/04/1966;ROMA;11.358
+471;Fernanda Rocha Cardoso;GUIA TURISTICO;161;castanho;nao;08-01-1979;Buenos Aires  ;R$ 28.553
+972;Vanessa Santos Nunes; Guia Turístico;188; GRISALHO;False;1970-12-10;Istambul  ;38223
+654;MARCELO COSTA PINTO;Médico;1,65 m;preto;verdadeiro;01-10-1973;tóquio;R$ 39.547
+400;Renata Santos Montes  ;CONTADOR;169; grisalho;False;1997-06-29;cidade do méxico;4.342
+512;ANA TEIXEIRA MONTES;Musico;168 cm;PRETO;NÃO;12.03.1956;Praga  ;32637
+321;felipe alves moreira;MÉDICO  ;1,73 m;loiro;False;13-06-1998;BERLIM;29.838
+20;José Santos Vieira;Fotografo;1,52 m;PRETO  ;False;31-03-1952;Cidade do México;12419
+685;PATRÍCIA  FERNANDES SOUZA;MEDICO;174;ruivo;Sim;02.08.1959;Atenas;R$55178
+36;Marcelo Teixeira Pereira;jornalista;159; PRETO;falso;1997-09-30;Cairo  ;17699
+903;EDUARDO MONTEIRO MOREIRA;médico;162;loiro;S;17.02.1970;Madrid;43015
+1816;CAMILA MONTEIRO LIMA;Jornalista;166;grisalho;Não;1991-08-17; ROMA;R$ 7.687
+828;DIEGO ARAUJO ROCHA  ;Piloto;157;loiro;1;27.02.2003;Lisboa;12961
+1835;Diego Ribeiro Rodrigues; Designer;194;LOIRO;Não;01-11-2002;buenos aires;25502
+408;Aline Dias Lopes;Advogado;173 cm;loiro;N;11.08.1985;Cairo;12.856
+921;Luiza Barbosa Oliveira;MÚSICO;174 cm;preto;NÃO;03-12-1995;viena;R$ 7.449
+538;ALINE ROCHA NUNES;MÚSICO;173;preto;falso;16.05.1985;Paris;3500
+759;Rafael Pinto Cardoso;Engenheiro;181 cm;loiro;1;27-11-1998;CAIRO;R$ 1.956
+1945;Luíza Mendes Moreira;Músico;182;castanho;falso;1974-06-26;Bogotá;37.006
+1063;Eduardo Barbosa Lopes;jornalista;168;grisalho;N;1988-12-19;Roma;R$1967
+1200;FERNANDA MARTINS CARDOSO;Engenheiro;1,63 m;LOIRO;no;23-08-1997;TÓQUIO  ;56954
+246;RODRIGO TEIXEIRA GONÇALVES;FOTÓGRAFO;170;castanho;nao;1960-07-19;nova  york;R$ 6.395
+1417;Patrícia Nunes Cardoso;Jornalista;174;LOIRO;Sim;30.05.2004;Viena;R$13188
+1128;RODRIGO SOUZA RIBEIRO; Professor;167; ruivo;False;25/05/1990;Istambul;8570
+785;Vanessa Santos Gomes;PROFESSOR  ;167;loiro;no;1974-06-05;viena;5973
+1779;Patrícia Lopes Mendes;Contador;156 cm;preto;NÃO;1950-09-04;Tóquio;R$ 19.844
+490;Beatriz Ferreira Goncalves;Piloto;163;castanho;falso;1973-09-15;Lisboa;R$35966
+155;Juliana Mendes Monteiro;Chef de Cozinha;1,80 m;ruivo  ;yes;04-08-1958;PARIS;22.441
+962; Juliana Araujo Oliveira;Jornalista;175;GRISALHO;verdadeiro;21/06/2000;Lisboa;66599
+854;FERNANDA LOPES GONCALVES;Chef de Cozinha;195;loiro;1;28-04-1977;Istambul;6439
+1312;LARISSA RIBEIRO MOREIRA;Medico;1,76 m;loiro;no;20.03.1990;Lisboa;R$21822
+626;Bruno Fernandes Moreira  ;Piloto;1,66 m;preto;NÃO;26/12/1997;Cairo;R$ 6.618
+686;Tatiane Ribeiro Fernandes;;165;grisalho;N;06-09-1959;Paris;R$ 14.603
+1593;JOSÉ FERNANDES COSTA;Designer;173;grisalho;verdadeiro;03.06.1972;Viena;R$ 4.791
+570;Tatiane Lima Teixeira  ;Chef de Cozinha;1,73 m;PRETO;Não;29-07-1984; Viena;47379
+1949;Sônia Teixeira Moreira;;153 cm;castanho;True;07-01-1987;BUENOS AIRES  ;10950
+18;bruno carvalho alves;JORNALISTA;154;CASTANHO;NÃO;1967-11-26;Buenos Aires;R$ 8.744
+128;josé ferreira carvalho;Advogado;178 cm;grisalho;no;05-12-2000;Cairo;41489
+1347;Aline Lima Pereira;Medico;158 cm;ruivo;False;1978-01-18;Istambul;R$ 11.679
+1280;Rafael Carvalho Ribeiro;Médico;1,65 m;loiro;1;30.03.1973;Roma  ;11340
+66;JOSÉ MOREIRA MONTEIRO;fotógrafo;167;preto;0;07/09/1955;Tóquio;R$ 23.662
+928;Lucas Martins Rodrigues;Chef de Cozinha;155;preto;falso;25.01.1977;tóquio;R$ 37.952
+981;MARCELO RIBEIRO SOUZA;Piloto;163;CASTANHO;NÃO;27-06-1976;Atenas  ;R$ 4.761
+1290; Gustavo Vieira Dias;PROFESSOR  ;165;CASTANHO;N;31/01/1954;Toquio;R$72689
+191; JOÃO BARBOSA ALVES;Contador;159;preto;Sim;11.10.1991;Berlim;8502
+1140;ana vieira silva;Contador;1,91 m; preto;Sim;11/09/1996;CIDADE DO MÉXICO;49219
+993;Beatriz Monteiro Nunes;PILOTO;175;castanho;sim;07.04.1995;Praga;9945
+1996;Aline Barbosa Rodrigues;Chef de Cozinha;164;preto;falso;01/02/1988;Berlim;R$ 6.099
+1690;PEDRO BARBOSA OLIVEIRA;médico;165 cm;loiro;falso;24-10-1990;ROMA;R$7618
+607;RODRIGO MONTES TEIXEIRA;advogado;159 cm;preto;SIM;29/08/1993;atenas  ;12.434
+181;Felipe Silva Moreira  ;médico;182 cm; preto;0;01.01.1982;Praga;14503
+302;JULIANA GOMES LIMA;piloto;153 cm; GRISALHO;no;19-08-1988;ISTAMBUL;R$12713
+497;patrícia santos ribeiro;Designer;177;ruivo;True;14-04-1951;Nova York;9.290
+1730;ANA PEREIRA MOREIRA;Músico;1,70 m;PRETO;N;1959-05-17; BERLIM;5187
+1744;CAMILA GOMES MOREIRA;Chef de Cozinha;166;ruivo;N;1983-01-24;Cairo;76382
+1695;Beatriz Lopes Teixeira;MÉDICO;163;GRISALHO;Não;25/10/1994;Madrid;R$ 12.613
+1670; larissa vieira montes;MUSICO;170; loiro;N;1989-07-22;atenas;8900
+518;BEATRIZ RODRIGUES FERREIRA;MÉDICO;159;CASTANHO;no;1955-07-10; ROMA;R$ 13.497
+595;Thiago Teixeira Carvalho;Fotógrafo;1,58 m;castanho;nao;10/07/1969;Buenos Aires;R$24207
+1070;BRUNO FERNANDES NUNES;DESIGNER;159;loiro;Não;18/10/1952;istambul;R$ 8.785
+477;Gustavo Souza Vieira;ADVOGADO;159 cm;grisalho;yes;26.10.1968;Tóquio;52911
+158;Camila Souza Fernandes  ;Médico  ;178;castanho;falso;1986-02-28;Paris;10977
+1244;João Costa Pinto;JORNALISTA  ;176;preto;Sim;1991-02-06;Nova York;10576
+1196;Joao Ferreira Lima  ;PILOTO;177 cm;preto;NÃO;1970-02-19;BOGOTA;15028
+17;Lucas Araújo Pereira  ;guia turístico  ;167 cm;ruivo;False;20/03/1951;Nova York;19650
+1536;Jose Gomes Santos;contador;175 cm;castanho;S;08-09-2004;Lisboa  ;23.100
+1073;Patricia Teixeira Rocha; Chef de Cozinha;182 cm;RUIVO;nao;31/07/1954;Cairo;R$28538
+1999;Rodrigo Pereira Pinto; Guia Turístico;179;CASTANHO;no;15.07.1987;Bogotá;R$ 11.163
+547;gustavo  costa ribeiro;guia turístico;1,71 m;castanho;N;25-07-1976;lisboa;9.506
+1540; Rafael Mendes Araujo;Fotógrafo  ;1,76 m;CASTANHO  ;1;11.08.1997; Praga;R$ 14.334
+659;Maria Fernandes Gonçalves; engenheiro;160;PRETO;Não;1959-09-18;Cidade  do México;R$11253
+1657;Tatiane Carvalho Carvalho;piloto;1,77 m;loiro  ;no;1952-12-07;Praga  ;R$8889
+1020;Ana Ferreira Alves; médico;1,67 m;ruivo;Não;04-02-1988; Viena;32516
+1756;LUCAS SOUZA SILVA;JORNALISTA;175;grisalho;verdadeiro;25-05-1992;cairo;7.321
+1505;Fernanda Rodrigues Costa; chef de cozinha;184; preto;NÃO;19/04/1976;Madrid;R$ 8.843
+960;Ana Oliveira Gonçalves; Designer;169; preto;no;1991-01-26;buenos aires;11468
+1922;thiago  santos barbosa;Piloto;176 cm;ruivo;S;28-02-1977;ISTAMBUL;34497
+284;Fernanda Rodrigues Nunes;chef de cozinha;165;GRISALHO;False;01.10.1995;Berlim;R$ 11.449
+798;GUSTAVO MONTEIRO MARTINS;músico;180 cm; LOIRO;NÃO;05/02/2000;Cidade do México;R$ 12.995
+1658;Ana Araujo Araujo  ;Piloto;182 cm; preto;N;1991-06-22;CAIRO;R$27419
+226;EDUARDO COSTA NUNES;Piloto;173;grisalho;SIM;03.11.1953;Buenos Aires;7932
+27;Vanessa Cardoso Ferreira  ;Guia Turistico;158;PRETO  ;False;14/06/1970;Cairo;R$ 7.533
+1808;Pedro Alves Nunes;Piloto;182;ruivo;no;07.12.1967;VIENA;5.620
+438;PATRÍCIA OLIVEIRA RODRIGUES;jornalista;159;preto;NÃO;05-06-1975;Cairo;R$ 11.624
+1989;Fernanda Mendes Martins;PROFESSOR;174 cm;grisalho;N;29-05-1981; LISBOA;13974
+1389;CARLOS DIAS TEIXEIRA;advogado;165 cm; loiro;Não;28-02-1995;Praga;R$ 10.391
+230;LUCAS DIAS OLIVEIRA;Engenheiro;151 cm;GRISALHO;yes;1955-12-30;Istambul;40485
+38;FERNANDA MONTES FERNANDES; Chef de Cozinha;1,94 m;loiro;Sim;02-03-1977;BUENOS AIRES;8800
+750;Thiago Gonçalves Ribeiro;Musico;179;;NÃO;18.05.1972;nova york;10987
+1046;LARISSA  SANTOS PINTO;Chef de Cozinha;168;RUIVO;falso;10/07/1958;Viena;R$ 10.730
+1399;Thiago Costa Fernandes;ADVOGADO;1,67 m;preto  ;falso;23.09.1975;Viena;R$ 7.149
+470;Lucas  Barbosa Rocha;Chef de Cozinha;185;loiro;falso;16/08/2000;VIENA;10.783
+1727;Vanessa Gomes Oliveira;Jornalista;158 cm;RUIVO;N;14.02.1970;ISTAMBUL;R$18030
+1589;maria costa pinto;Engenheiro;165;ruivo;nao;28.02.1974;buenos aires;2478
+688;Carlos Rodrigues Teixeira  ;;169 cm;preto;yes;22.11.1962;cidade do méxico;10868
+1882;Patrícia Cardoso Araújo;fotógrafo;186;grisalho  ;NÃO;1964-04-26;Cidade do México;R$ 29.596
+640;Marcelo Martins Araujo;JORNALISTA;1,73 m;grisalho;falso;12/11/1978;nova york;8602
+1747;Maria Alves Souza;advogado;165;preto;Sim;02/03/1977;MADRID;R$ 5.976
+1219;pedro teixeira dias;Fotografo;167;LOIRO;N;24-11-1956; Praga;10988
+1159;ALINE  VIEIRA VIEIRA;Engenheiro;166; CASTANHO;NÃO;07/08/1993;Roma;174.857
+1416;JOÃO SILVA PINTO;Músico;181;grisalho;verdadeiro;19.07.1958;Toquio  ;8637
+1528;Fernanda Lopes Pinto;médico;167 cm;preto;NÃO;14.01.1990;Lisboa;R$ 48.704
+925;renata carvalho fernandes;Engenheiro;162;RUIVO  ;False;1963-04-22;BUENOS AIRES;R$ 27.614
+1301;João Montes Santos;Fotografo;161;loiro;N;09-12-1967;Praga;R$11275
+1861;Beatriz Souza Costa; Fotógrafo;1,58 m;CASTANHO;N;29/06/1950; CAIRO;R$14474
+801; Ana Carvalho Ribeiro;Professor  ;171;RUIVO;N;23.03.1973;Praga  ;5533
+1604;PEDRO SOUZA FERREIRA;Advogado;175;RUIVO;1;03.06.1966;PRAGA;R$18563
+161;Ana Silva Barbosa  ;Designer  ;179;loiro;Não;1967-02-26;Cairo;R$7342
+957;Fernanda Dias Pereira;DESIGNER;171;preto;NÃO;01-12-1953;BERLIM;19766
+1187;VANESSA RIBEIRO PEREIRA;Designer;161;PRETO;N;1955-10-14; Istambul;R$ 4.994
+822;Diego Souza Souza;advogado;187;GRISALHO;N;1969-06-30;Nova York;17613
+1786;renata costa lopes;MEDICO;149;GRISALHO  ;nao;1972-07-12;TÓQUIO;R$ 24.809
+878;Felipe Lopes Moreira;CONTADOR;1,69 m;loiro;NÃO;05.03.1953;CAIRO;110322
+914;Juliana Vieira Montes;guia turístico;172;PRETO;verdadeiro;08/08/1959;Praga;R$21879
+153;Sônia Pereira Gomes; Contador;163;preto;falso;1997-03-30;Nova York  ;14.549
+1875;Ana Araújo Oliveira;Fotógrafo;164;preto;no;10/10/1959;cidade do méxico;22026
+1814;Fernanda Pinto Oliveira;Advogado;184;preto;False;07.05.1958;Berlim;6199
+510;Beatriz Araújo Lima;Guia Turístico;182;CASTANHO;nao;03/11/1988;Roma;32730
+1136;Juliana Rodrigues Lima  ;Advogado;1,71 m;preto;yes;16-03-1960;Buenos Aires  ;R$4749
+1251;josé costa carvalho;Guia Turistico;165;grisalho  ;N;10.08.1964;PARIS;R$ 10.809
+1698; THIAGO FERREIRA SANTOS;Engenheiro;167;LOIRO;False;16/11/2002;atenas;R$ 36.203
+104;sônia ribeiro gonçalves;ADVOGADO  ;179;GRISALHO;0;1970-11-04;Lisboa;8995
+1446;VANESSA ALVES BARBOSA  ;ADVOGADO;173;LOIRO;False;18/09/1976;ATENAS;21934
+1444;ANDRÉ SANTOS FERREIRA  ;JORNALISTA;1,55 m;ruivo;no;05/06/1956; Cidade do México;7888
+1775;LUÍZA FERREIRA VIEIRA;Contador  ;177;preto;no;09.12.1969;Roma;36.924
+587;Rafael Souza Moreira;chef de cozinha;151; castanho;no;22-06-1988;Buenos Aires;R$15009
+1806;rodrigo cardoso vieira;designer;173;preto  ;falso;02/12/1995;Madrid;9647
+1144;CAMILA  CARDOSO SOUZA;Professor  ;185; GRISALHO;Não;24/05/1958;Viena  ;R$24412
+54;Maria Montes Dias; CHEF DE COZINHA;150 cm;RUIVO;0;23/11/1976;Cairo;R$ 21.315
+152;PEDRO  ALVES SILVA;engenheiro  ;164;LOIRO  ;NÃO;1986-03-11;ATENAS;R$ 49.359
+404;renata souza oliveira;Guia Turístico;163;RUIVO;nao;02/10/1972;Toquio;R$58266
+1983;Rodrigo Nunes Nunes  ;Fotografo;144 cm;;falso;24-07-1975;Tóquio;R$ 500
+208;Sonia Ferreira Gomes; professor;1,78 m;;Não;25.09.1987;Istambul;12591
+1935;LUCAS TEIXEIRA MOREIRA;Contador;173;PRETO  ;falso;12/02/2004;Tóquio;9061
+1683;Renata Pinto Costa; CHEF DE COZINHA;186;preto;0;1975-04-24;Berlim;28146
+1123;Thiago Araújo Gonçalves;Advogado;163;CASTANHO;falso;06/11/1979;Cidade do Mexico;R$16269
+1787;Aline Costa Lopes;Musico;172;grisalho;nao;12.01.1971;LISBOA;12765
+9;Rafael Ribeiro Mendes; Médico;162 cm;preto;falso;20-02-2000; Viena;2146
+1015;Ana Montes Teixeira;Musico;176;RUIVO;Sim;13/03/1953;Buenos Aires;5370
+1834;mônica gonçalves souza;chef de cozinha;177;ruivo;yes;17-07-2003; LISBOA;10078
+1061;Ana Teixeira Carvalho;PROFESSOR;1,69 m;ruivo;True;22/11/1984;viena;R$7410
+453;Juliana Ferreira Santos; Guia Turístico;1,68 m;LOIRO;Não;11.06.1958;paris;R$ 19.525
+1676;bruno rocha rocha  ;MÉDICO;160;grisalho;Não;20-06-2000;Istambul;4539
+254;Pedro Gonçalves Teixeira;Guia Turistico;156; grisalho;Não;2004-09-17;paris;14610
+1328; Felipe Gonçalves Rocha;jornalista;196;PRETO;N;16/12/1997;ATENAS;R$6873
+897;THIAGO FERNANDES BARBOSA  ;Guia Turístico;166 cm;castanho;1;26.06.1983; BERLIM;6.648
+1770;FERNANDA MONTES MONTEIRO;Engenheiro;173;RUIVO;N;29/04/1991;nova york;2899
+881;Monica Santos Lopes;CHEF DE COZINHA;181;GRISALHO;False;31.03.1961; Berlim;R$16650
+1596;Marcelo Gomes Ribeiro;Advogado;162;RUIVO;SIM;28.01.1988;Praga;8053
+1929;Rodrigo Santos Gonçalves;Piloto;176;loiro  ;falso;02/12/1978;viena  ;1217
+624;Vanessa Oliveira Ribeiro  ;engenheiro;1,84 m;CASTANHO;nao;1993-09-27; NOVA YORK;R$1011
+346;Rafael Martins Nunes;contador;1,59 m;preto;falso;1995-09-08;Cairo  ;R$ 8.532
+1737; CARLOS MENDES DIAS;Advogado;171 cm;preto;sim;1952-09-08;Madrid;15455
+263;mônica montes oliveira;Guia Turístico;185;RUIVO;0;20-10-1955;Viena;R$ 5.392
+1635;Ana Montes Nunes;Musico;186;castanho;no;25-06-1977;CAIRO;R$ 78.104
+1322;Luíza Carvalho Gomes  ;Jornalista;165;castanho;Não;16.05.1954;BOGOTA;R$17392
+1439;Camila Rodrigues Lima;Engenheiro;180;castanho;N;20.07.1983;Lisboa;R$ 4.801
+151;Ana Dias Lopes;Advogado;1,62 m;castanho  ;0;1994-01-18;Madrid  ;32727
+473;MARIA ALVES SOUZA;fotógrafo  ;1,61 m;ruivo;Sim;31.01.2001;ATENAS;R$ 5.740
+641;José Mendes Alves;Professor;158 cm;ruivo;yes;15/04/1965; Atenas;R$ 5.205
+481;Larissa Souza Teixeira;Musico;160;;1;07-09-1976;istambul;R$ 6.201
+1923;LARISSA COSTA COSTA;Chef de Cozinha;181;grisalho;verdadeiro;04.01.1963;Istambul;R$ 15.815
+551;CAMILA MONTEIRO MARTINS;chef de cozinha;171 cm;;1;29/09/1996;Tóquio;R$16213
+1817;Rodrigo Nunes Moreira;PROFESSOR;169; PRETO;NÃO;06/02/1975;Lisboa;14541
+929;André Mendes Rocha;Músico;172;LOIRO;falso;23-02-1969;roma  ;6437
+489;Jose Teixeira Rocha;PROFESSOR;148;castanho;0;05-12-1961;Lisboa;8801
+1850;THIAGO SOUZA CARVALHO;ADVOGADO;176;ruivo;True;16-06-1951;Madrid;R$8919
+1172;Jose Dias Vieira; Médico;177;GRISALHO;Sim;27.11.1982;Nova York;5.613
+147;Maria Lopes Teixeira;Musico;176;grisalho;False;2002-05-30;Lisboa;R$ 6.264
+1739;renata pinto lopes;jornalista;157;preto;Sim;30/08/1989;Paris;R$ 19.522
+1969;Juliana Martins Ferreira;Contador;181 cm;grisalho;0;1982-11-04;Buenos Aires;R$14358
+403;Diego Teixeira Martins  ;Médico;1,61 m;castanho;falso;10/09/1978;Istambul;14.139
+955;Mônica Fernandes Santos;;182; ruivo;nao;03/02/1973;Paris;2386
+1918;Rodrigo Gomes Oliveira;ENGENHEIRO;157;CASTANHO  ;no;06-02-1987; Cairo;R$ 84.746
+660;LARISSA DIAS ROCHA; Advogado;171;preto  ;N;11.05.1964;Madrid;21796
+1373;RODRIGO FERNANDES SILVA;advogado;186;castanho;nao;20-03-1982;Berlim;17439
+464;PATRICIA FERREIRA GONCALVES;Contador  ;161 cm;grisalho;no;12-11-2003;Cidade do México;R$ 13.594
+1350;Fernanda Mendes Monteiro; MEDICO;165;grisalho;0;1984-12-02;Toquio;R$28823
+187;bruno gomes ribeiro;Professor;175 cm;grisalho;falso;23.08.1972;Atenas;R$ 19.784
+1148;Pedro Costa Fernandes;Contador;177;loiro;no;1962-12-06;BOGOTA;13665
+1225; Gustavo Rocha Montes;Advogado  ;1,63 m; preto;no;03.08.1966;Paris;2.624
+609;Andre Cardoso Lima;Professor;178 cm;preto;False;03.05.1968;Istambul;R$ 24.379
+144;Beatriz Dias Mendes;Engenheiro;172;loiro;yes;09-12-1991;paris;3738
+752;EDUARDO FERREIRA NUNES  ;ADVOGADO;152 cm;castanho;Não;04-12-1980;Viena;14106
+1535;Rodrigo Pinto Souza;Professor;1,72 m; PRETO;nao;30/08/1974; Lisboa;15198
+982;Gustavo Lopes Pereira;Piloto;159;castanho  ;NÃO;1973-09-28;Istambul;R$19056
+198;tatiane moreira lima;piloto;169;RUIVO;nao;11-03-2002; Atenas;R$ 12.449
+1634;Carlos  Gomes Lima;Músico  ;181;loiro;S;03/12/1982;nova york;R$ 51.335
+884;Jose Martins Cardoso;Guia Turistico;1,59 m;preto;NÃO;11-12-1951;bogotá;3.713
+280;Fernanda Carvalho Lopes;Professor;162;castanho;1;12/09/1957;Atenas;69036
+294;luíza  martins teixeira;Musico;1,53 m;loiro;1;17.01.1977;Bogotá;R$17092
+1862;JULIANA MENDES ARAUJO;músico;1,78 m;loiro;Não;16-10-1956; lisboa;R$ 6.289
+401;MARCELO BARBOSA VIEIRA;GUIA TURISTICO;169 cm;RUIVO  ;0;1966-12-15;BOGOTA;14.174
+123;Beatriz Martins Ferreira  ;Musico;170;ruivo;N;16/01/2002; Paris;7262
+1208;Bruno Alves Ferreira;JORNALISTA;1,81 m;;N;1978-05-06;Cidade do México;R$ 3.188
+203;CARLOS MARTINS PINTO;ENGENHEIRO;158;grisalho;NÃO;07/09/1978;PRAGA;R$ 2.431
+1463;PATRICIA SOUZA PINTO;MÉDICO;1,68 m;CASTANHO;no;24-07-1976;Madrid;13105
+836;fernanda rodrigues nunes; GUIA TURÍSTICO;153;grisalho;N;16-07-1992;MADRID;R$ 14.988
+247;gustavo barbosa oliveira; Chef de Cozinha;157 cm;loiro;nao;27/07/1960;BOGOTA;R$ 6.156
+1440;RENATA SANTOS MONTES;Advogado;187 cm;PRETO;False;17/07/1969;Cairo  ;7139
+1734;luíza monteiro martins;Musico;162;loiro;Não;05-10-2004;Toquio;R$ 16.735
+1790;Pedro Araújo Pinto;PROFESSOR;173;preto;nao;22.05.1981;lisboa;R$12259
+1942;ALINE LOPES GONÇALVES;professor;180 cm;grisalho  ;NÃO;28.08.1978;CAIRO;R$ 23.739
+1708;Camila Oliveira Barbosa;MÚSICO;179; GRISALHO;0;1987-01-16;Nova York;R$28175
+1921;Larissa Mendes Costa;Medico;183;grisalho;1;21-07-1977;nova york;5386
+1154;Eduardo Costa Cardoso;Engenheiro;167;castanho;falso;1972-07-08;Bogotá;24808
+1662;andré ribeiro montes;ADVOGADO;166;preto;verdadeiro;1968-10-06;BOGOTA;45.150
+1427;renata araújo moreira;Designer  ;173;ruivo;1;13/06/1964;Istambul;R$ 5.413
+385;beatriz teixeira oliveira  ;médico;169;castanho;False;25.02.1997;Paris;13.475
+1795;Felipe Vieira Teixeira  ;Jornalista;161;castanho;no;30-05-1981;Nova York;14818
+1760;larissa dias gomes;Advogado  ;161;LOIRO;falso;15/05/1968; BUENOS AIRES;97727
+855;Beatriz Gonçalves Fernandes;Musico;155;loiro;Não;17.10.1965;MADRID;37520
+1590;Beatriz Souza Goncalves  ;fotógrafo  ;164;loiro;sim;18/09/2000;BOGOTÁ;7621
+220;DIEGO OLIVEIRA MARTINS;ADVOGADO;153;castanho;Não;10/08/1999;Istambul;R$ 10.325
+642;gustavo costa montes;Guia Turístico;163;ruivo;no;1983-12-03;MADRID;91.111
+2;JOSÉ PEREIRA RIBEIRO  ;engenheiro;1,75 m;loiro;nao;07-01-1956;Viena;11267
+113;Eduardo Araujo Araujo;DESIGNER;179;grisalho;nao;14-11-1994;Cairo;R$ 40.358
+699;Rafael Martins Lima;Fotografo;173;castanho;nao;12.07.1965;Praga;R$ 29.283
+1956;josé teixeira fernandes;ENGENHEIRO;168;RUIVO;nao;1986-06-07;Madrid;R$15660
+952; Eduardo Pereira Nunes;Advogado;161;GRISALHO;no;20.02.1971;ISTAMBUL;22315
+1649;camila lima oliveira;Professor;1,66 m; preto;sim;1977-05-03;Lisboa;21.742
+1637; marcelo moreira barbosa;Chef de Cozinha;160 cm;;S;29/12/1970;berlim;6073
+1785;Patrícia Ferreira Pinto; Contador;164; loiro;0;1967-12-31;BUENOS AIRES;5159
+1411; José Souza Vieira;ADVOGADO;1,75 m;GRISALHO;False;1950-04-06;CAIRO;R$ 8.464
+1410;Pedro Lima Mendes;Piloto;186 cm;ruivo;Sim;01/08/1991; bogotá;8963
+1534;Aline Ribeiro Ribeiro  ;FOTOGRAFO;166 cm;loiro;False;1960-06-19; Bogotá;8977
+1292;Ana Pereira Teixeira  ;;178;loiro;NÃO;10/02/1957;Cairo;R$ 31.918
+1847;Ana Silva Gomes;Designer;178 cm;ruivo;Não;26/09/1955;Paris;R$ 23.854
+442;Carlos Costa Alves;Jornalista;175;ruivo;no;02.07.1957;MADRID;10724
+1521; Beatriz Lopes Martins;FOTÓGRAFO;172 cm;preto;falso;1993-06-15; Praga;R$19691
+1137;BRUNO ARAÚJO PEREIRA  ;Contador;164;castanho;Não;06.11.1956;paris;R$ 13.039
+1716;Aline Ribeiro Oliveira;PILOTO;177;RUIVO;N;14.05.1968;Atenas;R$ 18.400
+1257;JOSE PEREIRA MARTINS;Guia Turistico;167;castanho;False;1966-01-15;MADRID;R$ 22.601
+1903;Carlos Vieira Cardoso;JORNALISTA;156;ruivo;no;1980-06-19;nova york;6414
+1632;lucas rocha dias;;179;loiro;nao;1953-08-18;BUENOS AIRES;R$ 6.903
+1696;RAFAEL ALVES NUNES;Músico;170;preto;no;1987-11-29;paris;5.865
+1398;Bruno  Santos Fernandes;GUIA TURÍSTICO;175 cm;preto;yes;28/05/1992;Toquio  ;13510
+664;Juliana Martins Lima;Jornalista;171;grisalho;Sim;10-06-1974;ATENAS;R$ 84.959
+1874;JOAO MARTINS CARDOSO;Advogado;181;CASTANHO;no;1985-07-04;istambul;67747
+1258;Bruno Ferreira Silva;;1,81 m;castanho  ;False;07-01-1987;Lisboa  ;38.929
+1811;Carlos Monteiro Araújo;fotógrafo  ;1,69 m;ruivo;Não;17/07/2004;Roma;43278
+1701; LUCAS RODRIGUES CARDOSO; Advogado;175;castanho;0;1982-05-28;paris;R$4567
+318;felipe monteiro cardoso;DESIGNER;149;PRETO;SIM;03-02-1992;CAIRO;R$ 1.812
+649;BEATRIZ FERREIRA SOUZA;Professor;185;castanho;Não;30.05.1952;Nova  York;R$38615
+1435;THIAGO GONCALVES ARAUJO  ;Piloto;177;castanho;False;29.04.1975;Berlim;4633
+1480;FELIPE MARTINS RIBEIRO;músico;158;preto;1;23-09-1976;Lisboa;R$ 11.735
+710;Luiza Carvalho Lima;Chef de Cozinha  ;162;loiro;no;19.04.1982;atenas;22499
+1383;Beatriz Ribeiro Lopes;DESIGNER;177 cm;loiro;0;2001-05-21;Viena;43.220
+1283;RODRIGO MONTES DIAS;Designer;164;GRISALHO;nao;01-07-2000;ROMA;R$21955
+1769;Carlos Costa Nunes;Contador;1,72 m;preto;NÃO;20/11/1961;tóquio;R$ 21.840
+973;Andre Barbosa Pereira;Jornalista;167;castanho;no;09/11/1967;bogotá;R$ 18.787
+628;Patricia Silva Lopes;Fotografo;185 cm;preto;verdadeiro;05-04-1989;Nova York;R$12985
+633;andré teixeira carvalho;Advogado  ;168;GRISALHO;0;1962-12-06;Atenas  ;R$10760
+1307; Rafael Araújo Cardoso; PILOTO;169 cm;castanho;verdadeiro;1956-09-15;tóquio;39807
+1401;joão carvalho dias;fotógrafo;175;GRISALHO;Sim;12/02/2001;Buenos Aires;9344
+1409; CARLOS VIEIRA FERNANDES;engenheiro;174;loiro;falso;07/03/1986;Nova York;3.368
+1249;Juliana Gomes Ferreira;piloto;165;grisalho  ;falso;05.04.1962;Atenas;6069
+1993;LUCAS  MOREIRA CARDOSO;GUIA TURÍSTICO;156;grisalho;sim;1980-07-15;Madrid;R$37321
+1255;Tatiane Vieira Lopes;Advogado  ;179 cm;GRISALHO;nao;1957-06-23;roma;11572
+1497;Gustavo  Martins Martins;Chef de Cozinha;164 cm;grisalho;Sim;1979-02-27;Paris  ;R$ 8.687
+1372; BEATRIZ FERREIRA CARDOSO;Advogado;1,70 m;grisalho;nao;2004-07-28;Bogota;R$ 18.424
+1530;Sonia Mendes Ferreira;Advogado;175; LOIRO;N;11-08-1977;BUENOS AIRES;R$8864
+1664;JULIANA ALVES CARDOSO;Fotógrafo;177;loiro;nao;29/06/2004;Roma;139143
+1355;Pedro Montes Martins  ;chef de cozinha;174;preto;0;1964-06-22;atenas;37.280
+1966;diego lopes gomes; Professor;168;RUIVO  ;S;2003-05-27;Lisboa;31215
+1941;Felipe Teixeira Carvalho;Músico;186;loiro;verdadeiro;1953-11-16;Lisboa  ;32840
+1644;CAMILA MENDES LIMA;músico;175 cm;ruivo;NÃO;28.01.1972;BERLIM  ;R$ 5.170
+1888;Renata Mendes Santos;;169 cm;GRISALHO;falso;23/08/1969;tóquio;R$ 1.228
+796;Rodrigo Ribeiro Goncalves;Músico;173;grisalho  ;N;24.11.1955;PRAGA;3021
+646;camila rocha teixeira;Jornalista;1,59 m;castanho;NÃO;1965-01-13;Lisboa;32280
+1013;Aline Moreira Rocha;Jornalista;187;ruivo  ;falso;2001-07-13;Bogotá;12504
+1878;CAMILA GOMES DIAS;Contador;154;ruivo  ;False;1972-06-18;Roma;3.283
+557;vanessa costa monteiro;Professor;1,74 m;PRETO;Não;26/12/1953;Paris;R$4456
+682;camila pinto teixeira;Fotografo;1,73 m;PRETO;NÃO;27/02/1989; Cairo;R$ 10.883
+578; VANESSA PINTO COSTA;chef de cozinha;149 cm;grisalho;falso;15/08/1959;Istambul  ;R$50105
+1820;Beatriz Carvalho Pinto;Guia Turístico;161 cm;castanho;NÃO;15/01/1990;Cidade do México;24529
+1110;luíza souza mendes;Fotógrafo;178;PRETO;False;14/02/1957;lisboa;R$10471
+1267;SONIA SANTOS LOPES;Designer  ;158;loiro;sim;19.08.1957;Praga;13239
+1723;Juliana  Dias Mendes; FOTÓGRAFO;1,79 m;castanho;S;03-12-1978;Roma;R$ 215.272
+1184; Patricia Araujo Dias;Medico  ;188;LOIRO;sim;1968-09-09;Istambul;5802
+525;GUSTAVO RODRIGUES SOUZA;Piloto  ;169;preto;Não;1965-08-01;Cairo;R$ 10.612
+1060;Tatiane Barbosa Martins;MUSICO;163;castanho;N;1962-07-07; Lisboa;13.156
+541;VANESSA MOREIRA DIAS;Chef de Cozinha  ;169;CASTANHO;0;1977-03-14;Berlim;21998
+1195;Fernanda Costa Lima  ;PILOTO;174;grisalho;no;13.12.1997;Paris;R$ 6.469
+1679;Andre Dias Nunes;Designer;175;GRISALHO;nao;19-11-1953;viena;10905
+749;TATIANE VIEIRA ROCHA;;161 cm;ruivo  ;NÃO;19.12.1982;Nova York;R$ 14.856
+1891;juliana cardoso moreira;PROFESSOR;179;LOIRO  ;Sim;1971-06-18; Cidade do Mexico;R$19133
+1431;CAMILA MOREIRA CARDOSO;chef de cozinha;164;preto;N;1957-08-30;CIDADE  DO MEXICO;R$ 3.743
+485;Marcelo Araújo Souza;DESIGNER;171;preto;yes;1972-06-11;Bogota;R$3471
+1758;felipe rocha santos;JORNALISTA;1,73 m;ruivo;falso;02.01.1952; NOVA YORK;R$ 5.065
+96; Pedro Dias Lima;Músico;161 cm;ruivo  ;Não;05-11-1990;VIENA;R$ 26.889
+1021;Gustavo Costa Gomes;Advogado  ;1,71 m;preto;False;29.09.1982;Roma;36149
+564;Felipe Teixeira Costa; Medico;170 cm;ruivo;0;19.01.1955;BOGOTA;R$38945
+1265; MARCELO LOPES LOPES;Contador;183;loiro;True;1966-11-17;BOGOTÁ  ;R$ 32.962
+743; fernanda barbosa rocha;PILOTO;1,78 m;grisalho;no;16.03.1993;paris;36846
+864;Andre Mendes Santos;Guia Turistico  ;171;grisalho;1;1952-07-20;Nova York;R$ 12.756
+1599;ANDRE VIEIRA MOREIRA;GUIA TURISTICO;161;castanho;nao;04-03-1971;Nova York;R$14150
+1715;Tatiane Fernandes Costa;Médico;179; GRISALHO;falso;02/06/1971;Istambul;R$ 4.041
+1485;Felipe Teixeira Pereira;fotógrafo;161;grisalho;SIM;1984-10-13;Viena;R$ 13.598
+892; Tatiane Nunes Gonçalves;Médico;170;preto;NÃO;27-03-1977;ISTAMBUL;16.366
+1578;Felipe Gomes Gonçalves;engenheiro;178;ruivo;sim;31/08/1990;berlim;9387
+1039;tatiane costa gonçalves;Jornalista  ;1,69 m;;False;01.04.1955;Atenas  ;R$31913
+207; FERNANDA VIEIRA CARVALHO;Contador;156;ruivo;sim;06.10.1988;Berlim;R$4868
+393;joão araújo costa;chef de cozinha  ;175;PRETO;N;19/04/1993;viena;R$ 3.122
+795;Diego Rodrigues Vieira;advogado;1,83 m;ruivo;0;26/10/1995;Nova York;R$7336
+871;Gustavo Vieira Pinto;professor;1,71 m;RUIVO  ;0;22-05-1998;Roma;14.227
+398;LUÍZA SANTOS GOMES;Engenheiro;182;grisalho;NÃO;12/02/1994;BERLIM;6.392
+767; larissa cardoso rodrigues;advogado;1,84 m;grisalho;verdadeiro;1980-03-29;Toquio;16.076
+1880;ana rodrigues gonçalves;Engenheiro  ;169 cm;loiro  ;NÃO;28.07.1979;CAIRO;R$ 8.976
+1242;Thiago Gonçalves Costa  ;Advogado;188;LOIRO  ;falso;2001-01-02;Cairo;16879
+1029;Mônica Ferreira Carvalho;Designer  ;159; ruivo;NÃO;30/04/1964; atenas;R$ 6.652
+1793;Lucas Pereira Rocha; Advogado;1,69 m;PRETO;NÃO;30/12/1955;Praga;58735
+643;André Gomes Montes;FOTÓGRAFO;177;loiro;0;1995-03-04;roma;R$ 2.216
+1932;VANESSA PEREIRA RODRIGUES;Chef de Cozinha;163;ruivo  ;N;16/09/1965;Buenos Aires;R$ 5.603
+613;Rafael Oliveira Souza;MÉDICO;184;PRETO;1;06.07.1982;Nova  York;4330
+1763;Fernanda Vieira Moreira; Medico;166;ruivo;no;20-01-1973;cairo;27480
+961;Mônica Alves Cardoso;ADVOGADO;171;loiro;Sim;09-05-1968;Paris;R$17988
+1571;Beatriz Fernandes Lopes;GUIA TURISTICO;176;grisalho;NÃO;12.07.1991;Nova York;53.277
+726;Aline Araújo Cardoso;Jornalista;175;preto;True;22/09/1960;Paris;2687
+684; lucas souza cardoso; Fotografo;159;ruivo;nao;05.09.1983;ROMA;14636
+99;Lucas Santos Gomes;Jornalista;176;ruivo;1;1958-03-05;Nova York;5.183
+805; Rodrigo Vieira Moreira;Fotografo;166;grisalho  ;Não;03.05.1957; Tóquio;37566
+1752;Bruno Barbosa Gonçalves;Designer;161;preto;falso;1992-05-02;berlim;19.635
+1598;Felipe Goncalves Martins;Designer;160;ruivo  ;SIM;23.07.2004; Roma;R$ 20.898
+407;Fernanda Moreira Rocha;Jornalista;181;preto;Não;21-06-1958;Atenas;11818
+503;PATRÍCIA ROCHA FERNANDES;guia turístico;175 cm;ruivo;Sim;07-11-1955;Viena;11365
+1072;RAFAEL PINTO TEIXEIRA;Advogado  ;178;RUIVO;False;24-09-1976;NOVA YORK;R$23565
+1057;José Souza Vieira  ;FOTOGRAFO;153 cm;castanho;N;20-05-1954;Atenas;R$ 31.850
+930;FELIPE ALVES MOREIRA  ;jornalista;164;RUIVO;falso;1962-04-15;Istambul;9614
+780;Juliana Oliveira Teixeira;Professor;173;grisalho  ;True;23/07/1992;Praga;R$ 6.142
+1864;LARISSA RIBEIRO MENDES;Piloto;185 cm;castanho;Sim;03-11-1979;Viena;19983
+201;Rodrigo Ferreira Monteiro; professor;171;loiro;Sim;28/09/1975;Bogotá;R$ 87.772
+135;mônica costa rocha  ; Piloto;174;grisalho;falso;26-03-1974;cidade do méxico;4015
+1052;Rodrigo Nunes Dias;piloto;1,67 m;grisalho;N;24/03/1951; Paris;20292
+41;MARIA GONÇALVES RIBEIRO;Chef de Cozinha;177;preto;NÃO;30.09.1959;Roma;6371
+1018;carlos souza fernandes; Advogado;158; castanho;Sim;10/06/1991;tóquio;6850
+231;Pedro Souza Fernandes;advogado;178 cm;ruivo;Não;07-04-1958;Viena  ;R$ 7.090
+1514;maria costa oliveira;Fotógrafo;162;grisalho;verdadeiro;31.05.1997;buenos aires  ;R$ 11.272
+1797;André Cardoso Gomes;contador;166;RUIVO;nao;23.07.1967;Berlim;17.723
+379;Helena Montenegro Teixeira;Guia Turístico;171;castanho;S;14-03-1989;Lisboa;R$31500
+289;gustavo pereira lima;Guia Turístico;156 cm;ruivo;falso;13/02/1954;TOQUIO;R$ 17.791
+419;Larissa Gomes Gonçalves;Jornalista;179;GRISALHO;yes;02/02/1970;Praga;R$29050
+1699;Aline Gomes Santos;;1,57 m;ruivo  ;yes;02/09/1989;Atenas;R$4655
+392;Ana Rodrigues Lima; Engenheiro;172;preto  ;yes;04-01-1973;ISTAMBUL  ;R$19452
+593;Marcelo Lima Mendes;Músico;166;GRISALHO;falso;28/02/1960;Berlim;R$ 6.478
+1523;andré martins silva;CHEF DE COZINHA;1,71 m;loiro  ;False;22.09.2004;Berlim;10.860
+1163;vanessa  costa carvalho;Jornalista;171;grisalho  ;NÃO;19/01/1981;Madrid;57215
+1087;RODRIGO PEREIRA SILVA;GUIA TURÍSTICO;161 cm; CASTANHO;SIM;10/03/1951;paris;R$8624
+1496;Rodrigo Montes Santos;Chef de Cozinha;175 cm;preto;0;17-06-2004;PARIS;7.114
+648;renata oliveira carvalho  ;Guia Turístico;171 cm;castanho;0;03-06-1985;Atenas;39.845
+1153;GUSTAVO GONÇALVES VIEIRA;Contador;1,67 m;grisalho;False;17-10-1978;Roma;R$ 3.265
+1368;BEATRIZ  OLIVEIRA RODRIGUES;Fotografo;170;castanho;NÃO;15.05.1995;Paris;20.052
+521;ANA  VIEIRA ALVES;;158;preto  ;Não;15/03/2001;PRAGA;6464
+1863; Camila Oliveira Monteiro;contador;1,65 m;;nao;1976-02-15;Lisboa;5313
+1881; Andre Mendes Fernandes; músico;189;loiro;0;23.02.1984;Atenas;R$10816
+65;MONICA GOMES MARTINS;Chef de Cozinha;1,66 m;loiro;False;01-05-2000; Tóquio;4602
+1837;Gustavo Fernandes Gonçalves; Guia Turístico;164;preto;sim;23/05/1963;Viena;R$ 3.991
+15;LUÍZA MARTINS RIBEIRO;Fotógrafo;173 cm;RUIVO;falso;26-04-1999;Bogota;R$ 6.042
+1181;Monica Cardoso Montes;Advogado;166 cm;castanho;falso;1997-01-31;Istambul;29.586
+1065;Ana Araujo Nunes;Contador;163 cm; ruivo;N;1983-12-15;praga;R$11209
+493; RENATA ROCHA RIBEIRO;chef  de cozinha;152;GRISALHO;Não;09.08.2004;Buenos Aires;40.117
+380;Pedro Teixeira Pinto;ADVOGADO;174; castanho;NÃO;1967-05-16;Madrid;R$ 11.118
+188;sônia oliveira moreira;MEDICO;1,66 m;loiro;Não;24/08/1954; Tóquio;R$23713
+764;Larissa Mendes Araujo;Contador;161 cm;loiro  ;SIM;1965-01-30;TÓQUIO;R$ 13.901
+217;Vanessa Rodrigues Ribeiro;Músico;163;PRETO;False;26-01-2002;Nova York;9508
+792;Renata Lima Alves;Jornalista;1,85 m;ruivo;nao;15-07-2004;CIDADE DO MEXICO;R$19989
+1077;LUCAS LOPES SOUZA;Medico;1,67 m;GRISALHO;S;01/09/1969;Viena;R$ 7.026
+879;Vanessa Ribeiro Moreira;Piloto  ;168 cm;grisalho  ;no;19-09-1976;Berlim  ;16.327
+338;Pedro Teixeira Rodrigues;Advogado;156;grisalho;False;17/04/1954;Berlim;13426
+1773;Tatiane Nunes Cardoso;GUIA TURISTICO  ;164;preto;nao;04/08/1950;Berlim;57875
+720;RENATA PEREIRA BARBOSA;fotógrafo;161;grisalho;nao;30/12/1991;Roma;R$ 30.259
+1749;José Gomes Barbosa;DESIGNER;173 cm;grisalho;SIM;1978-05-03;praga;1.670
+296;VANESSA VIEIRA NUNES;Designer;170; ruivo;False;20/08/1983; Praga;R$ 46.598
+1726; LUCAS RODRIGUES PEREIRA;Contador;172;GRISALHO;NÃO;1996-11-27;CAIRO;9094
+1017;FELIPE CARVALHO BARBOSA  ;PILOTO;189 cm;CASTANHO  ;True;13/09/1992;Atenas;28944
+1276; andré santos nunes;Professor;1,70 m;GRISALHO;nao;30/04/1960;Viena;934
+1751;MARCELO SANTOS PINTO;Designer;181 cm;loiro;1;14/03/1980;Viena;13.606
+1486;ALINE BARBOSA MOREIRA  ;MÉDICO;161;grisalho;falso;20.03.1969;Atenas;34615
+456;Tatiane Lima Oliveira;Guia Turístico;1,63 m;grisalho;verdadeiro;06/12/1987;lisboa;50.895
+847;Gustavo Pereira Teixeira;ADVOGADO;164;preto;yes;02-02-1955;paris;R$12653
+816;eduardo vieira alves;JORNALISTA;164;castanho;Não;25-10-1957;Bogotá;R$ 28.001
+1887;CARLOS SANTOS LOPES;Jornalista;158 cm;grisalho;Sim;28/10/1967;Cairo;5163
+270;Sônia Teixeira Fernandes;FOTOGRAFO  ;161;preto  ;True;11-05-1973;Cidade do Mexico;R$ 9.957
+996;sônia oliveira ferreira;Fotografo  ;1,81 m;LOIRO;no;30/06/1971;Madrid;R$ 13.777
+202;CAMILA CARDOSO MONTEIRO;Advogado;181;ruivo;NÃO;28/03/1952;Atenas;10813
+162;RODRIGO SILVA LIMA;Designer;167 cm;loiro;False;23-09-1971;BOGOTÁ;2.371
+1580;JOÃO CARVALHO RODRIGUES;Designer;170;preto;NÃO;13/02/2001;Madrid;3.552
+730;vanessa carvalho nunes;MÉDICO  ;161;grisalho;N;16/08/2001;Roma  ;3.172
+402;aline fernandes montes;piloto;163;RUIVO;falso;08/08/1998;Madrid;R$ 8.666
+703;FELIPE MOREIRA RODRIGUES;Professor;1,77 m;RUIVO  ;yes;12-01-1965; Paris;R$ 20.126
+1501;PATRÍCIA ARAÚJO ARAÚJO;Professor;153 cm;loiro;S;20-06-1994; atenas;42383
+1846;Jose Moreira Carvalho;músico  ;171;castanho;verdadeiro;24.05.2004;Berlim;R$ 22.501
+1796;mônica lopes lopes;Advogado;1,69 m;LOIRO;yes;21/01/1967; viena;47.416
+1130;Aline Carvalho Oliveira;ENGENHEIRO;168; castanho;nao;01-01-1966;ATENAS;84.447
+566;Sônia Martins Alves;Advogado;186;preto;True;30-01-1980;bogotá;12.883
+1414;marcelo  ferreira teixeira;CHEF DE COZINHA;173;preto;Sim;18-03-1964;Roma;R$ 18.020
+1022;DIEGO MOREIRA PINTO  ;médico;173;grisalho  ;no;15-07-2003; PRAGA;11.974
+1026;patrícia mendes rodrigues  ;;171;ruivo;nao;23.03.1962;BERLIM;R$ 62.036
+1412;Lucas Martins Teixeira;Jornalista;1,60 m;GRISALHO;no;10-12-1951;lisboa;R$ 7.883
+1896;TATIANE NUNES RODRIGUES;Contador  ;173 cm;castanho;NÃO;01-01-1965;VIENA  ;R$ 5.596
+1586;Camila Gomes Alves;Chef de Cozinha  ;175 cm;LOIRO;no;02.08.1958;PRAGA;4036
+1105;Vanessa Pinto Alves;Chef de Cozinha;174;castanho;nao;22-06-1966;Cairo;R$ 18.893
+206;Mônica Rocha Costa;Fotógrafo;149;RUIVO;verdadeiro;1952-07-18;Istambul  ;3488
+35; DIEGO OLIVEIRA MONTES;PROFESSOR;172;castanho;sim;28/10/1955;Cairo;5956
+776;Marcelo Ferreira Souza;Professor;191;castanho;False;20.01.1990;Viena;R$ 48.256
+509;Rodrigo Carvalho Araújo  ;Guia Turistico;158;grisalho  ;NÃO;13-09-1978;Paris;R$12294
+1452;Larissa Rodrigues Costa;Advogado;173;loiro  ;sim;19/10/1967;nova york;8.155
+1479; Fernanda Nunes Rodrigues;Engenheiro;1,80 m;castanho;falso;08.02.1985;ISTAMBUL  ;R$4083
+57;VANESSA BARBOSA ROCHA  ;fotógrafo;146;ruivo;1;05.04.1968;Cairo;12762
+1391;Maria Martins Santos;Jornalista;164;grisalho;no;24-02-1965;Paris;184023
+92;ALINE MONTES PINTO  ;jornalista;169;preto;nao;25-02-1985;MADRID  ;12735
+1364;André Martins Mendes;médico;164;loiro  ;0;1991-08-30;Atenas;3462
+898;Pedro Goncalves Dias;Piloto;1,78 m; ruivo;0;14-11-1954;buenos aires;12685
+565;José Lopes Monteiro  ;Chef de Cozinha;184 cm; preto;yes;02/05/1970;Viena;14630
+1370;Sonia Rodrigues Rodrigues;Músico  ;1,58 m;loiro;0;30-01-1982;Nova York;10174
+777;ALINE PINTO NUNES;Médico;183 cm;LOIRO;falso;1982-05-16;Atenas;R$ 26.154
+242;RODRIGO MONTES MARTINS;Jornalista;1,68 m;preto;no;13/04/1951;BUENOS AIRES;24376
+14;Rafael Lopes Gomes;Engenheiro;187;castanho;0;06/07/1957;Viena;10786
+316;José Vieira Moreira;;171;LOIRO;True;2000-06-24;PARIS;20.200
+601;Maria Monteiro Lima;MÚSICO;171;grisalho;1;1950-11-05;Atenas;6157
+388; CAMILA PINTO CARVALHO;MEDICO;1,68 m;loiro;verdadeiro;28/03/1950;Istambul;8.495
+1298;Aline Martins Araujo  ;Professor;171 cm;preto;NÃO;23.06.1981;Bogota;R$ 5.043
+167;Tatiane Teixeira Cardoso;Piloto;180;preto;N;09.03.1981;Bogota;11.884
+841;THIAGO BARBOSA CARVALHO;Fotógrafo;186; LOIRO;Não;20.04.1964;MADRID;12.635
+21;THIAGO CARDOSO MENDES; Musico;160 cm;preto;falso;07-11-1979;Viena;14.586
+647;Rafael Nunes Gonçalves;Contador;1,74 m;ruivo;falso;04.04.1957;Viena;R$ 11.963
+1843;Marcelo Gonçalves Carvalho;Engenheiro;185;loiro;Sim;12.09.1984;nova york;23.851
+1509;Eduardo Moreira Montes  ;contador;173;castanho;Não;1983-10-15; Cidade do México;R$17721
+1155;Patrícia Silva Carvalho;Designer;168;preto;NÃO;07-08-1973;Buenos Aires;R$ 9.504
+1529;PATRÍCIA MONTEIRO SILVA;Contador;181;ruivo;True;1999-04-15;Nova York;3.731
+832; CAMILA SILVA MENDES;PROFESSOR  ;1,62 m;grisalho  ;SIM;21.12.1966;Paris;9685
+1268;André Martins Gonçalves  ;Medico;1,61 m;ruivo;False;04-09-1965;Bogotá;R$ 21.168
+1591;Juliana Dias Lopes;PROFESSOR  ;1,58 m;grisalho;verdadeiro;11/10/1950; Cidade do México;R$10557
+1900; Eduardo Gomes Fernandes;FOTÓGRAFO;173;PRETO;verdadeiro;15-04-1993;nova york;R$ 7.672
+563;Thiago  Fernandes Ferreira;piloto;166;ruivo;1;13.09.1960;Istambul;R$ 16.597
+1992;Sônia Gonçalves Lopes;Professor;161;CASTANHO;no;1977-10-06;Lisboa;R$ 10.739
+687;BRUNO GONÇALVES TEIXEIRA;Guia Turístico;186;loiro;no;14/06/1951;lisboa;R$ 5.722
+958;JULIANA MOREIRA LIMA;Contador;161; GRISALHO;False;04/05/1970;Cairo;11588
+190;MARIA MONTES GONÇALVES;CONTADOR;169;loiro;0;19.12.1962;MADRID;13.487
+1807;Fernanda Rodrigues Gomes;Contador;172;ruivo  ;False;14-03-1962;NOVA YORK;R$ 8.022
+976;DIEGO BARBOSA MONTEIRO;Advogado;164;grisalho;no;21/02/1997;Berlim;42007
+700;Luíza Lima Rodrigues; PILOTO;188 cm;loiro;Sim;1959-04-12;Nova York;31253
+1500;Bruno Santos Carvalho;Guia Turístico;171;ruivo;S;22.04.1979;Atenas;8038
+1706;Gustavo Fernandes Barbosa; PILOTO;175 cm;grisalho;S;12/03/1977;ATENAS;21891
+511;gustavo silva santos;MÚSICO;1,76 m;preto;sim;06-07-1994;Bogota;R$3900
+1083;Monica Souza Teixeira;PILOTO;1,75 m;preto;N;04-01-1987;PRAGA;R$ 48.107
+475;Larissa Pinto Monteiro;;1,74 m;castanho;1;20-01-1979; Berlim;R$ 18.265
+1585;Joao Cardoso Rodrigues  ;contador;171;castanho;Não;08-11-1960;Roma;60727
+857;Renata Barbosa Silva;PILOTO;1,76 m;castanho;nao;30.12.1965;Paris;93227
+748; sônia gonçalves monteiro;Piloto;173;GRISALHO;Não;1965-08-17;BUENOS AIRES;4.415
+253;Luíza Alves Ferreira;Jornalista;153;ruivo;NÃO;23.10.1954;Madrid;R$15458
+22;Fernanda Gomes Lopes;Advogado;151;PRETO;Não;1973-11-23;PRAGA  ;R$ 28.593
+1338;Carlos Oliveira Carvalho;CHEF DE COZINHA;1,74 m;loiro;0;1975-05-17;cairo;R$ 86.619
+460;Gustavo Araujo Moreira;;179;grisalho;1;25-01-1966;Bogotá;R$ 7.642
+1185;MÔNICA ALVES DIAS;advogado;166;castanho;Não;02-12-1985;ATENAS  ;18346
+277;Eduardo Dias Teixeira;Musico;158;grisalho;1;11-07-1984;PARIS  ;1659
+956;Mônica Santos Teixeira;Jornalista;174;castanho;N;25-09-1953;praga;39.227
+1216;Renata  Souza Souza;Piloto;164;castanho  ;falso;01.06.1976;CIDADE DO MÉXICO;R$ 3.932
+386;PEDRO CARDOSO FERNANDES; Chef de Cozinha;1,73 m;loiro;nao;12/08/2001;Viena;R$ 19.685
+806; Juliana Dias Pinto;médico;171;ruivo;S;1961-11-04;roma;R$2508
+1438; THIAGO ALVES MOREIRA;CONTADOR;166;preto;NÃO;02-03-1953;praga;R$33650
+1516;José Fernandes Ferreira;CONTADOR;170;CASTANHO;verdadeiro;08-05-1981;Istambul  ;R$7671
+344;Larissa Costa Barbosa;Designer  ;160;castanho  ;N;1963-11-28; Madrid;10813
+770;JOÃO ALVES FERNANDES;designer;1,71 m;GRISALHO;Não;07.02.2001; Berlim;R$ 27.202
+1333;VANESSA FERNANDES CARVALHO;Professor;173;grisalho;N;25/05/1995;Berlim;R$13505
+1686;ana rocha nunes;jornalista;1,71 m;preto;no;1957-04-14;PARIS;R$ 12.994
+131;Jose Gomes Moreira;Advogado;165;preto;nao;2004-10-03;Atenas;R$19382
+1688; Carlos Mendes Gomes;Guia Turístico;1,84 m;CASTANHO;1;1957-09-01;Cairo;10.684
+872;Sônia Pereira Pereira;Professor;1,66 m;ruivo;N;07/12/1955;Istambul;15584
+1124;LARISSA RIBEIRO RODRIGUES;Músico;161 cm;castanho  ;falso;14/05/1962;ISTAMBUL;88235
+1397;André Araújo Lopes;JORNALISTA;161;ruivo;nao;22/04/1958;Madrid;12703
+88; José Moreira Ferreira;Medico;174;ruivo  ;nao;1962-02-27;buenos aires;R$ 69.745
+1483;larissa vieira monteiro;Médico;174;castanho;True;21-04-2000;buenos aires  ;R$11843
+331;Maria Ferreira Martins;PILOTO;176;ruivo;no;02/06/1965;BERLIM;R$13298
+1239;Lucas Vieira Teixeira;Chef de Cozinha;171;loiro;Não;09.02.1996;Cidade do México;23.561
+467;Rodrigo Silva Cardoso;Contador;171 cm; loiro;nao;06-07-1961;Istambul;12.698
+122;LARISSA GONÇALVES GONÇALVES  ;engenheiro;160;grisalho;N;16.05.1970;Roma;13.882
+1639;Larissa Ribeiro Cardoso;Advogado  ;170 cm;CASTANHO;nao;30-03-1971;madrid;R$ 3.313
+1045;mônica moreira rodrigues  ;DESIGNER;167;grisalho;Não;09-04-1953;Buenos Aires;R$ 8.137
+1725;Tatiane Santos Teixeira;GUIA TURISTICO;165 cm;castanho;no;09/04/1957;Lisboa;12626
+1096;Rafael Cardoso Gomes;médico;1,77 m;grisalho;no;03.04.1953;berlim;12829
+1131;Bruno Rodrigues Carvalho;músico;153 cm; castanho;falso;12.12.1991;CIDADE DO MÉXICO;1.124
+1295;marcelo lopes carvalho;Guia Turistico;1,58 m;ruivo;N;21/05/1971;roma;11937
+861;Larissa Carvalho Mendes;Guia Turístico  ;185; preto;Sim;1979-05-01;Nova York;R$42313
+1460;Eduardo Mendes Araujo  ;GUIA TURISTICO;173;castanho;yes;02.06.1966;VIENA  ;R$ 61.135
+1127; VANESSA ALVES PEREIRA; contador;183;GRISALHO;True;27.07.1979; Atenas;R$65957
