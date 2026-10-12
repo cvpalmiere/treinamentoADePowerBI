@@ -1,9 +1,9 @@
 import "dotenv/config";
-import { defineConfig, env } from "prisma/config";
+import { defineConfig } from "prisma/config";
 
 export default defineConfig({
-  schema: "exercicios/01-carmem-sandiego/gabarito/schema.prisma",
+  schema: "prisma/schema.prisma",
   datasource: {
-    url: env("DATABASE_URL"),
+    url: process.env["DATABASE_URL_UNPOOLED"] ?? process.env["DATABASE_URL"],
   },
 });

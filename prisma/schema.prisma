@@ -1,0 +1,17 @@
+datasource db {
+  provider = "postgresql"
+}
+
+model Suspeitos {
+  id                  Int       @id
+  nome                String
+  profissao           String?
+  altura_cm           Int?
+  cor_cabelo          String?
+  tem_tatuagem        Boolean?
+  data_nascimento     DateTime? @db.Date
+  ultima_cidade       String?
+  valor_gasto_viagens Int?
+
+  @@map("suspeitos")
+}

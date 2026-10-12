@@ -5,3 +5,8 @@ node_modules/
 .DS_Store
 ~$*.xlsx
 *.tmp
+/generated/prisma
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
