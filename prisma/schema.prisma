@@ -2,6 +2,7 @@ datasource db {
   provider = "postgresql"
 }
 
+// Exercicio 01 - Carmem Sandiego
 model Suspeitos {
   id                  Int       @id
   nome                String
@@ -14,4 +15,27 @@ model Suspeitos {
   valor_gasto_viagens Int?
 
   @@map("suspeitos")
+}
+
+// Exercicio 02 - Painel de inflacao (IPCA / IBGE)
+model DimGrupo {
+  id_grupo     Int          @id
+  codigo_sidra Int          @unique
+  nome         String
+  ipca_mensal  IpcaMensal[]
+
+  @@map("dim_grupo")
+}
+
+model IpcaMensal {
+  mes         DateTime @db.Date
+  id_grupo    Int
+  var_mensal  Decimal? @db.Decimal(8, 2)
+  var_ano     Decimal? @db.Decimal(8, 2)
+  var_12m     Decimal? @db.Decimal(8, 2)
+  peso_mensal Decimal? @db.Decimal(8, 4)
+  grupo       DimGrupo @relation(fields: [id_grupo], references: [id_grupo])
+
+  @@id([mes, id_grupo])
+  @@map("ipca_mensal")
 }
